@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Pill Badge",
+  "slug": "gradient-pill-badge",
+  "description": "A modern interactive Gradient Pill Badge component.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "gradient",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

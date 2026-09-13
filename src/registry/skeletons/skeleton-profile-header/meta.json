@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Profile Header",
+  "slug": "skeleton-profile-header",
+  "description": "A modern interactive Skeleton Profile Header component.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "profile",
+    "header"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

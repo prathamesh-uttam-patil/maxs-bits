@@ -1,0 +1,16 @@
+{
+  "name": "Rainbow Glow Button",
+  "slug": "rainbow-glow-btn",
+  "description": "A modern interactive Rainbow Glow Button component.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "rainbow",
+    "glow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

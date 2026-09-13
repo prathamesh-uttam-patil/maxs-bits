@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Chat Bubbles",
+  "slug": "skeleton-chat-bubbles",
+  "description": "A modern interactive Skeleton Chat Bubbles component.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "chat",
+    "bubbles"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Announcement Top Bar",
+  "slug": "announcement-top-bar",
+  "description": "A modern interactive Announcement Top Bar component.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "announcement",
+    "bar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Laser Line Loader",
+  "slug": "laser-line-loader",
+  "description": "A modern interactive Laser Line Loader component.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "laser",
+    "line"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

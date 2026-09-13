@@ -1,0 +1,16 @@
+{
+  "name": "Glow Contour Card",
+  "slug": "glow-contour-card",
+  "description": "A modern interactive Glow Contour Card component.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "glow",
+    "contour"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

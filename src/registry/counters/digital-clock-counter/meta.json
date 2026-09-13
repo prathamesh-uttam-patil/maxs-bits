@@ -1,0 +1,16 @@
+{
+  "name": "Digital Clock Counter",
+  "slug": "digital-clock-counter",
+  "description": "A modern interactive Digital Clock Counter component.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "digital",
+    "clock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

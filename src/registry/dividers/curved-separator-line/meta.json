@@ -1,0 +1,16 @@
+{
+  "name": "Curved Separator Line",
+  "slug": "curved-separator-line",
+  "description": "A modern interactive Curved Separator Line component.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "curved",
+    "line"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

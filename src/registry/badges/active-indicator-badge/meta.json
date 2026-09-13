@@ -1,0 +1,16 @@
+{
+  "name": "Active Indicator Badge",
+  "slug": "active-indicator-badge",
+  "description": "A modern interactive Active Indicator Badge component.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "active",
+    "indicator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

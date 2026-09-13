@@ -1,0 +1,16 @@
+{
+  "name": "Ping Status Badge",
+  "slug": "ping-status-badge",
+  "description": "A modern interactive Ping Status Badge component.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "ping",
+    "status"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

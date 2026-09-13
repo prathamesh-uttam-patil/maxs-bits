@@ -83,9 +83,8 @@ export default function HomePage() {
           <HeroHeadline />
 
           {/* Subtitle */}
-          <p className="text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed">
-            A curated collection of animated, interactive & fully customizable
-            React components. Browse, preview, and ship stunning UIs in minutes.
+          <p className="text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed font-medium">
+            Premium interactions without the premium effort.
           </p>
 
           {/* CTA Buttons */}

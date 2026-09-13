@@ -1,0 +1,16 @@
+{
+  "name": "Video Preview Modal",
+  "slug": "video-preview-modal",
+  "description": "A modern interactive Video Preview Modal component.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "video",
+    "preview"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

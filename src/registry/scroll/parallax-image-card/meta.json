@@ -1,0 +1,16 @@
+{
+  "name": "Parallax Image Card",
+  "slug": "parallax-image-card",
+  "description": "A modern interactive Parallax Image Card component.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "parallax",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Glass Dock Tabs",
+  "slug": "glass-dock-tabs",
+  "description": "A modern interactive Glass Dock Tabs component.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "glass",
+    "dock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Stats Grid",
+  "slug": "skeleton-stats-grid",
+  "description": "A modern interactive Skeleton Stats Grid component.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "stats",
+    "grid"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

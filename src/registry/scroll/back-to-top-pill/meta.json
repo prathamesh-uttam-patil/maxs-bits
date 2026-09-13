@@ -1,0 +1,16 @@
+{
+  "name": "Back To Top Pill",
+  "slug": "back-to-top-pill",
+  "description": "A modern interactive Back To Top Pill component.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "top",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

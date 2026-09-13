@@ -1,0 +1,16 @@
+{
+  "name": "Corner Popup Toast",
+  "slug": "corner-popup-toast",
+  "description": "A modern interactive Corner Popup Toast component.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "corner",
+    "toast"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

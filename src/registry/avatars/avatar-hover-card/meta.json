@@ -1,0 +1,16 @@
+{
+  "name": "Avatar Hover Card",
+  "slug": "avatar-hover-card",
+  "description": "A modern interactive Avatar Hover Card component.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "hover",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Scroll Snap Carousel",
+  "slug": "scroll-snap-carousel",
+  "description": "A modern interactive Scroll Snap Carousel component.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "snap",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

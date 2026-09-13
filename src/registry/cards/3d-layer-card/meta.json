@@ -1,0 +1,16 @@
+{
+  "name": "3D Layer Card",
+  "slug": "3d-layer-card",
+  "description": "A modern interactive 3D Layer Card component.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "3d",
+    "layer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

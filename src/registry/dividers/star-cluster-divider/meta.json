@@ -1,0 +1,16 @@
+{
+  "name": "Star Cluster Divider",
+  "slug": "star-cluster-divider",
+  "description": "A modern interactive Star Cluster Divider component.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "star",
+    "cluster"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Glow Keyboard Shortcut",
+  "slug": "glow-keyboard-shortcut",
+  "description": "A modern interactive Glow Keyboard Shortcut component.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "glow",
+    "shortcut"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

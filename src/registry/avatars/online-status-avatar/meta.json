@@ -1,0 +1,16 @@
+{
+  "name": "Online Status Avatar",
+  "slug": "online-status-avatar",
+  "description": "A modern interactive Online Status Avatar component.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "status",
+    "online"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

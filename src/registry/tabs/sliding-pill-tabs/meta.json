@@ -1,0 +1,16 @@
+{
+  "name": "Sliding Pill Tabs",
+  "slug": "sliding-pill-tabs",
+  "description": "A modern interactive Sliding Pill Tabs component.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "pill",
+    "sliding"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

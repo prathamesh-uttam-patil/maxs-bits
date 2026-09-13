@@ -1,0 +1,16 @@
+{
+  "name": "Isometric Cube Grid",
+  "slug": "isometric-cube-grid",
+  "description": "A modern interactive Isometric Cube Grid component.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "isometric",
+    "grid"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Milestone Card Timeline",
+  "slug": "milestone-card-timeline",
+  "description": "A modern interactive Milestone Card Timeline component.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "milestone",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

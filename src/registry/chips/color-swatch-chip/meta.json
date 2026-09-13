@@ -1,0 +1,16 @@
+{
+  "name": "Color Swatch Chip",
+  "slug": "color-swatch-chip",
+  "description": "A modern interactive Color Swatch Chip component.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "color",
+    "swatch"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

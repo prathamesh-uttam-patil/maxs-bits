@@ -1,0 +1,16 @@
+{
+  "name": "Code Snippet Card",
+  "slug": "code-snippet-card",
+  "description": "A modern interactive Code Snippet Card component.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "code",
+    "snippet"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

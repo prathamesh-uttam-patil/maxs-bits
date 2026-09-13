@@ -1,0 +1,16 @@
+{
+  "name": "Circular Countdown Clock",
+  "slug": "circular-countdown-clock",
+  "description": "A modern interactive Circular Countdown Clock component.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "countdown",
+    "clock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

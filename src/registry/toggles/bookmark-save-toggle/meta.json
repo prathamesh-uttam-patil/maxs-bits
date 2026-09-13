@@ -1,0 +1,16 @@
+{
+  "name": "Bookmark Save Toggle",
+  "slug": "bookmark-save-toggle",
+  "description": "A modern interactive Bookmark Save Toggle component.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "bookmark",
+    "save"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

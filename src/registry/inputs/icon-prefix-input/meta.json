@@ -1,0 +1,16 @@
+{
+  "name": "Icon Prefix Input",
+  "slug": "icon-prefix-input",
+  "description": "A modern interactive Icon Prefix Input component.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "icon",
+    "prefix"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

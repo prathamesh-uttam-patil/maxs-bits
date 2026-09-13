@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Banner Notice",
+  "slug": "gradient-banner-notice",
+  "description": "A modern interactive Gradient Banner Notice component.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "gradient",
+    "notice"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

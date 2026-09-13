@@ -1,0 +1,16 @@
+{
+  "name": "Expand Drawer Toggle",
+  "slug": "expand-drawer-toggle",
+  "description": "A modern interactive Expand Drawer Toggle component.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "drawer",
+    "expand"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Neon Flicker Text",
+  "slug": "neon-flicker-text",
+  "description": "A modern interactive Neon Flicker Text component.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "neon",
+    "flicker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

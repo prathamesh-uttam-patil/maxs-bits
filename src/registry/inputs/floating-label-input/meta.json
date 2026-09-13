@@ -1,0 +1,16 @@
+{
+  "name": "Floating Label Input",
+  "slug": "floating-label-input",
+  "description": "A modern interactive Floating Label Input component.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "floating",
+    "label"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

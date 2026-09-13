@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Video Player",
+  "slug": "skeleton-video-player",
+  "description": "A modern interactive Skeleton Video Player component.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "video",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

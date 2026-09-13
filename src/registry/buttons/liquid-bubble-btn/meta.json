@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Bubble Button",
+  "slug": "liquid-bubble-btn",
+  "description": "A modern interactive Liquid Bubble Button component.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "liquid",
+    "bubble"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

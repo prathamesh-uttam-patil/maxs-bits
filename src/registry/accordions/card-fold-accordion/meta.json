@@ -1,0 +1,16 @@
+{
+  "name": "Card Fold Accordion",
+  "slug": "card-fold-accordion",
+  "description": "A modern interactive Card Fold Accordion component.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "card",
+    "fold"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

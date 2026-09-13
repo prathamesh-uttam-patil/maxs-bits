@@ -1,0 +1,16 @@
+{
+  "name": "Slider Toggle Switch",
+  "slug": "slider-toggle-switch",
+  "description": "A modern interactive Slider Toggle Switch component.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "slider",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Audio Mute Toggle",
+  "slug": "audio-mute-toggle",
+  "description": "A modern interactive Audio Mute Toggle component.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "audio",
+    "mute"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

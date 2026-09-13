@@ -1,0 +1,16 @@
+{
+  "name": "Minimal Arrow Pagination",
+  "slug": "minimal-arrow-pagination",
+  "description": "A modern interactive Minimal Arrow Pagination component.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "arrow",
+    "minimal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

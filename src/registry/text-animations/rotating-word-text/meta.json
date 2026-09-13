@@ -1,0 +1,16 @@
+{
+  "name": "Rotating Word Text",
+  "slug": "rotating-word-text",
+  "description": "A modern interactive Rotating Word Text component.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "rotating",
+    "word"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

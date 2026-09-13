@@ -1,0 +1,16 @@
+{
+  "name": "Tree Hierarchy Accordion",
+  "slug": "tree-hierarchy-accordion",
+  "description": "A modern interactive Tree Hierarchy Accordion component.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "tree",
+    "hierarchy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

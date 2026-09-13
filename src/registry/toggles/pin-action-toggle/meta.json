@@ -1,0 +1,16 @@
+{
+  "name": "Pin Action Toggle",
+  "slug": "pin-action-toggle",
+  "description": "A modern interactive Pin Action Toggle component.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "pin",
+    "action"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

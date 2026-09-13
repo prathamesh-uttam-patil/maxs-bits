@@ -1,0 +1,16 @@
+{
+  "name": "Initials Color Avatar",
+  "slug": "initials-color-avatar",
+  "description": "A modern interactive Initials Color Avatar component.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "initials",
+    "color"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Border Beam Button",
+  "slug": "border-beam-btn",
+  "description": "A modern interactive Border Beam Button component.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "beam",
+    "border"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

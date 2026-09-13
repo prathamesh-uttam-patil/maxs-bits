@@ -1,0 +1,16 @@
+{
+  "name": "Number Pill Badge",
+  "slug": "number-pill-badge",
+  "description": "A modern interactive Number Pill Badge component.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "number",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

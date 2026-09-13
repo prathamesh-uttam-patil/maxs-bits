@@ -1,0 +1,16 @@
+{
+  "name": "Zigzag Pattern Divider",
+  "slug": "zigzag-pattern-divider",
+  "description": "A modern interactive Zigzag Pattern Divider component.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "zigzag",
+    "pattern"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

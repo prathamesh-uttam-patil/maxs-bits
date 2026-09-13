@@ -1,0 +1,16 @@
+{
+  "name": "Metric Stats Ticker",
+  "slug": "metric-stats-ticker",
+  "description": "A modern interactive Metric Stats Ticker component.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "metric",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

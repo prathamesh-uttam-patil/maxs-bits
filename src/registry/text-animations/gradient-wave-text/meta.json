@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Wave Text",
+  "slug": "gradient-wave-text",
+  "description": "A modern interactive Gradient Wave Text component.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "wave",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

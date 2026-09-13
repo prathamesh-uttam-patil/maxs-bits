@@ -1,0 +1,16 @@
+{
+  "name": "Update Ready Snackbar",
+  "slug": "update-ready-snackbar",
+  "description": "A modern interactive Update Ready Snackbar component.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "update",
+    "snackbar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

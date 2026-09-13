@@ -1,0 +1,16 @@
+{
+  "name": "Blur Slide Reveal",
+  "slug": "blur-slide-reveal",
+  "description": "A modern interactive Blur Slide Reveal component.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "blur",
+    "slide"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

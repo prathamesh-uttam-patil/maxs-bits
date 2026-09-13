@@ -1,0 +1,16 @@
+{
+  "name": "Avatar Preview Tooltip",
+  "slug": "avatar-preview-tooltip",
+  "description": "A modern interactive Avatar Preview Tooltip component.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "avatar",
+    "preview"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Icon Grid Tabs",
+  "slug": "icon-grid-tabs",
+  "description": "A modern interactive Icon Grid Tabs component.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "grid",
+    "icons"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

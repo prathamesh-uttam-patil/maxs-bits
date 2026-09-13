@@ -1,0 +1,16 @@
+{
+  "name": "Sponsor Wall Marquee",
+  "slug": "sponsor-wall-marquee",
+  "description": "A modern interactive Sponsor Wall Marquee component.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "sponsor",
+    "wall"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Double Hairline Divider",
+  "slug": "double-hairline-divider",
+  "description": "A modern interactive Double Hairline Divider component.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "double",
+    "hairline"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

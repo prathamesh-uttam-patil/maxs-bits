@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Wave Progress",
+  "slug": "gradient-wave-progress",
+  "description": "A modern interactive Gradient Wave Progress component.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "gradient",
+    "wave"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

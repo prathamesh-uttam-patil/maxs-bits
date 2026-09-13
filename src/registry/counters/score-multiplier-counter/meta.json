@@ -1,0 +1,16 @@
+{
+  "name": "Score Multiplier Counter",
+  "slug": "score-multiplier-counter",
+  "description": "A modern interactive Score Multiplier Counter component.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "score",
+    "multiplier"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

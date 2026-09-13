@@ -1,0 +1,16 @@
+{
+  "name": "Verified Author Chip",
+  "slug": "verified-author-chip",
+  "description": "A modern interactive Verified Author Chip component.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "verified",
+    "author"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

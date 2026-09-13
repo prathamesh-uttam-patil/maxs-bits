@@ -1,0 +1,16 @@
+{
+  "name": "Step Checkpoint Bar",
+  "slug": "step-checkpoint-bar",
+  "description": "A modern interactive Step Checkpoint Bar component.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "step",
+    "checkpoint"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

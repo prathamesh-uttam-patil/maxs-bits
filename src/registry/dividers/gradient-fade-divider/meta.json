@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Fade Divider",
+  "slug": "gradient-fade-divider",
+  "description": "A modern interactive Gradient Fade Divider component.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "gradient",
+    "fade"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

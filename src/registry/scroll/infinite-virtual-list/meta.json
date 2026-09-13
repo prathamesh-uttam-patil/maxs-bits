@@ -1,0 +1,16 @@
+{
+  "name": "Infinite Virtual List",
+  "slug": "infinite-virtual-list",
+  "description": "A modern interactive Infinite Virtual List component.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "infinite",
+    "list"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bouncing Cubes Loader",
+  "slug": "bouncing-cubes-loader",
+  "description": "A modern interactive Bouncing Cubes Loader component.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "cubes",
+    "bounce"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

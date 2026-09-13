@@ -1,0 +1,16 @@
+{
+  "name": "Circular Timer Gauge",
+  "slug": "circular-timer-gauge",
+  "description": "A modern interactive Circular Timer Gauge component.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "timer",
+    "gauge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

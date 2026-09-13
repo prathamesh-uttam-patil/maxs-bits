@@ -1,0 +1,16 @@
+{
+  "name": "Auth Login Dialog",
+  "slug": "auth-login-dialog",
+  "description": "A modern interactive Auth Login Dialog component.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "auth",
+    "login"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

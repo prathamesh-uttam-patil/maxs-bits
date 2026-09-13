@@ -1,0 +1,16 @@
+{
+  "name": "Character Limit Input",
+  "slug": "character-limit-input",
+  "description": "A modern interactive Character Limit Input component.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "limit",
+    "counter"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

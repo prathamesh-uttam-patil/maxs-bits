@@ -1,0 +1,16 @@
+{
+  "name": "Moving Gradient Radial",
+  "slug": "moving-gradient-radial",
+  "description": "A modern interactive Moving Gradient Radial component.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "gradient",
+    "radial"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

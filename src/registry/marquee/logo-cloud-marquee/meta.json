@@ -1,0 +1,16 @@
+{
+  "name": "Logo Cloud Marquee",
+  "slug": "logo-cloud-marquee",
+  "description": "A modern interactive Logo Cloud Marquee component.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "logo",
+    "cloud"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

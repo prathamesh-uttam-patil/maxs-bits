@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Fill Button",
+  "slug": "magnetic-fill-btn",
+  "description": "A modern interactive Magnetic Fill Button component.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "magnetic",
+    "fill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

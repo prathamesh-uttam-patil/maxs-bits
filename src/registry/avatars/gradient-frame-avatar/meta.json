@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Frame Avatar",
+  "slug": "gradient-frame-avatar",
+  "description": "A modern interactive Gradient Frame Avatar component.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "gradient",
+    "frame"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

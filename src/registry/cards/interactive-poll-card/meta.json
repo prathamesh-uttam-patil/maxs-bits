@@ -1,0 +1,16 @@
+{
+  "name": "Interactive Poll Card",
+  "slug": "interactive-poll-card",
+  "description": "A modern interactive Interactive Poll Card component.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "poll",
+    "vote"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

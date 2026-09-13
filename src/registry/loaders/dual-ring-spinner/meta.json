@@ -1,0 +1,16 @@
+{
+  "name": "Dual Ring Spinner",
+  "slug": "dual-ring-spinner",
+  "description": "A modern interactive Dual Ring Spinner component.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "spinner",
+    "dual"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

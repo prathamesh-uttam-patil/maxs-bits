@@ -1,0 +1,16 @@
+{
+  "name": "Action Pill Chip",
+  "slug": "action-pill-chip",
+  "description": "A modern interactive Action Pill Chip component.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "action",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

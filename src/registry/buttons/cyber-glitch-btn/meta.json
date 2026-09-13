@@ -1,0 +1,16 @@
+{
+  "name": "Cyber Glitch Button",
+  "slug": "cyber-glitch-btn",
+  "description": "A modern interactive Cyber Glitch Button component.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "glitch",
+    "cyberpunk"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tag Counter Chip",
+  "slug": "tag-counter-chip",
+  "description": "A modern interactive Tag Counter Chip component.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "tag",
+    "counter"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

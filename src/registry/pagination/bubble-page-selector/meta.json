@@ -1,0 +1,16 @@
+{
+  "name": "Bubble Page Selector",
+  "slug": "bubble-page-selector",
+  "description": "A modern interactive Bubble Page Selector component.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "bubble",
+    "selector"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

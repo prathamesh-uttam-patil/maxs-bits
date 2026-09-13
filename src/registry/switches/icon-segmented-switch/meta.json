@@ -1,0 +1,16 @@
+{
+  "name": "Icon Segmented Switch",
+  "slug": "icon-segmented-switch",
+  "description": "A modern interactive Icon Segmented Switch component.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "segmented",
+    "icon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

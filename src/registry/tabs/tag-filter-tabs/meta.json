@@ -1,0 +1,16 @@
+{
+  "name": "Tag Filter Tabs",
+  "slug": "tag-filter-tabs",
+  "description": "A modern interactive Tag Filter Tabs component.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "filter",
+    "tags"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}
