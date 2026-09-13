@@ -14,7 +14,7 @@ export function Footer() {
           </div>
           <div className="flex items-center gap-6 text-sm text-[var(--muted-foreground)]">
             <a
-              href="https://github.com"
+              href="https://github.com/prathamesh-uttam-patil"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-[var(--foreground)] transition-colors"

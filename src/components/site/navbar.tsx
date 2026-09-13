@@ -69,10 +69,11 @@ export function Navbar() {
           {/* Right side */}
           <div className="flex items-center gap-2">
             <a
-              href="https://github.com"
+              href="https://github.com/prathamesh-uttam-patil"
               target="_blank"
               rel="noopener noreferrer"
-              className="hidden md:flex h-9 w-9 items-center justify-center rounded-lg text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--secondary)] transition-colors"
+              className="flex h-9 w-9 items-center justify-center rounded-lg text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--secondary)] transition-colors"
+              aria-label="GitHub Repository"
             >
               <GithubIcon className="w-5 h-5" />
             </a>
