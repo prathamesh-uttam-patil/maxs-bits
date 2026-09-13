@@ -5,12 +5,16 @@ interface Props { category: string; slug: string; }
 const d: Record<string, Record<string, React.ComponentType>> = {
   "accordions": {
     "gradient-accordion": dynamic(() => import("@/registry/accordions/gradient-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "icon-accordion": dynamic(() => import("@/registry/accordions/icon-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "multi-accordion": dynamic(() => import("@/registry/accordions/multi-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "nested-accordion": dynamic(() => import("@/registry/accordions/nested-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "smooth-accordion": dynamic(() => import("@/registry/accordions/smooth-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "alerts": {
+    "action-alert": dynamic(() => import("@/registry/alerts/action-alert/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "animated-alert": dynamic(() => import("@/registry/alerts/animated-alert/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "banner-alert": dynamic(() => import("@/registry/alerts/banner-alert/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "floating-toast": dynamic(() => import("@/registry/alerts/floating-toast/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "toast-notification": dynamic(() => import("@/registry/alerts/toast-notification/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "avatars": {
@@ -38,7 +42,9 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   },
   "breadcrumbs": {
     "animated-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/animated-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "collapsed-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/collapsed-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "icon-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/icon-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "slash-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/slash-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "buttons": {
     "3d-button": dynamic(() => import("@/registry/buttons/3d-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -82,9 +88,13 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   "counters": {
     "animated-counter": dynamic(() => import("@/registry/counters/animated-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "flip-counter": dynamic(() => import("@/registry/counters/flip-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "odometer-counter": dynamic(() => import("@/registry/counters/odometer-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "progress-counter": dynamic(() => import("@/registry/counters/progress-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "timer-counter": dynamic(() => import("@/registry/counters/timer-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "cursors": {
+    "magnetic-cursor": dynamic(() => import("@/registry/cursors/magnetic-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "ring-cursor": dynamic(() => import("@/registry/cursors/ring-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "spotlight-cursor": dynamic(() => import("@/registry/cursors/spotlight-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "trail-cursor": dynamic(() => import("@/registry/cursors/trail-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
@@ -109,6 +119,8 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "textarea-auto": dynamic(() => import("@/registry/inputs/textarea-auto/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "kbd": {
+    "command-palette-kbd": dynamic(() => import("@/registry/kbd/command-palette-kbd/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "key-combo": dynamic(() => import("@/registry/kbd/key-combo/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "keyboard-key": dynamic(() => import("@/registry/kbd/keyboard-key/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "shortcut-display": dynamic(() => import("@/registry/kbd/shortcut-display/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
@@ -131,11 +143,15 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   },
   "modals": {
     "confirm-dialog": dynamic(() => import("@/registry/modals/confirm-dialog/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "fullscreen-dialog": dynamic(() => import("@/registry/modals/fullscreen-dialog/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "nested-sheet": dynamic(() => import("@/registry/modals/nested-sheet/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "scale-modal": dynamic(() => import("@/registry/modals/scale-modal/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "slide-drawer": dynamic(() => import("@/registry/modals/slide-drawer/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "pagination": {
+    "compact-pagination": dynamic(() => import("@/registry/pagination/compact-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "dot-pagination": dynamic(() => import("@/registry/pagination/dot-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "jump-pagination": dynamic(() => import("@/registry/pagination/jump-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "number-pagination": dynamic(() => import("@/registry/pagination/number-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "progress": {
@@ -164,7 +180,9 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "skeleton-text": dynamic(() => import("@/registry/skeletons/skeleton-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "switches": {
+    "ios-switch": dynamic(() => import("@/registry/switches/ios-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "labeled-switch": dynamic(() => import("@/registry/switches/labeled-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "neon-switch": dynamic(() => import("@/registry/switches/neon-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "theme-switch": dynamic(() => import("@/registry/switches/theme-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "tabs": {
@@ -186,7 +204,9 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "wave-text": dynamic(() => import("@/registry/text-animations/wave-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "timeline": {
+    "activity-feed": dynamic(() => import("@/registry/timeline/activity-feed/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "horizontal-timeline": dynamic(() => import("@/registry/timeline/horizontal-timeline/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "step-timeline": dynamic(() => import("@/registry/timeline/step-timeline/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "vertical-timeline": dynamic(() => import("@/registry/timeline/vertical-timeline/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "toggles": {
@@ -199,6 +219,8 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   "tooltips": {
     "animated-tooltip": dynamic(() => import("@/registry/tooltips/animated-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-tooltip": dynamic(() => import("@/registry/tooltips/gradient-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "interactive-tooltip": dynamic(() => import("@/registry/tooltips/interactive-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "rich-preview-tooltip": dynamic(() => import("@/registry/tooltips/rich-preview-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
 };
 export function ComponentDetailClient({ category, slug }: Props) {

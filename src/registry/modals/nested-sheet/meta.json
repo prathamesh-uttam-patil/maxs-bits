@@ -1,0 +1,25 @@
+{
+  "name": "Nested Sheet",
+  "slug": "nested-sheet",
+  "description": "Slide-over drawer panel anchored from the bottom or right side.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "sheet",
+    "drawer",
+    "slide-over",
+    "panel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Sheet title"
+    }
+  ]
+}

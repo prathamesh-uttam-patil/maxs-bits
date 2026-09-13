@@ -1,0 +1,24 @@
+{
+  "name": "Action Alert",
+  "slug": "action-alert",
+  "description": "Alert callout with primary action button and secondary dismiss.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "action",
+    "banner",
+    "callout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Alert title"
+    }
+  ]
+}

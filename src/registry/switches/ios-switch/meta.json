@@ -1,0 +1,31 @@
+{
+  "name": "iOS Switch",
+  "slug": "ios-switch",
+  "description": "Smooth iOS style toggle switch with haptic spring feel.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "ios",
+    "toggle",
+    "apple",
+    "slider"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "checked",
+      "type": "boolean",
+      "required": false,
+      "description": "Checked state"
+    },
+    {
+      "name": "onChange",
+      "type": "(val: boolean) => void",
+      "required": false,
+      "description": "Change callback"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Icon Accordion",
+  "slug": "icon-accordion",
+  "description": "Accordion with distinct leading icons, category tags, and smooth height transitions.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "icon",
+    "faq",
+    "expand",
+    "smooth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{icon: string; title: string; content: string}[]",
+      "required": true,
+      "description": "Items list"
+    }
+  ]
+}

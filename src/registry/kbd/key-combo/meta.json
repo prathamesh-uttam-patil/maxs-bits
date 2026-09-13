@@ -1,0 +1,25 @@
+{
+  "name": "Key Combo",
+  "slug": "key-combo",
+  "description": "Interactive key combo with realistic 3D key depression on click.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "combo",
+    "3d",
+    "keys",
+    "press"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "keys",
+      "type": "string[]",
+      "required": true,
+      "description": "Keys array"
+    }
+  ]
+}

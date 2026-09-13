@@ -1,0 +1,26 @@
+{
+  "name": "Command Palette KBD",
+  "slug": "command-palette-kbd",
+  "description": "Keyboard trigger badge that invokes a command bar style shortcut.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "command",
+    "palette",
+    "shortcut",
+    "search"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "action",
+      "type": "string",
+      "required": false,
+      "default": "Search...",
+      "description": "Placeholder action"
+    }
+  ]
+}

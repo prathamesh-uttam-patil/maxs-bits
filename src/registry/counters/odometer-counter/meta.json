@@ -1,0 +1,25 @@
+{
+  "name": "Odometer Counter",
+  "slug": "odometer-counter",
+  "description": "Smooth rolling odometer style counter for stats and metrics.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "odometer",
+    "stats",
+    "metric",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "value",
+      "type": "number",
+      "required": true,
+      "description": "Numeric value"
+    }
+  ]
+}

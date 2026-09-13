@@ -1,0 +1,31 @@
+{
+  "name": "Progress Counter",
+  "slug": "progress-counter",
+  "description": "Target goal counter with inline progress percentage and milestone markers.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "goal",
+    "target",
+    "progress",
+    "milestone"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "current",
+      "type": "number",
+      "required": true,
+      "description": "Current count"
+    },
+    {
+      "name": "target",
+      "type": "number",
+      "required": true,
+      "description": "Goal target"
+    }
+  ]
+}

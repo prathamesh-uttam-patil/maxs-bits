@@ -1,0 +1,31 @@
+{
+  "name": "Floating Toast",
+  "slug": "floating-toast",
+  "description": "Interactive notification toast with progress countdown and dismiss action.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "toast",
+    "notification",
+    "floating",
+    "snackbar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Toast title"
+    },
+    {
+      "name": "message",
+      "type": "string",
+      "required": true,
+      "description": "Toast body"
+    }
+  ]
+}

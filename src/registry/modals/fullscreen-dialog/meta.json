@@ -1,0 +1,24 @@
+{
+  "name": "Fullscreen Dialog",
+  "slug": "fullscreen-dialog",
+  "description": "A full-page overlay modal for complex editors and multi-step setups.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "dialog",
+    "fullscreen",
+    "overlay"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Modal title"
+    }
+  ]
+}

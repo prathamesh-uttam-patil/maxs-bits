@@ -1,0 +1,25 @@
+{
+  "name": "Activity Feed",
+  "slug": "activity-feed",
+  "description": "Live activity timeline showing user actions and commit history.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "activity",
+    "feed",
+    "history",
+    "log"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{user: string; action: string; time: string}[]",
+      "required": true,
+      "description": "Feed items"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ring Cursor",
+  "slug": "ring-cursor",
+  "description": "Smooth magnetic follow ring cursor with spring physics effect.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "ring",
+    "magnetic",
+    "pointer",
+    "interactive"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "var(--primary)",
+      "description": "Ring color"
+    }
+  ]
+}

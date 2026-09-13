@@ -1,0 +1,24 @@
+{
+  "name": "Compact Pagination",
+  "slug": "compact-pagination",
+  "description": "Minimalist page indicator with previous and next chevron controls.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "compact",
+    "minimal",
+    "stepper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "total",
+      "type": "number",
+      "required": true,
+      "description": "Total pages"
+    }
+  ]
+}

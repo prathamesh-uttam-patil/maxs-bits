@@ -1,0 +1,26 @@
+{
+  "name": "Neon Switch",
+  "slug": "neon-switch",
+  "description": "Cyberpunk style neon glowing switch with electric color glow.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "neon",
+    "glow",
+    "cyberpunk",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#a855f7",
+      "description": "Neon glow color"
+    }
+  ]
+}

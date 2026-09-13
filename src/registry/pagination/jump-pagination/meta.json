@@ -1,0 +1,24 @@
+{
+  "name": "Jump Pagination",
+  "slug": "jump-pagination",
+  "description": "Pagination bar with direct page jump input and quick skip controls.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "jump",
+    "input",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "totalPages",
+      "type": "number",
+      "required": true,
+      "description": "Total pages"
+    }
+  ]
+}

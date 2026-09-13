@@ -1,0 +1,24 @@
+{
+  "name": "Step Timeline",
+  "slug": "step-timeline",
+  "description": "Numbered step-by-step process timeline with active status states.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "steps",
+    "onboarding",
+    "process"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "steps",
+      "type": "string[]",
+      "required": true,
+      "description": "Step titles"
+    }
+  ]
+}

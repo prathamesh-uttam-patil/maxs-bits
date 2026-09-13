@@ -1,0 +1,37 @@
+{
+  "name": "Interactive Tooltip",
+  "slug": "interactive-tooltip",
+  "description": "A rich interactive tooltip with hoverable actions and card layout.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "interactive",
+    "hover",
+    "card",
+    "popup"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "trigger",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Trigger element"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Tooltip title"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "required": true,
+      "description": "Tooltip description"
+    }
+  ]
+}
