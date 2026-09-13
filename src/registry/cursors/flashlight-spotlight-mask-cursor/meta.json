@@ -1,0 +1,16 @@
+{
+  "name": "Flashlight Spotlight Mask Cursor",
+  "slug": "flashlight-spotlight-mask-cursor",
+  "description": "Night mode flashlight radial mask reveal cursor.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "flashlight",
+    "spotlight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

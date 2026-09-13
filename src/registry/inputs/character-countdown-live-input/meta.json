@@ -1,0 +1,16 @@
+{
+  "name": "Character Countdown Live Input",
+  "slug": "character-countdown-live-input",
+  "description": "Remaining character count indicator input.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "characters",
+    "count"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

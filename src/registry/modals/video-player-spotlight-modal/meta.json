@@ -1,0 +1,16 @@
+{
+  "name": "Video Player Spotlight Modal",
+  "slug": "video-player-spotlight-modal",
+  "description": "Embedded video player with backdrop theater mode.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "video",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

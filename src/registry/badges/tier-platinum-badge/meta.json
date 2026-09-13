@@ -1,0 +1,16 @@
+{
+  "name": "Tier Platinum Badge",
+  "slug": "tier-platinum-badge",
+  "description": "VIP platinum metallic membership level badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "platinum",
+    "tier"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

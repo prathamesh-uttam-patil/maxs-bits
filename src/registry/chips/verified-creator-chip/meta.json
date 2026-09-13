@@ -1,0 +1,16 @@
+{
+  "name": "Verified Creator Chip",
+  "slug": "verified-creator-chip",
+  "description": "Verified author reputation chip with blue badge.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "verified",
+    "creator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Chromatic Rainbow Wave Text",
+  "slug": "chromatic-rainbow-wave-text",
+  "description": "Prismatic flowing rainbow text gradient animation.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "rainbow",
+    "chromatic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

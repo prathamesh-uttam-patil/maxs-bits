@@ -1,0 +1,16 @@
+{
+  "name": "Frosted Glass Dock Tabs",
+  "slug": "frosted-glass-dock-tabs",
+  "description": "Translucent glassmorphism dock navigation bar.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "glass",
+    "dock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

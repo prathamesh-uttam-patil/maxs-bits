@@ -1,0 +1,16 @@
+{
+  "name": "Code Syntax Comment Divider",
+  "slug": "code-syntax-comment-divider",
+  "description": "Terminal commented divider // --- SECTION BREAK ---.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "code",
+    "comment"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

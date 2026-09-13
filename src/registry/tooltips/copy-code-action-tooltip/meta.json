@@ -1,0 +1,16 @@
+{
+  "name": "Copy Code Action Tooltip",
+  "slug": "copy-code-action-tooltip",
+  "description": "Quick copy code block popup with confirm check.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "copy",
+    "code"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

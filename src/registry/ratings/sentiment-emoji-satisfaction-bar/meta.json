@@ -1,0 +1,16 @@
+{
+  "name": "Sentiment Emoji Satisfaction Bar",
+  "slug": "sentiment-emoji-satisfaction-bar",
+  "description": "Five-point emoji mood satisfaction survey.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "emoji",
+    "satisfaction"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

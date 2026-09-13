@@ -1,0 +1,16 @@
+{
+  "name": "Removable Pill Tag Chip",
+  "slug": "removable-pill-tag-chip",
+  "description": "Removable query search tag chip with animated X.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "removable",
+    "tag"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

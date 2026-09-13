@@ -1,0 +1,16 @@
+{
+  "name": "Read Only Code Snippet Input",
+  "slug": "read-only-code-snippet-input",
+  "description": "Copyable configuration token snippet input.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "snippet",
+    "copy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

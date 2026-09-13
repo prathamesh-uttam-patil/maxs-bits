@@ -1,0 +1,16 @@
+{
+  "name": "Share Social Links Dialog Modal",
+  "slug": "share-social-links-dialog-modal",
+  "description": "Social network share and copy link dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "share",
+    "social"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

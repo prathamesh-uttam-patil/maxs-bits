@@ -1,0 +1,16 @@
+{
+  "name": "Stacked Team Pile Avatar",
+  "slug": "stacked-team-pile-avatar",
+  "description": "Horizontal overlapping user avatar group with tooltip.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "stacked",
+    "team"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

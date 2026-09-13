@@ -1,0 +1,16 @@
+{
+  "name": "iOS Smooth Spring Switch",
+  "slug": "ios-smooth-spring-switch",
+  "description": "Apple style fluid elastic spring physics toggle.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "ios",
+    "spring"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

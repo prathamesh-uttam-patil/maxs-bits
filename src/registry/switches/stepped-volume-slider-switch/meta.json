@@ -1,0 +1,16 @@
+{
+  "name": "Stepped Volume Slider Switch",
+  "slug": "stepped-volume-slider-switch",
+  "description": "Three position low, med, high step selector switch.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "volume",
+    "stepped"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Invite Accepted Toast",
+  "slug": "invite-accepted-toast",
+  "description": "Team member collaboration invitation accepted notice.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "invite",
+    "team"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

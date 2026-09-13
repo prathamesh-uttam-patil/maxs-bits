@@ -1,0 +1,16 @@
+{
+  "name": "Analytics KPI Growth Card",
+  "slug": "analytics-kpi-growth-card",
+  "description": "Metric card with trending chart line and percentage delta.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "kpi",
+    "analytics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

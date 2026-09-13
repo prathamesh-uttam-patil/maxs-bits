@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Sync Complete Alert",
+  "slug": "cloud-sync-complete-alert",
+  "description": "Cloud database synchronization finished alert banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "sync",
+    "cloud"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

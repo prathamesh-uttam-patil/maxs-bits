@@ -1,0 +1,16 @@
+{
+  "name": "Git Branch Merge Nodes Timeline",
+  "slug": "git-branch-merge-nodes-timeline",
+  "description": "Visual git commit graph with branch lines.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "git",
+    "nodes"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

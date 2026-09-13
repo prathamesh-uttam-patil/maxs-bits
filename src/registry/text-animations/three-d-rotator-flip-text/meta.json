@@ -1,0 +1,16 @@
+{
+  "name": "Three D Rotator Flip Text",
+  "slug": "three-d-rotator-flip-text",
+  "description": "3D vertical flipping word cycle animation.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "3d",
+    "flip"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

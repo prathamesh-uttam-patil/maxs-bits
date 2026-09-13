@@ -1,0 +1,16 @@
+{
+  "name": "Angled Chevron Trail Breadcrumbs",
+  "slug": "angled-chevron-trail-breadcrumbs",
+  "description": "Geometric angular arrow segment sequence breadcrumbs.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "chevron",
+    "trail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Status Ring Busy Avatar",
+  "slug": "status-ring-busy-avatar",
+  "description": "Calendar busy DND orange status halo avatar ring.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "status",
+    "dnd"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

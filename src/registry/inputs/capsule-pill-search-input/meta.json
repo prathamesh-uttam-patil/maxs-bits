@@ -1,0 +1,16 @@
+{
+  "name": "Capsule Pill Search Input",
+  "slug": "capsule-pill-search-input",
+  "description": "Rounded pill search with keyboard shortcut badge.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "pill",
+    "search"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

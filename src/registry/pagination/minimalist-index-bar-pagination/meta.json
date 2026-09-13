@@ -1,0 +1,16 @@
+{
+  "name": "Minimalist Index Bar Pagination",
+  "slug": "minimalist-index-bar-pagination",
+  "description": "Slim progress line indicator pagination.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "minimal",
+    "line"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

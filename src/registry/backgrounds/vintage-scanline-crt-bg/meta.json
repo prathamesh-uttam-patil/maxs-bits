@@ -1,0 +1,16 @@
+{
+  "name": "Vintage Scanline CRT BG",
+  "slug": "vintage-scanline-crt-bg",
+  "description": "Retro monitor scanline flicker effect overlay background.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "crt",
+    "retro"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Floating Corner Back To Top",
+  "slug": "floating-corner-back-to-top",
+  "description": "Discreet arrow pill button floating on page scroll.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "top",
+    "floating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

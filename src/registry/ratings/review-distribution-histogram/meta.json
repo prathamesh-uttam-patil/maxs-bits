@@ -1,0 +1,16 @@
+{
+  "name": "Review Distribution Histogram",
+  "slug": "review-distribution-histogram",
+  "description": "5-star to 1-star percentage distribution histogram.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "histogram",
+    "distribution"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

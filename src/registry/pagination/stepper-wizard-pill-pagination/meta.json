@@ -1,0 +1,16 @@
+{
+  "name": "Stepper Wizard Pill Pagination",
+  "slug": "stepper-wizard-pill-pagination",
+  "description": "Numbered checkout step pill indicators.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "stepper",
+    "wizard"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

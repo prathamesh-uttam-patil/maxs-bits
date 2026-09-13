@@ -1,0 +1,16 @@
+{
+  "name": "Analytics Widget Dashboard Skeleton",
+  "slug": "analytics-widget-dashboard-skeleton",
+  "description": "KPI cards, graph, and legend placeholder tiles.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "analytics",
+    "dashboard"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

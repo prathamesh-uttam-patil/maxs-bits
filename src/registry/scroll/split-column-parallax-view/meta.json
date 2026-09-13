@@ -1,0 +1,16 @@
+{
+  "name": "Split Column Parallax View",
+  "slug": "split-column-parallax-view",
+  "description": "Dual-pane staggered scroll speed comparison.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "parallax",
+    "split"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

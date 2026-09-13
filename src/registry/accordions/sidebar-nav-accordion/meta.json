@@ -1,0 +1,16 @@
+{
+  "name": "Sidebar Nav Accordion",
+  "slug": "sidebar-nav-accordion",
+  "description": "Admin navigation sidebar submenu group accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "sidebar",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

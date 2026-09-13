@@ -1,0 +1,16 @@
+{
+  "name": "Glyph Icon Inside Thumb Switch",
+  "slug": "glyph-icon-inside-thumb-switch",
+  "description": "Switch containing embedded sun/moon icons in knob.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "glyph",
+    "icon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

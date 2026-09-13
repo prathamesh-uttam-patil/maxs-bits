@@ -1,0 +1,16 @@
+{
+  "name": "Color Palette Tag Chip",
+  "slug": "color-palette-tag-chip",
+  "description": "Swatch chip button previewing hex theme accent color.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "color",
+    "swatch"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

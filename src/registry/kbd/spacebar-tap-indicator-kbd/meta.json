@@ -1,0 +1,16 @@
+{
+  "name": "Spacebar Tap Indicator KBD",
+  "slug": "spacebar-tap-indicator-kbd",
+  "description": "Wide spacebar key visualizer with press effect.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "spacebar",
+    "key"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Multi Select Facet Chip",
+  "slug": "multi-select-facet-chip",
+  "description": "Toggleable taxonomy facet filter tag chip.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "facet",
+    "select"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

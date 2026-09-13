@@ -1,0 +1,16 @@
+{
+  "name": "User Bio Profile Skeleton",
+  "slug": "user-bio-profile-skeleton",
+  "description": "Profile photo, title, bio, and follow button placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "bio",
+    "profile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

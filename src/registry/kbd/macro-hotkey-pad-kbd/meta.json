@@ -1,0 +1,16 @@
+{
+  "name": "Macro Hotkey Pad KBD",
+  "slug": "macro-hotkey-pad-kbd",
+  "description": "Streamer macro keypad shortcuts matrix.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "macro",
+    "streamer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

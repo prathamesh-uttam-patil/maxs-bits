@@ -1,0 +1,16 @@
+{
+  "name": "Expanding Ring Click Cursor",
+  "slug": "expanding-ring-click-cursor",
+  "description": "Concentric ring wave expanding on mouse click.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "ring",
+    "click"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

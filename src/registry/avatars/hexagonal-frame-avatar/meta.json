@@ -1,0 +1,16 @@
+{
+  "name": "Hexagonal Frame Avatar",
+  "slug": "hexagonal-frame-avatar",
+  "description": "Sci-fi gamer hexagonal profile image clip path.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "hex",
+    "gaming"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

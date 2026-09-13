@@ -1,0 +1,16 @@
+{
+  "name": "Kanban Board Tasks Skeleton",
+  "slug": "kanban-board-tasks-skeleton",
+  "description": "To-do, in-progress, and completed columns skeleton.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "kanban",
+    "board"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Gaming Arrow Nav Cluster KBD",
+  "slug": "gaming-arrow-nav-cluster-kbd",
+  "description": "WASD & arrow directional key navigation pad.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "gaming",
+    "arrows"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

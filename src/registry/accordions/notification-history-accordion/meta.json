@@ -1,0 +1,16 @@
+{
+  "name": "Notification History Accordion",
+  "slug": "notification-history-accordion",
+  "description": "Grouped date-based notification log accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "notification",
+    "history"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

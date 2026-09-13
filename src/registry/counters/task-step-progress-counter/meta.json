@@ -1,0 +1,16 @@
+{
+  "name": "Task Step Progress Counter",
+  "slug": "task-step-progress-counter",
+  "description": "Workflow completion step counter: 5 of 8 done.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "tasks",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

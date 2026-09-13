@@ -1,0 +1,16 @@
+{
+  "name": "Expand Hover Label Button",
+  "slug": "expand-hover-label-button",
+  "description": "Icon button that unrolls text label on hover.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "expand",
+    "icon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

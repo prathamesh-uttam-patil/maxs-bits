@@ -1,0 +1,16 @@
+{
+  "name": "Typewriter Character Cycle Text",
+  "slug": "typewriter-character-cycle-text",
+  "description": "Terminal typing with backspace and word cycling.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "typewriter",
+    "cycle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Five Star Interactive Picker",
+  "slug": "five-star-interactive-picker",
+  "description": "Hoverable gold star feedback rating with score tooltip.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "star",
+    "interactive"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

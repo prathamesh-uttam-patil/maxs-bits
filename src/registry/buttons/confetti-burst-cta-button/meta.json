@@ -1,0 +1,16 @@
+{
+  "name": "Confetti Burst CTA Button",
+  "slug": "confetti-burst-cta-button",
+  "description": "Exploding festive emoji particles action button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "confetti",
+    "burst"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

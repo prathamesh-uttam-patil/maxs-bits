@@ -1,0 +1,16 @@
+{
+  "name": "Security Padlock Lock Toggle",
+  "slug": "security-padlock-lock-toggle",
+  "description": "Lock/unlock access permission icon toggle.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "padlock",
+    "security"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

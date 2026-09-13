@@ -1,0 +1,16 @@
+{
+  "name": "Glass Frosted Breadcrumbs",
+  "slug": "glass-frosted-breadcrumbs",
+  "description": "Backdrop blur frosted glass navigation ribbon.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "glass",
+    "frosted"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

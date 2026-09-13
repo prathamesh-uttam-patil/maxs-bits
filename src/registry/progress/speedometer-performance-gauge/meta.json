@@ -1,0 +1,16 @@
+{
+  "name": "Speedometer Performance Gauge",
+  "slug": "speedometer-performance-gauge",
+  "description": "Needle dial gauge for network latency & speed.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "speedometer",
+    "performance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

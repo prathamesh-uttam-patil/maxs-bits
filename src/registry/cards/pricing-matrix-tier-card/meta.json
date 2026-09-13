@@ -1,0 +1,16 @@
+{
+  "name": "Pricing Matrix Tier Card",
+  "slug": "pricing-matrix-tier-card",
+  "description": "Software subscription pricing tier card with plan perks.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "pricing",
+    "tier"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

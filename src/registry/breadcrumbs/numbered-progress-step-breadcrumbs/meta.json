@@ -1,0 +1,16 @@
+{
+  "name": "Numbered Progress Step Breadcrumbs",
+  "slug": "numbered-progress-step-breadcrumbs",
+  "description": "Step-by-step sequential checkout trail breadcrumbs.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "progress",
+    "stepper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

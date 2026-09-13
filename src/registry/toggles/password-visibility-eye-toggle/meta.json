@@ -1,0 +1,16 @@
+{
+  "name": "Password Visibility Eye Toggle",
+  "slug": "password-visibility-eye-toggle",
+  "description": "Eye glyph showing and hiding masked credentials.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "visibility",
+    "eye"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Hyperdrive Dock Toolbar",
+  "slug": "dock-hyperdrive-toolbar",
+  "description": "Futuristic responsive application dock toolbar with hyperdrive glow and status beacon.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "toolbar",
+    "hyperdrive",
+    "neon",
+    "interactive"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

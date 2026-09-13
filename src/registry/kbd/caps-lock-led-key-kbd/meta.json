@@ -1,0 +1,16 @@
+{
+  "name": "Caps Lock LED Key KBD",
+  "slug": "caps-lock-led-key-kbd",
+  "description": "Realistic keyboard key with active green LED dot.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "capslock",
+    "led"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

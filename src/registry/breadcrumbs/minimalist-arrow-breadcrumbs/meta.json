@@ -1,0 +1,16 @@
+{
+  "name": "Minimalist Arrow Breadcrumbs",
+  "slug": "minimalist-arrow-breadcrumbs",
+  "description": "Thin hairline arrow separated route path links.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "minimal",
+    "arrows"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Experimental Lab Badge",
+  "slug": "experimental-lab-badge",
+  "description": "Flask laboratory experimental beta feature badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "lab",
+    "experimental"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

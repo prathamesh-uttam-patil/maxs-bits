@@ -1,0 +1,16 @@
+{
+  "name": "Verified Badge Avatar",
+  "slug": "verified-badge-avatar",
+  "description": "Verified blue checkmark emblem profile avatar.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "verified",
+    "profile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

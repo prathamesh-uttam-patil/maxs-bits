@@ -1,0 +1,16 @@
+{
+  "name": "Horizontal Snap Card Strip",
+  "slug": "horizontal-snap-card-strip",
+  "description": "Touch drag cards row with CSS snap alignment.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "snap",
+    "horizontal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

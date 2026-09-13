@@ -1,0 +1,16 @@
+{
+  "name": "Carousel Dot Capsule Pagination",
+  "slug": "carousel-dot-capsule-pagination",
+  "description": "Moving capsule dot indicator pagination.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "dots",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

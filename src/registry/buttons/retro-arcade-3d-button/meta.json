@@ -1,0 +1,16 @@
+{
+  "name": "Retro Arcade 3D Button",
+  "slug": "retro-arcade-3d-button",
+  "description": "Push-button mechanical arcade gaming switch.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "arcade",
+    "3d"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

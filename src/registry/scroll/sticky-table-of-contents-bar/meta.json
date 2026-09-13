@@ -1,0 +1,16 @@
+{
+  "name": "Sticky Table Of Contents Bar",
+  "slug": "sticky-table-of-contents-bar",
+  "description": "Active document section highlight sidebar.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "toc",
+    "sticky"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

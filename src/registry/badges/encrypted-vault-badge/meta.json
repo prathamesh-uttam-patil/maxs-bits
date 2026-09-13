@@ -1,0 +1,16 @@
+{
+  "name": "Encrypted Vault Badge",
+  "slug": "encrypted-vault-badge",
+  "description": "AES-256 hardware cryptographic encryption tag badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "crypto",
+    "vault"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Jump To Number Box Pagination",
+  "slug": "jump-to-number-box-pagination",
+  "description": "Direct page jump input with enter submit.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "jump",
+    "input"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

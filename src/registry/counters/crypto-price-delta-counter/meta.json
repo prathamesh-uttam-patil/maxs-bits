@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Price Delta Counter",
+  "slug": "crypto-price-delta-counter",
+  "description": "Cryptocurrency live market ticker with green/red shift.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "crypto",
+    "price"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

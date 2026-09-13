@@ -1,0 +1,16 @@
+{
+  "name": "Voice Speech Input Field",
+  "slug": "voice-speech-input-field",
+  "description": "Microphone speech recognition listening input.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "voice",
+    "speech"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

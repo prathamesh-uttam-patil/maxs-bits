@@ -1,0 +1,16 @@
+{
+  "name": "Credit Card Chip Preview Card",
+  "slug": "credit-card-chip-preview-card",
+  "description": "Realistic debit card with magnetic EMV chip.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "credit",
+    "payment"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

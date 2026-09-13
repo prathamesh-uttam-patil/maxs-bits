@@ -1,0 +1,16 @@
+{
+  "name": "Horizontal Stepper Process Timeline",
+  "slug": "horizontal-stepper-process-timeline",
+  "description": "Numbered horizontal progress milestones bar.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "horizontal",
+    "stepper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

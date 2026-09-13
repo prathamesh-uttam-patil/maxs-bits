@@ -1,0 +1,16 @@
+{
+  "name": "Photo Lightbox Gallery Modal",
+  "slug": "photo-lightbox-gallery-modal",
+  "description": "Full window photo preview lightbox.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "lightbox",
+    "photo"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

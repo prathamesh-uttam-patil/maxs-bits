@@ -1,0 +1,16 @@
+{
+  "name": "Neon Laser Line Divider",
+  "slug": "neon-laser-line-divider",
+  "description": "Vibrant neon light ray horizontal section divider.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "laser",
+    "neon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

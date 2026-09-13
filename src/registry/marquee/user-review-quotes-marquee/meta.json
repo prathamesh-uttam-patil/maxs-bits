@@ -1,0 +1,16 @@
+{
+  "name": "User Review Quotes Marquee",
+  "slug": "user-review-quotes-marquee",
+  "description": "Continuous customer quote card stream.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "quotes",
+    "reviews"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

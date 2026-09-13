@@ -1,0 +1,16 @@
+{
+  "name": "Function Key Strip KBD",
+  "slug": "function-key-strip-kbd",
+  "description": "F1 through F12 function keys toolbar display.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "function",
+    "strip"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

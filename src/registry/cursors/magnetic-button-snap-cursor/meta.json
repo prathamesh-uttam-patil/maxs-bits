@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Button Snap Cursor",
+  "slug": "magnetic-button-snap-cursor",
+  "description": "Cursor automatically attracted to buttons on approach.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "magnetic",
+    "snap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

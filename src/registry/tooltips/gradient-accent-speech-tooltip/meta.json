@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Accent Speech Tooltip",
+  "slug": "gradient-accent-speech-tooltip",
+  "description": "Speech bubble tooltip with colorful gradient border.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "speech",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

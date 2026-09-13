@@ -1,0 +1,16 @@
+{
+  "name": "Badge Emblem Center Divider",
+  "slug": "badge-emblem-center-divider",
+  "description": "Center emblem badge interrupting horizontal rule.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "badge",
+    "emblem"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

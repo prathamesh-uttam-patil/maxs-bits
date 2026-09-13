@@ -1,0 +1,16 @@
+{
+  "name": "Striped Barber Pole Progress",
+  "slug": "striped-barber-pole-progress",
+  "description": "Animated diagonal candy cane striped progress bar.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "striped",
+    "candy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

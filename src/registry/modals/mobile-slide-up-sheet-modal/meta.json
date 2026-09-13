@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Slide Up Sheet Modal",
+  "slug": "mobile-slide-up-sheet-modal",
+  "description": "Native swipeable bottom drawer sheet.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "sheet",
+    "mobile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

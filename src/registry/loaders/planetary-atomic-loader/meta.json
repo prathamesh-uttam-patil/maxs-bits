@@ -1,0 +1,16 @@
+{
+  "name": "Planetary Atomic Loader",
+  "slug": "planetary-atomic-loader",
+  "description": "Atomic ring orbit particle animation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "atomic",
+    "orbit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

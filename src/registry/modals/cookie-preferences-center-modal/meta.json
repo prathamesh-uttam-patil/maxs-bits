@@ -1,0 +1,16 @@
+{
+  "name": "Cookie Preferences Center Modal",
+  "slug": "cookie-preferences-center-modal",
+  "description": "GDPR consent privacy category settings.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "cookie",
+    "gdpr"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

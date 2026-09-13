@@ -1,0 +1,16 @@
+{
+  "name": "Compact Counter Arrow Pagination",
+  "slug": "compact-counter-arrow-pagination",
+  "description": "Tiny previous/next buttons with current index.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "compact",
+    "arrows"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

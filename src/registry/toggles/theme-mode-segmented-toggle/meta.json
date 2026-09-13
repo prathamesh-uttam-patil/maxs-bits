@@ -1,0 +1,16 @@
+{
+  "name": "Theme Mode Segmented Toggle",
+  "slug": "theme-mode-segmented-toggle",
+  "description": "Light, dark, and auto system theme pill toggle.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "theme",
+    "segmented"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

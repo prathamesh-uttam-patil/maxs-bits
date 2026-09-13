@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Border Avatar",
+  "slug": "gradient-border-avatar",
+  "description": "Rainbow conic gradient border dynamic avatar.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "conic",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

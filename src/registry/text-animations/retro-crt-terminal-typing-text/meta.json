@@ -1,0 +1,16 @@
+{
+  "name": "Retro CRT Terminal Typing Text",
+  "slug": "retro-crt-terminal-typing-text",
+  "description": "Green phosphor CRT monitor typing effect.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "crt",
+    "terminal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

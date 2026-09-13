@@ -1,0 +1,16 @@
+{
+  "name": "Dynamic Overflow Breadcrumbs",
+  "slug": "dynamic-overflow-breadcrumbs",
+  "description": "Auto-truncating breadcrumbs with dropdown overflow.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "overflow",
+    "dropdown"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

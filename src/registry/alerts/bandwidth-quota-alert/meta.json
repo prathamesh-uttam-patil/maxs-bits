@@ -1,0 +1,16 @@
+{
+  "name": "Bandwidth Quota Alert",
+  "slug": "bandwidth-quota-alert",
+  "description": "Network usage high capacity warning alert banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "quota",
+    "bandwidth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Viewport Fade Reveal Wrapper",
+  "slug": "viewport-fade-reveal-wrapper",
+  "description": "Smooth entrance animation trigger when in view.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "reveal",
+    "viewport"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

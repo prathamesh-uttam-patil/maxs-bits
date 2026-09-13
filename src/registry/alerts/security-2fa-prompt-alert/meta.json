@@ -1,0 +1,16 @@
+{
+  "name": "Security 2FA Prompt Alert",
+  "slug": "security-2fa-prompt-alert",
+  "description": "Two factor authentication enablement security banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "security",
+    "2fa"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

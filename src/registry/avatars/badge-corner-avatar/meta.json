@@ -1,0 +1,16 @@
+{
+  "name": "Badge Corner Avatar",
+  "slug": "badge-corner-avatar",
+  "description": "Corner positioned numeric unread notification count avatar.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "badge",
+    "count"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

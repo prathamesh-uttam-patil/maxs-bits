@@ -1,0 +1,16 @@
+{
+  "name": "Split Key Modifier KBD",
+  "slug": "split-key-modifier-kbd",
+  "description": "Command + Shift dual modifier keyboard visualizer.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "modifier",
+    "split"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

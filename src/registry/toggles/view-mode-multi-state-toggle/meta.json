@@ -1,0 +1,16 @@
+{
+  "name": "View Mode Multi State Toggle",
+  "slug": "view-mode-multi-state-toggle",
+  "description": "Segmented grid, list, and kanban view switcher.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "view",
+    "segmented"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Continuous Drag Score Slider",
+  "slug": "continuous-drag-score-slider",
+  "description": "Smooth range slider rating from 0 to 100.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "slider",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

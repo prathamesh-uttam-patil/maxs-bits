@@ -1,0 +1,16 @@
+{
+  "name": "Sonar Radar Sweep Loader",
+  "slug": "sonar-radar-sweep-loader",
+  "description": "Green sonar circular radar sweep.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "sonar",
+    "radar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

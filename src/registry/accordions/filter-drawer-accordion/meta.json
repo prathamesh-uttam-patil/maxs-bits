@@ -1,0 +1,16 @@
+{
+  "name": "Filter Drawer Accordion",
+  "slug": "filter-drawer-accordion",
+  "description": "Faceted search filter category checklist accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "filter",
+    "drawer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Items Per Page Selector Pagination",
+  "slug": "items-per-page-selector-pagination",
+  "description": "Page navigation with 10/25/50 per page dropdown.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "selector",
+    "items"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

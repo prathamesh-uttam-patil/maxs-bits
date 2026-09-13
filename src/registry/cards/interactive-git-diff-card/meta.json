@@ -1,0 +1,16 @@
+{
+  "name": "Interactive Git Diff Card",
+  "slug": "interactive-git-diff-card",
+  "description": "Code change file diff preview card with line counts.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "git",
+    "diff"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

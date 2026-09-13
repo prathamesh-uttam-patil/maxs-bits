@@ -1,0 +1,16 @@
+{
+  "name": "Data Table Rows Skeleton",
+  "slug": "data-table-rows-skeleton",
+  "description": "Multi-column tabular data loading skeleton shimmer.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "table",
+    "rows"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

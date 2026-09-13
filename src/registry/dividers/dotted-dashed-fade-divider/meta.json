@@ -1,0 +1,16 @@
+{
+  "name": "Dotted Dashed Fade Divider",
+  "slug": "dotted-dashed-fade-divider",
+  "description": "Gradient dashed pattern fading out at edges.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "dashed",
+    "fade"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

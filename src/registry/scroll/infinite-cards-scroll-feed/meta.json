@@ -1,0 +1,16 @@
+{
+  "name": "Infinite Cards Scroll Feed",
+  "slug": "infinite-cards-scroll-feed",
+  "description": "Infinite auto-loading dynamic masonry feed.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "infinite",
+    "feed"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

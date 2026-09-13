@@ -1,0 +1,16 @@
+{
+  "name": "Community Stargazers Marquee",
+  "slug": "community-stargazers-marquee",
+  "description": "Recent GitHub repository stargazers carousel.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "github",
+    "stargazers"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

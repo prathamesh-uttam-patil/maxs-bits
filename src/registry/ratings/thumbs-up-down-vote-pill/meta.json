@@ -1,0 +1,16 @@
+{
+  "name": "Thumbs Up Down Vote Pill",
+  "slug": "thumbs-up-down-vote-pill",
+  "description": "Binary helpfulness vote with count indicators.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "thumbs",
+    "vote"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

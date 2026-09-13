@@ -1,0 +1,16 @@
+{
+  "name": "Avatar User Preview Tooltip",
+  "slug": "avatar-user-preview-tooltip",
+  "description": "Avatar hover card showing team member details.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "avatar",
+    "user"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

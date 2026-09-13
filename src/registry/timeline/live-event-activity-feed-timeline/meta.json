@@ -1,0 +1,16 @@
+{
+  "name": "Live Event Activity Feed Timeline",
+  "slug": "live-event-activity-feed-timeline",
+  "description": "Audit log chronological user action feed.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "feed",
+    "audit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Emoji Reaction Counter Bar",
+  "slug": "emoji-reaction-counter-bar",
+  "description": "Slack style interactive emoji reaction count pills.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "reactions",
+    "emoji"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

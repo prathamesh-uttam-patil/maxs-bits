@@ -1,0 +1,16 @@
+{
+  "name": "Feature Tour Step Tooltip",
+  "slug": "feature-tour-step-tooltip",
+  "description": "Onboarding tour walkthrough step tooltip with Next CTA.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "tour",
+    "onboarding"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

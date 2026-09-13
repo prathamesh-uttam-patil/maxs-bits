@@ -1,0 +1,16 @@
+{
+  "name": "Glowing Orb Junction Divider",
+  "slug": "glowing-orb-junction-divider",
+  "description": "Pulsing center point light orb between paragraphs.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "orb",
+    "glowing"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

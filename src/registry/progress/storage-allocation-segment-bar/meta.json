@@ -1,0 +1,16 @@
+{
+  "name": "Storage Allocation Segment Bar",
+  "slug": "storage-allocation-segment-bar",
+  "description": "Multi-colored disk usage storage breakdown bar.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "storage",
+    "disk"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

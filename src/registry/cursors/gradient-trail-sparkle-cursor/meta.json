@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Trail Sparkle Cursor",
+  "slug": "gradient-trail-sparkle-cursor",
+  "description": "Particle sparkle trail following cursor movement.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "sparkle",
+    "trail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

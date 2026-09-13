@@ -1,0 +1,16 @@
+{
+  "name": "Mobile App Dock Nav Tabs",
+  "slug": "mobile-app-dock-nav-tabs",
+  "description": "Bottom app bar with icons and text label badges.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "dock",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

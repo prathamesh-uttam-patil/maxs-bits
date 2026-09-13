@@ -1,0 +1,16 @@
+{
+  "name": "Rich Media Card Preview Tooltip",
+  "slug": "rich-media-card-preview-tooltip",
+  "description": "Hover popover showing link preview thumbnail & title.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "preview",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

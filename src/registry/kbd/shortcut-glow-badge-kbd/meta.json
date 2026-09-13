@@ -1,0 +1,16 @@
+{
+  "name": "Shortcut Glow Badge KBD",
+  "slug": "shortcut-glow-badge-kbd",
+  "description": "Glowing keyboard shortcut key combination badge.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "shortcut",
+    "glow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

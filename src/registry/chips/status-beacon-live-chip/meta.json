@@ -1,0 +1,16 @@
+{
+  "name": "Status Beacon Live Chip",
+  "slug": "status-beacon-live-chip",
+  "description": "Realtime live status indicator chip with radar ring.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "beacon",
+    "status"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

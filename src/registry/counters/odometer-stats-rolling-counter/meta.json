@@ -1,0 +1,16 @@
+{
+  "name": "Odometer Stats Rolling Counter",
+  "slug": "odometer-stats-rolling-counter",
+  "description": "Continuous rolling numbers mechanical ticker.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "odometer",
+    "rolling"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Droplet Ripple Loader",
+  "slug": "liquid-droplet-ripple-loader",
+  "description": "Expanding water droplet ripple rings.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "droplet",
+    "ripple"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

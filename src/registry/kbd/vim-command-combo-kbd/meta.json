@@ -1,0 +1,16 @@
+{
+  "name": "Vim Command Combo KBD",
+  "slug": "vim-command-combo-kbd",
+  "description": "Chained modal keystroke sequence viewer.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "vim",
+    "command"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

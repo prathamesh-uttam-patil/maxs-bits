@@ -1,0 +1,16 @@
+{
+  "name": "Matrix Digital Rain Text",
+  "slug": "matrix-digital-rain-text",
+  "description": "Scrambling code glyph stream into readable phrase.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "matrix",
+    "stream"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

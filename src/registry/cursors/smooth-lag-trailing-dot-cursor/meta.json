@@ -1,0 +1,16 @@
+{
+  "name": "Smooth Lag Trailing Dot Cursor",
+  "slug": "smooth-lag-trailing-dot-cursor",
+  "description": "Smooth spring damped follower dot cursor.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "lag",
+    "follower"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

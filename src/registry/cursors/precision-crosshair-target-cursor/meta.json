@@ -1,0 +1,16 @@
+{
+  "name": "Precision Crosshair Target Cursor",
+  "slug": "precision-crosshair-target-cursor",
+  "description": "Engineering CAD crosshair targeting cursor.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "crosshair",
+    "cad"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

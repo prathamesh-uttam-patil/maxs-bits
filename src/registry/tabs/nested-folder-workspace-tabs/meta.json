@@ -1,0 +1,16 @@
+{
+  "name": "Nested Folder Workspace Tabs",
+  "slug": "nested-folder-workspace-tabs",
+  "description": "Directory structure workspace tabs with badge counts.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "folder",
+    "workspace"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

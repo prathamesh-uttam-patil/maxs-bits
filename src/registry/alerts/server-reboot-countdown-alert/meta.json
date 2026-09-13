@@ -1,0 +1,16 @@
+{
+  "name": "Server Reboot Countdown Alert",
+  "slug": "server-reboot-countdown-alert",
+  "description": "Scheduled server restart live countdown banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "server",
+    "reboot"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

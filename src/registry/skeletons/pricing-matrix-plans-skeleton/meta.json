@@ -1,0 +1,16 @@
+{
+  "name": "Pricing Matrix Plans Skeleton",
+  "slug": "pricing-matrix-plans-skeleton",
+  "description": "Three column subscription tier placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "pricing",
+    "plans"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

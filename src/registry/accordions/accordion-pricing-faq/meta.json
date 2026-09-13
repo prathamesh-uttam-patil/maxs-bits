@@ -1,0 +1,16 @@
+{
+  "name": "Accordion Pricing FAQ",
+  "slug": "accordion-pricing-faq",
+  "description": "Pricing tier frequently asked questions accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "pricing",
+    "faq"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

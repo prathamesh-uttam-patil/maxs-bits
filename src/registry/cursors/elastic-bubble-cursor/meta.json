@@ -1,0 +1,16 @@
+{
+  "name": "Elastic Bubble Cursor",
+  "slug": "elastic-bubble-cursor",
+  "description": "Stretchy liquid bubble morphing shape cursor.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "bubble",
+    "elastic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

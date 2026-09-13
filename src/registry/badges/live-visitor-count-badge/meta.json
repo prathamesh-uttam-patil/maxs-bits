@@ -1,0 +1,16 @@
+{
+  "name": "Live Visitor Count Badge",
+  "slug": "live-visitor-count-badge",
+  "description": "Realtime concurrent active visitors indicator badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "live",
+    "visitors"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

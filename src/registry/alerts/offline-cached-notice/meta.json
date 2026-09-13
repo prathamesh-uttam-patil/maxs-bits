@@ -1,0 +1,16 @@
+{
+  "name": "Offline Cached Notice",
+  "slug": "offline-cached-notice",
+  "description": "PWA cached offline storage indicator alert banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "offline",
+    "pwa"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

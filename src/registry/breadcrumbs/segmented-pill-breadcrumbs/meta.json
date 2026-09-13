@@ -1,0 +1,16 @@
+{
+  "name": "Segmented Pill Breadcrumbs",
+  "slug": "segmented-pill-breadcrumbs",
+  "description": "Capsule pill grouped path navigator with hover states.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "pill",
+    "segmented"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

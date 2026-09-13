@@ -1,0 +1,16 @@
+{
+  "name": "Specs Comparison Accordion",
+  "slug": "specs-comparison-accordion",
+  "description": "Technical product specifications table accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "specs",
+    "table"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

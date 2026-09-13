@@ -1,0 +1,16 @@
+{
+  "name": "Speed Score Badge",
+  "slug": "speed-score-badge",
+  "description": "99/100 performance score audit badge with checkmark.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "speed",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

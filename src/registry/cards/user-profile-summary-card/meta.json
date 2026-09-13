@@ -1,0 +1,16 @@
+{
+  "name": "User Profile Summary Card",
+  "slug": "user-profile-summary-card",
+  "description": "Bio card with follow button, badges, and social links.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "profile",
+    "user"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

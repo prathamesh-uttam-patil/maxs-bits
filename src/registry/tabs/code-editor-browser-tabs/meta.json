@@ -1,0 +1,16 @@
+{
+  "name": "Code Editor Browser Tabs",
+  "slug": "code-editor-browser-tabs",
+  "description": "VS Code style file tabs with close icons.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "editor",
+    "code"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

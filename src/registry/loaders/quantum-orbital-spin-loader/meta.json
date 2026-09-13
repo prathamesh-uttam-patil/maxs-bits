@@ -1,0 +1,16 @@
+{
+  "name": "Quantum Orbital Spin Loader",
+  "slug": "quantum-orbital-spin-loader",
+  "description": "Multi-ring gyroscopic orbital spinner.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "quantum",
+    "gyro"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Segmented Battery Cell Gauge",
+  "slug": "segmented-battery-cell-gauge",
+  "description": "Physical battery segmented charging cell indicator.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "battery",
+    "cells"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

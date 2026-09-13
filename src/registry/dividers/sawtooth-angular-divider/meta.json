@@ -1,0 +1,16 @@
+{
+  "name": "Sawtooth Angular Divider",
+  "slug": "sawtooth-angular-divider",
+  "description": "Geometric angular zigzag sawtooth border line.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "sawtooth",
+    "zigzag"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

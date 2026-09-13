@@ -1,0 +1,16 @@
+{
+  "name": "Concurrent Users Live Counter",
+  "slug": "concurrent-users-live-counter",
+  "description": "Live active concurrent visitors pulse counter.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "live",
+    "visitors"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Feature Showcase Ribbon Marquee",
+  "slug": "feature-showcase-ribbon-marquee",
+  "description": "Horizontal ribbon of product capabilities.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "features",
+    "ribbon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Soundwave Bouncing Bars Loader",
+  "slug": "soundwave-bouncing-bars-loader",
+  "description": "Equalizer audio wave soundbars animation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "soundwave",
+    "audio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

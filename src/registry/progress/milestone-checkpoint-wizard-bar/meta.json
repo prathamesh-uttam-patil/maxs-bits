@@ -1,0 +1,16 @@
+{
+  "name": "Milestone Checkpoint Wizard Bar",
+  "slug": "milestone-checkpoint-wizard-bar",
+  "description": "Project completion track with milestone checkpoints.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "milestone",
+    "wizard"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

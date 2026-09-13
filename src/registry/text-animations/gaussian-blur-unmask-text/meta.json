@@ -1,0 +1,16 @@
+{
+  "name": "Gaussian Blur Unmask Text",
+  "slug": "gaussian-blur-unmask-text",
+  "description": "Smooth text unblurring focus reveal animation.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "blur",
+    "focus"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "CVV Masked Security Input",
+  "slug": "cvv-masked-security-input",
+  "description": "Three digit security code with flip preview.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "cvv",
+    "security"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

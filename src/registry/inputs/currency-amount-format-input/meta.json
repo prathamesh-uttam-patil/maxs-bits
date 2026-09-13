@@ -1,0 +1,16 @@
+{
+  "name": "Currency Amount Format Input",
+  "slug": "currency-amount-format-input",
+  "description": "Automated dollar formatting numeric money input.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "currency",
+    "money"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

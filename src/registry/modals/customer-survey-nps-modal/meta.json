@@ -1,0 +1,16 @@
+{
+  "name": "Customer Survey NPS Modal",
+  "slug": "customer-survey-nps-modal",
+  "description": "User experience feedback score dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "survey",
+    "nps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

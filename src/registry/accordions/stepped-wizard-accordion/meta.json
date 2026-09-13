@@ -1,0 +1,16 @@
+{
+  "name": "Stepped Wizard Accordion",
+  "slug": "stepped-wizard-accordion",
+  "description": "Form step-by-step accordion with progress indicators.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "wizard",
+    "form"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

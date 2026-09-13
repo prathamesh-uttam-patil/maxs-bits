@@ -1,0 +1,16 @@
+{
+  "name": "Package Delivery Transit Timeline",
+  "slug": "package-delivery-transit-timeline",
+  "description": "Shipment tracking with current facility checkpoint.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "delivery",
+    "transit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

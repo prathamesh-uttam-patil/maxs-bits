@@ -1,0 +1,16 @@
+{
+  "name": "Spring Indicator Pill Tabs",
+  "slug": "spring-indicator-pill-tabs",
+  "description": "Floating capsule tab indicator with spring physics.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "spring",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

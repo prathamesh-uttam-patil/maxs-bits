@@ -1,0 +1,16 @@
+{
+  "name": "Percentage Radial Gauge Counter",
+  "slug": "percentage-radial-gauge-counter",
+  "description": "Circular SVG progress completion percentage counter.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "radial",
+    "gauge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

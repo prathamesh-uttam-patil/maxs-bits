@@ -1,0 +1,16 @@
+{
+  "name": "Flowing Gradient Fill Bar",
+  "slug": "flowing-gradient-fill-bar",
+  "description": "Animated gradient liquid progress track.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "gradient",
+    "flowing"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Eco Friendly Green Badge",
+  "slug": "eco-friendly-green-badge",
+  "description": "Carbon neutral green leaf verification badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "eco",
+    "green"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

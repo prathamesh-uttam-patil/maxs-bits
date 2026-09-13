@@ -1,0 +1,16 @@
+{
+  "name": "Laser Sweep Reveal Text",
+  "slug": "laser-sweep-reveal-text",
+  "description": "High intensity laser line revealing headline text.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "laser",
+    "reveal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

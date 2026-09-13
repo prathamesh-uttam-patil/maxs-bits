@@ -1,0 +1,16 @@
+{
+  "name": "Target Milestone Countdown Timer",
+  "slug": "target-milestone-countdown-timer",
+  "description": "Days, hours, minutes product launch milestone clock.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "countdown",
+    "launch"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

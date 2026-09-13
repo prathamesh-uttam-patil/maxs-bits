@@ -1,0 +1,16 @@
+{
+  "name": "Social Media Post Skeleton",
+  "slug": "social-media-post-skeleton",
+  "description": "Social card with media box, avatar, and like buttons.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "social",
+    "post"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

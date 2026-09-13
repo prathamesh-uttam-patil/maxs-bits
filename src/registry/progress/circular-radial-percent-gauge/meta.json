@@ -1,0 +1,16 @@
+{
+  "name": "Circular Radial Percent Gauge",
+  "slug": "circular-radial-percent-gauge",
+  "description": "Concentric radial SVG gauge with center numeric label.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "radial",
+    "gauge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

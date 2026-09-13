@@ -1,0 +1,16 @@
+{
+  "name": "Animated Digit Reel Counter",
+  "slug": "animated-digit-reel-counter",
+  "description": "Slot machine vertical digit reel animation.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "reel",
+    "digits"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

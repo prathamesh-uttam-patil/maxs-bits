@@ -1,0 +1,16 @@
+{
+  "name": "Collapsible Code Diff",
+  "slug": "collapsible-code-diff",
+  "description": "Expandable Git style diff viewer panel.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "git",
+    "diff"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

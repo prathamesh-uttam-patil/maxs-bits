@@ -1,0 +1,16 @@
+{
+  "name": "Interactive Hover Card Tooltip",
+  "slug": "interactive-hover-card-tooltip",
+  "description": "User profile bio hover card with follow button.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "hover",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

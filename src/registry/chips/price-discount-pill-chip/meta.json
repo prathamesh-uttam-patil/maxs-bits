@@ -1,0 +1,16 @@
+{
+  "name": "Price Discount Pill Chip",
+  "slug": "price-discount-pill-chip",
+  "description": "Promotion percentage discount sale chip.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "discount",
+    "sale"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

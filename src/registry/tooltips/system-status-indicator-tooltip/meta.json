@@ -1,0 +1,16 @@
+{
+  "name": "System Status Indicator Tooltip",
+  "slug": "system-status-indicator-tooltip",
+  "description": "Uptime health check colored dot tooltip.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "status",
+    "health"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

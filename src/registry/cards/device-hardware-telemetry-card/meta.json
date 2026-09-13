@@ -1,0 +1,16 @@
+{
+  "name": "Device Hardware Telemetry Card",
+  "slug": "device-hardware-telemetry-card",
+  "description": "CPU, RAM, and temperature diagnostic sensor tile.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "telemetry",
+    "hardware"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

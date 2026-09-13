@@ -1,0 +1,16 @@
+{
+  "name": "Frosted Glass Pill Button",
+  "slug": "frosted-glass-pill-button",
+  "description": "Subtle translucent glassmorphic button with sheen.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "glass",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}
