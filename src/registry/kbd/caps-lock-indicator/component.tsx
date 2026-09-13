@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function CapsLockIndicator({ className }: { className?: string }) { const [on, setOn] = useState(true); return <button onClick={() => setOn(!on)} className={cn("inline-flex items-center gap-2 px-3 py-1.5 rounded-lg border border-[var(--border)] bg-[var(--card)] text-xs font-mono font-bold shadow-[0_2px_0_0_var(--border)] active:translate-y-[2px] active:shadow-none", className)}><span className={cn("w-1.5 h-1.5 rounded-full transition-colors", on ? "bg-emerald-500 shadow-[0_0_6px_#10b981]" : "bg-zinc-600")} /><span>Caps Lock</span></button>; }

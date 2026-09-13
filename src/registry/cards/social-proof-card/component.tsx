@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function SocialProofCard({ className }: { className?: string }) { return <div className={cn("w-64 p-3 rounded-xl border border-[var(--border)] bg-[var(--card)] shadow-lg flex items-center gap-3", className)}><div className="w-8 h-8 rounded-full bg-[var(--primary)]/20 text-[var(--primary)] flex items-center justify-center text-sm font-bold">🎉</div><div className="flex-1 min-w-0"><p className="text-xs font-bold truncate">David from London</p><p className="text-[10px] text-[var(--muted-foreground)]">copied Gradient Button 2m ago</p></div></div>; }

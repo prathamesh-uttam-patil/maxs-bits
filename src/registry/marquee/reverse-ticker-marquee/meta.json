@@ -1,0 +1,17 @@
+{
+  "name": "Reverse Ticker Marquee",
+  "slug": "reverse-ticker-marquee",
+  "description": "Ticker scrolling in reverse right-to-left direction.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "reverse",
+    "ticker",
+    "news"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

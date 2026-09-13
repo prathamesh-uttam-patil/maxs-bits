@@ -1,0 +1,17 @@
+{
+  "name": "Semicircle Gauge",
+  "slug": "semicircle-gauge",
+  "description": "Speedometer half-circle performance gauge metric.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "gauge",
+    "semicircle",
+    "speedometer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Share Link Dialog",
+  "slug": "share-link-dialog",
+  "description": "Shareable link popup with instant copy button.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "share",
+    "link",
+    "copy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

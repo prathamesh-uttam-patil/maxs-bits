@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function RangePagination({ className }: { className?: string }) { return <div className={cn("inline-flex items-center gap-3 px-3 py-1.5 rounded-xl border border-[var(--border)] bg-[var(--card)] text-xs font-bold", className)}><span className="text-[var(--muted-foreground)]">Showing <span className="text-[var(--foreground)]">1-20</span> of 249 items</span><div className="flex gap-1"><button className="px-2 py-0.5 rounded bg-[var(--secondary)]">‹</button><button className="px-2 py-0.5 rounded bg-[var(--secondary)]">›</button></div></div>; }

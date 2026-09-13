@@ -1,0 +1,17 @@
+{
+  "name": "Compact Metric Counter",
+  "slug": "compact-metric-counter",
+  "description": "Small metric counter badge with up arrow trend.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "metric",
+    "trend",
+    "kpi"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

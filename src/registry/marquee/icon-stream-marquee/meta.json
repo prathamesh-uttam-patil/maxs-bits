@@ -1,0 +1,17 @@
+{
+  "name": "Icon Stream Marquee",
+  "slug": "icon-stream-marquee",
+  "description": "Infinite tech stack icon stream carousel.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "icons",
+    "stream",
+    "stack"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

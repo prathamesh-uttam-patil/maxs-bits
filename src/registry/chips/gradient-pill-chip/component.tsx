@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function GradientPillChip({ label = "Pro Component", className }: { label?: string; className?: string }) { return <span className={cn("inline-flex p-px rounded-full bg-gradient-to-r from-purple-500 via-pink-500 to-cyan-500 text-xs font-bold", className)}><span className="px-3 py-0.5 rounded-full bg-[var(--card)] text-[var(--foreground)]">{label}</span></span>; }

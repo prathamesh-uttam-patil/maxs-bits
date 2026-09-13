@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function BlurFocusText({ className }: { className?: string }) { return <p className={cn("text-base font-bold flex gap-2 cursor-default group", className)}><span className="transition-all duration-300 group-hover:blur-sm hover:!blur-none">Speed.</span><span className="transition-all duration-300 group-hover:blur-sm hover:!blur-none text-[var(--primary)]">Quality.</span><span className="transition-all duration-300 group-hover:blur-sm hover:!blur-none text-[var(--accent)]">Precision.</span></p>; }

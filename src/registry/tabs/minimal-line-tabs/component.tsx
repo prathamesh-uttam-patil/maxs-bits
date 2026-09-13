@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function MinimalLineTabs({ className }: { className?: string }) { const [idx, setIdx] = useState(0); return <div className={cn("flex border-b border-[var(--border)] gap-4", className)}>{["Overview", "Docs", "Changelog"].map((t, i) => <button key={i} onClick={() => setIdx(i)} className={cn("pb-2 text-xs font-bold transition-all border-b-2", idx === i ? "border-[var(--primary)] text-[var(--primary)]" : "border-transparent text-[var(--muted-foreground)] hover:text-[var(--foreground)]")}>{t}</button>)}</div>; }

@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function ArticleSnippetCard({ className }: { className?: string }) { return <div className={cn("w-64 rounded-2xl border border-[var(--border)] bg-[var(--card)] p-4 space-y-2 hover:border-[var(--primary)]/40 transition-colors cursor-pointer", className)}><div className="flex items-center justify-between text-[10px] text-[var(--muted-foreground)]"><span>Design Systems</span><span>4 min read</span></div><h4 className="text-xs font-bold leading-snug">Building accessible React animations with zero bundle bloat</h4></div>; }

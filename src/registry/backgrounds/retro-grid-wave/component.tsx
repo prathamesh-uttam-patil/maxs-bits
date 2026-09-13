@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function RetroGridWave({ className }: { className?: string }) { return <div className={cn("w-full h-36 rounded-xl bg-purple-950 border border-purple-800 flex items-center justify-center text-xs font-bold text-pink-400 overflow-hidden relative", className)}><div className="absolute inset-0 opacity-25" style={{ backgroundImage: "linear-gradient(rgba(236,72,153,0.5) 1px, transparent 1px), linear-gradient(90deg, rgba(236,72,153,0.5) 1px, transparent 1px)", backgroundSize: "20px 20px" }} /><span>SYNTHWAVE HORIZON</span></div>; }

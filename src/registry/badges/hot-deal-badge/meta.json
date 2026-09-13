@@ -1,0 +1,17 @@
+{
+  "name": "Hot Deal Badge",
+  "slug": "hot-deal-badge",
+  "description": "Pulsing fire badge for featured discount deals.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "hot",
+    "fire",
+    "deal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

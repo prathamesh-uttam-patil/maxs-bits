@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function BarRatingDistribution({ className }: { className?: string }) { return <div className={cn("w-56 space-y-1 text-xs", className)}>{[5, 4, 3, 2, 1].map(n => <div key={n} className="flex items-center gap-2"><span className="w-3 text-[10px] text-[var(--muted-foreground)]">{n}★</span><div className="flex-1 h-1.5 rounded-full bg-[var(--secondary)] overflow-hidden"><div className="h-full bg-amber-400 rounded-full" style={{ width: `${n * 18}%` }} /></div></div>)}</div>; }

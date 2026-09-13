@@ -1,0 +1,17 @@
+{
+  "name": "Bar Rating Distribution",
+  "slug": "bar-rating-distribution",
+  "description": "Product reviews percentage rating bar histogram.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "reviews",
+    "bars",
+    "distribution"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

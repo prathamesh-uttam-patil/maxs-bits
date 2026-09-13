@@ -1,0 +1,17 @@
+{
+  "name": "Blur Focus Text",
+  "slug": "blur-focus-text",
+  "description": "Words that sharpen into focus on hover with depth of field blur.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "blur",
+    "focus",
+    "depth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

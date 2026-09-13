@@ -1,0 +1,17 @@
+{
+  "name": "Minimal Line Tabs",
+  "slug": "minimal-line-tabs",
+  "description": "Ultra clean hairline underline tabs.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "line",
+    "minimal",
+    "clean"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

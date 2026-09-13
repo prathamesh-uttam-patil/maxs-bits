@@ -1,0 +1,17 @@
+{
+  "name": "Article Snippet Card",
+  "slug": "article-snippet-card",
+  "description": "Blog card with reading estimate time and author banner.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "blog",
+    "article",
+    "reading"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

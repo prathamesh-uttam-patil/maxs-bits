@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function SkeletonCommentThread({ className }: { className?: string }) { return <div className={cn("w-64 space-y-2 animate-pulse", className)}><div className="flex gap-2"><div className="w-6 h-6 rounded-full bg-[var(--secondary)]" /><div className="flex-1 space-y-1"><div className="h-2 w-16 rounded bg-[var(--secondary)]" /><div className="h-2 w-full rounded bg-[var(--secondary)]" /></div></div></div>; }

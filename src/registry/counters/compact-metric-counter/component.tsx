@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function CompactMetricCounter({ className }: { className?: string }) { return <div className={cn("inline-flex items-center gap-2 px-3 py-1.5 rounded-xl border border-[var(--border)] bg-[var(--card)] text-xs font-bold", className)}><span className="text-[var(--primary)] font-black">249</span><span>Components</span><span className="text-emerald-500 text-[10px]">↑ 100%</span></div>; }

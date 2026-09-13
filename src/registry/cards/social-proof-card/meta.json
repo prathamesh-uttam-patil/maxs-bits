@@ -1,0 +1,17 @@
+{
+  "name": "Social Proof Card",
+  "slug": "social-proof-card",
+  "description": "Recent signups popup with live relative timestamp.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "social-proof",
+    "signup",
+    "fomo"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function SkeletonMediaFeed({ className }: { className?: string }) { return <div className={cn("w-64 rounded-xl border border-[var(--border)] bg-[var(--card)] p-3 space-y-2.5 animate-pulse", className)}><div className="flex items-center gap-2"><div className="w-7 h-7 rounded-full bg-[var(--secondary)]" /><div className="h-2.5 w-20 rounded bg-[var(--secondary)]" /></div><div className="h-28 w-full rounded-lg bg-[var(--secondary)]" /></div>; }

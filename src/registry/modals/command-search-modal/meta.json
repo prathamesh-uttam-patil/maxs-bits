@@ -1,0 +1,17 @@
+{
+  "name": "Command Search Modal",
+  "slug": "command-search-modal",
+  "description": "Spotlight search modal with quick navigation actions.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "search",
+    "spotlight",
+    "command"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function PulseRingAvatar({ className }: { className?: string }) { return <div className={cn("relative inline-flex items-center justify-center", className)}><span className="absolute w-12 h-12 rounded-full bg-[var(--primary)]/30 animate-ping" /><div className="relative w-10 h-10 rounded-full bg-[var(--primary)] text-white font-bold flex items-center justify-center text-sm">⚡</div></div>; }

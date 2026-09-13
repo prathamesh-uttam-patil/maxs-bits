@@ -1,0 +1,17 @@
+{
+  "name": "Skeleton Media Feed",
+  "slug": "skeleton-media-feed",
+  "description": "Social feed card skeleton with avatar and media image block.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "feed",
+    "media",
+    "image"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

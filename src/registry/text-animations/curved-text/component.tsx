@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function CurvedText({ className }: { className?: string }) { return <div className={cn("relative w-24 h-24 flex items-center justify-center animate-[spin_10s_linear_infinite]", className)}><svg viewBox="0 0 100 100" className="w-full h-full"><path id="curve" d="M 50, 50 m -37, 0 a 37,37 0 1,1 74,0 a 37,37 0 1,1 -74,0" fill="transparent" /><text className="text-[9px] font-mono font-bold fill-[var(--primary)] uppercase tracking-widest"><textPath href="#curve">MAX'S BITS • REACT UI • </textPath></text></svg><span className="absolute text-sm">⚡</span></div>; }

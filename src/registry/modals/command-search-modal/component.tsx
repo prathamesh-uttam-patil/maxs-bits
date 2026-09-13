@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function CommandSearchModal({ className }: { className?: string }) { const [open, setOpen] = useState(false); return <div><button onClick={() => setOpen(true)} className="px-3 py-1.5 rounded-xl border border-[var(--border)] text-xs font-bold bg-[var(--card)]">⌘ Search</button>{open && <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/40 backdrop-blur-sm" onClick={() => setOpen(false)}><div className="w-80 rounded-2xl bg-[var(--card)] border border-[var(--border)] p-4 shadow-2xl space-y-2" onClick={e => e.stopPropagation()}><input autoFocus placeholder="Type command..." className="w-full pb-2 border-b border-[var(--border)] bg-transparent outline-none text-xs font-bold" /><div className="text-[10px] text-[var(--muted-foreground)]">Press ESC to close</div></div></div>}</div>; }

@@ -1,0 +1,17 @@
+{
+  "name": "Drop Shadow Pop Text",
+  "slug": "drop-shadow-pop-text",
+  "description": "3D layered pop text with colorful retro multi-shade offset shadow.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "pop",
+    "3d",
+    "shadow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

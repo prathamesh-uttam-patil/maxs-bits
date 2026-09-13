@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function ReverseTickerMarquee({ className }: { className?: string }) { const items = ["249 components live", "zero dependencies", "copy paste ready"]; return <div className={cn("overflow-hidden w-64 bg-[var(--secondary)] p-1.5 rounded-lg", className)}><div className="flex gap-6 text-[10px] font-bold uppercase tracking-wider text-[var(--primary)]" style={{ width: "max-content" }}>{[...items, ...items].map((it, i) => <span key={i}>• {it}</span>)}</div></div>; }

@@ -1,0 +1,17 @@
+{
+  "name": "Simple Badge Rating",
+  "slug": "simple-badge-rating",
+  "description": "Compact score rating badge with gold star.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "score",
+    "badge",
+    "stars"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

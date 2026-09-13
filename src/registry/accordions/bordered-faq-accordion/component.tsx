@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function BorderedFaqAccordion({ className }: { className?: string }) { const [open, setOpen] = useState(true); return <div className={cn("w-64 rounded-xl border border-[var(--border)] bg-[var(--card)] p-3 text-xs", className)}><button onClick={() => setOpen(!open)} className="w-full flex justify-between font-bold text-left"><span>Is it free?</span><span>{open ? "−" : "+"}</span></button>{open && <p className="mt-2 text-[11px] text-[var(--muted-foreground)]">Yes! 100% free and open-source under MIT.</p>}</div>; }

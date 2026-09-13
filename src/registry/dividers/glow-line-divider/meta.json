@@ -1,0 +1,17 @@
+{
+  "name": "Glow Line Divider",
+  "slug": "glow-line-divider",
+  "description": "High-intensity neon laser glowing divider line.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "glow",
+    "laser",
+    "neon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

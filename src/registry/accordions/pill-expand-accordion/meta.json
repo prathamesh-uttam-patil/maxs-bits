@@ -1,0 +1,17 @@
+{
+  "name": "Pill Expand Accordion",
+  "slug": "pill-expand-accordion",
+  "description": "Pill shaped expandable panel.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "pill",
+    "expand",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

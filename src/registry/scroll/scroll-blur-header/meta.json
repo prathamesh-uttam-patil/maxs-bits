@@ -1,0 +1,17 @@
+{
+  "name": "Scroll Blur Header",
+  "slug": "scroll-blur-header",
+  "description": "Glass blur gradient header that condenses on scroll.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "header",
+    "blur",
+    "sticky"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

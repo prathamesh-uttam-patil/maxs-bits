@@ -1,0 +1,17 @@
+{
+  "name": "Retro Pixel Button",
+  "slug": "retro-pixel-button",
+  "description": "8-bit arcade gaming button with box shadow borders.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "retro",
+    "pixel",
+    "8bit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

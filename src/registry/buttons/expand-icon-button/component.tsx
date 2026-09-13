@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function ExpandIconButton({ className }: { className?: string }) { return <button className={cn("group flex items-center h-10 px-3 rounded-full bg-[var(--primary)] text-white text-xs font-bold overflow-hidden transition-all duration-300 hover:pr-4", className)}><span className="text-sm">⚡</span><span className="max-w-0 opacity-0 group-hover:max-w-xs group-hover:opacity-100 group-hover:ml-2 transition-all duration-300 whitespace-nowrap">Explore Components</span></button>; }

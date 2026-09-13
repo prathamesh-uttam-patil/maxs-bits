@@ -1,0 +1,17 @@
+{
+  "name": "Expand Icon Button",
+  "slug": "expand-icon-button",
+  "description": "Compact circular icon button that slides open label on hover.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "expand",
+    "slide",
+    "icon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

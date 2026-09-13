@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function CreditCardPreview({ className }: { className?: string }) { return <div className={cn("w-64 h-36 rounded-2xl bg-gradient-to-tr from-slate-900 via-purple-950 to-slate-900 text-white p-4 flex flex-col justify-between shadow-xl border border-white/10", className)}><div className="flex justify-between items-center"><span className="text-xs font-mono font-bold tracking-widest">MAX'S BITS</span><span className="text-sm font-black italic">VISA</span></div><div className="text-sm font-mono tracking-widest text-slate-300">•••• •••• •••• 4289</div><div className="flex justify-between text-[10px] text-slate-400 font-mono"><span>PRATHMESH PATIL</span><span>12/28</span></div></div>; }

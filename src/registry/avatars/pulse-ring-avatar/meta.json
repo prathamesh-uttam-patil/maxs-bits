@@ -1,0 +1,17 @@
+{
+  "name": "Pulse Ring Avatar",
+  "slug": "pulse-ring-avatar",
+  "description": "Avatar surrounded by animated radar ping signal rings.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "radar",
+    "ping",
+    "live"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

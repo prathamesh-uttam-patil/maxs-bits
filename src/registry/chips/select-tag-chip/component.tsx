@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function SelectTagChip({ label = "Next.js", className }: { label?: string; className?: string }) { const [selected, setSelected] = useState(false); return <button onClick={() => setSelected(!selected)} className={cn("px-3 py-1 rounded-full text-xs font-semibold border transition-all flex items-center gap-1", selected ? "bg-[var(--primary)] text-white border-[var(--primary)]" : "bg-[var(--card)] text-[var(--muted-foreground)] border-[var(--border)]", className)}><span>{selected ? "✓" : "+"}</span><span>{label}</span></button>; }

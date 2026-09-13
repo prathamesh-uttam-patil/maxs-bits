@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function InlineEditInput({ className }: { className?: string }) { const [editing, setEditing] = useState(false); const [val, setVal] = useState("Click to rename this project"); return editing ? <input autoFocus onBlur={() => setEditing(false)} value={val} onChange={e => setVal(e.target.value)} className={cn("px-2 py-1 rounded-lg border border-[var(--primary)] bg-[var(--background)] text-xs font-bold outline-none", className)} /> : <span onClick={() => setEditing(true)} className={cn("text-xs font-bold cursor-pointer hover:underline text-[var(--foreground)]", className)}>{val} ✏️</span>; }

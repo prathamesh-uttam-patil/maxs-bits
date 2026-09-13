@@ -1,0 +1,17 @@
+{
+  "name": "Select Tag Chip",
+  "slug": "select-tag-chip",
+  "description": "Selectable multi-tag chip button with check indicator.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "select",
+    "tag",
+    "multiselect"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

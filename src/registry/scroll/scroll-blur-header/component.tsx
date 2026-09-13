@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function ScrollBlurHeader({ className }: { className?: string }) { return <div className={cn("w-64 p-3 rounded-xl bg-[var(--background)]/80 backdrop-blur-md border border-[var(--border)] flex justify-between items-center text-xs font-bold", className)}><span>Max's Bits</span><span className="text-[10px] text-[var(--primary)]">v2.5</span></div>; }

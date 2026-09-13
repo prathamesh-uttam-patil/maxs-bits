@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function VoiceSearchInput({ className }: { className?: string }) { const [listening, setListening] = useState(false); return <div className={cn("relative w-64", className)}><input placeholder={listening ? "Listening..." : "Search components..."} className="w-full pl-3 pr-9 py-2 rounded-xl border border-[var(--border)] bg-[var(--background)] text-xs font-medium outline-none focus:border-[var(--primary)]" /><button onClick={() => setListening(!listening)} className={cn("absolute right-2.5 top-1/2 -translate-y-1/2 text-xs p-1 rounded-full", listening && "animate-pulse text-red-500")}>🎤</button></div>; }

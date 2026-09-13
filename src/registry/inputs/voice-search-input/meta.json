@@ -1,0 +1,17 @@
+{
+  "name": "Voice Search Input",
+  "slug": "voice-search-input",
+  "description": "Search bar with microphone audio input visualizer.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "voice",
+    "search",
+    "mic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

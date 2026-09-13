@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function MultiSegmentBar({ className }: { className?: string }) { return <div className={cn("w-64 space-y-1.5", className)}><div className="h-2 w-full rounded-full overflow-hidden flex"><div className="h-full bg-purple-500 w-[45%]" /><div className="h-full bg-pink-500 w-[25%]" /><div className="h-full bg-cyan-400 w-[15%]" /><div className="h-full bg-[var(--secondary)] w-[15%]" /></div><div className="flex justify-between text-[10px] text-[var(--muted-foreground)]"><span>Code 45%</span><span>Media 25%</span><span>Docs 15%</span></div></div>; }

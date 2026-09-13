@@ -1,0 +1,17 @@
+{
+  "name": "Bubble Tabs",
+  "slug": "bubble-tabs",
+  "description": "Rounded floating bubble tab pills.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "bubble",
+    "pills",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

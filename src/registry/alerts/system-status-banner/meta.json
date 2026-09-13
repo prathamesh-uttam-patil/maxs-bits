@@ -1,0 +1,17 @@
+{
+  "name": "System Status Banner",
+  "slug": "system-status-banner",
+  "description": "Incident maintenance status announcement banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "status",
+    "incident",
+    "maintenance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

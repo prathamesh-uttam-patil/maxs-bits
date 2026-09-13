@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function SemicircleGauge({ value = 98, className }: { value?: number; className?: string }) { return <div className={cn("flex flex-col items-center", className)}><div className="relative w-32 h-16 overflow-hidden"><div className="absolute inset-0 rounded-t-full border-[10px] border-emerald-500 border-b-0" /></div><span className="text-lg font-black mt-1">{value}%</span><span className="text-[10px] text-[var(--muted-foreground)]">Lighthouse Score</span></div>; }

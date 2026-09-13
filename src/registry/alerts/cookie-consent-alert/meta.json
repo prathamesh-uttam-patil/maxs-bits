@@ -1,0 +1,17 @@
+{
+  "name": "Cookie Consent Alert",
+  "slug": "cookie-consent-alert",
+  "description": "Privacy cookies notice bottom banner with accept/decline.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "cookies",
+    "privacy",
+    "banner"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

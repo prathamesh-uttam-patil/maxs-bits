@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function HorizontalSmoothScroll({ className }: { className?: string }) { return <div className={cn("flex gap-2 overflow-x-auto py-2 w-64 scrollbar-hide", className)}>{[1,2,3,4].map(i => <div key={i} className="w-20 h-16 rounded-xl bg-[var(--secondary)] border border-[var(--border)] flex items-center justify-center text-xs font-bold shrink-0">Item {i}</div>)}</div>; }

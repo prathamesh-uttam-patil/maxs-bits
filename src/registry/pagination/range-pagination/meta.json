@@ -1,0 +1,16 @@
+{
+  "name": "Range Pagination",
+  "slug": "range-pagination",
+  "description": "Shows currently displayed item index range e.g. 1-20 of 249.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "range",
+    "items"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

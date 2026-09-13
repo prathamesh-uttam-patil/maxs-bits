@@ -1,0 +1,17 @@
+{
+  "name": "Bordered FAQ Accordion",
+  "slug": "bordered-faq-accordion",
+  "description": "Clean box accordion with question highlight active state.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "faq",
+    "bordered",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

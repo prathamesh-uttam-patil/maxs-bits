@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function ShareLinkDialog({ className }: { className?: string }) { const [copied, setCopied] = useState(false); return <div className={cn("w-64 p-3 rounded-2xl border border-[var(--border)] bg-[var(--card)] shadow-lg space-y-2", className)}><h4 className="text-xs font-bold">Share Component</h4><div className="flex gap-1.5"><input readOnly value="https://maxsbits.dev/c/249" className="flex-1 px-2 py-1 rounded-lg border border-[var(--border)] bg-[var(--secondary)] text-[10px] outline-none" /><button onClick={() => { setCopied(true); setTimeout(() => setCopied(false), 1500); }} className="px-2.5 py-1 rounded-lg bg-[var(--primary)] text-white text-[10px] font-bold">{copied ? "✓" : "Copy"}</button></div></div>; }

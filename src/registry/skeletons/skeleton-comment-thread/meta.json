@@ -1,0 +1,17 @@
+{
+  "name": "Skeleton Comment Thread",
+  "slug": "skeleton-comment-thread",
+  "description": "Nested user comments discussion skeleton placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "comment",
+    "thread",
+    "discussion"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

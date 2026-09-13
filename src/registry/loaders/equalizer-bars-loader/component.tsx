@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function EqualizerBarsLoader({ className }: { className?: string }) { return <div className={cn("flex items-end gap-1 h-6", className)}><span className="w-1 bg-[var(--primary)] rounded-full animate-[pulse_0.6s_ease_infinite]" style={{ height: "40%" }} /><span className="w-1 bg-[var(--primary)] rounded-full animate-[pulse_0.9s_ease_infinite]" style={{ height: "100%" }} /><span className="w-1 bg-[var(--primary)] rounded-full animate-[pulse_0.4s_ease_infinite]" style={{ height: "60%" }} /><span className="w-1 bg-[var(--primary)] rounded-full animate-[pulse_0.8s_ease_infinite]" style={{ height: "80%" }} /></div>; }

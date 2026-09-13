@@ -1,0 +1,17 @@
+{
+  "name": "Liquid Drop Loader",
+  "slug": "liquid-drop-loader",
+  "description": "Liquid droplet ripple expanding animation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "liquid",
+    "drop",
+    "ripple"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

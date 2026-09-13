@@ -1,0 +1,17 @@
+{
+  "name": "Equalizer Bars Loader",
+  "slug": "equalizer-bars-loader",
+  "description": "Audio visualizer jumping equalizer sound bars.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "audio",
+    "equalizer",
+    "sound"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

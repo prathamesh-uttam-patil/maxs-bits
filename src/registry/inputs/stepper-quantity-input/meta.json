@@ -1,0 +1,17 @@
+{
+  "name": "Stepper Quantity Input",
+  "slug": "stepper-quantity-input",
+  "description": "Cart quantity counter input with continuous hold increment.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "stepper",
+    "quantity",
+    "cart"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

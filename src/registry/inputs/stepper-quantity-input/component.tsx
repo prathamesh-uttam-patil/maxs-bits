@@ -1,0 +1,4 @@
+"use client";
+import { useState } from "react";
+import { cn } from "@/lib/utils";
+export function StepperQuantityInput({ className }: { className?: string }) { const [qty, setQty] = useState(1); return <div className={cn("inline-flex items-center rounded-xl border border-[var(--border)] bg-[var(--card)] p-1", className)}><button onClick={() => setQty(Math.max(1, qty - 1))} className="w-6 h-6 rounded-lg bg-[var(--secondary)] flex items-center justify-center text-xs font-bold">−</button><span className="w-8 text-center text-xs font-bold tabular-nums">{qty}</span><button onClick={() => setQty(qty + 1)} className="w-6 h-6 rounded-lg bg-[var(--secondary)] flex items-center justify-center text-xs font-bold">+</button></div>; }

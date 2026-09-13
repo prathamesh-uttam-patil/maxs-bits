@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function IconStreamMarquee({ className }: { className?: string }) { const icons = ["⚡", "⚛️", "🎨", "🚀", "💎", "🔥", "🛠️"]; return <div className={cn("overflow-hidden w-64 py-1", className)}><div className="flex gap-4 animate-[spin_20s_linear_infinite]" style={{ width: "max-content" }}>{[...icons, ...icons, ...icons].map((ic, i) => <span key={i} className="text-lg">{ic}</span>)}</div></div>; }

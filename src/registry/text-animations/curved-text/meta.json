@@ -1,0 +1,17 @@
+{
+  "name": "Curved Text",
+  "slug": "curved-text",
+  "description": "Circular orbiting text along SVG curved path.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "curved",
+    "circular",
+    "svg"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

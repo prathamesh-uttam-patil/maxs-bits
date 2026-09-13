@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function SimpleBadgeRating({ score = "4.9", className }: { score?: string; className?: string }) { return <div className={cn("inline-flex items-center gap-1.5 px-2.5 py-1 rounded-xl bg-amber-400/10 border border-amber-400/30 text-xs font-black text-amber-500", className)}><span>★</span><span>{score}</span><span className="text-[10px] text-[var(--muted-foreground)] font-normal">(1.4k)</span></div>; }

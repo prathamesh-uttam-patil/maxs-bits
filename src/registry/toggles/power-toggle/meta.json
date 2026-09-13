@@ -1,0 +1,17 @@
+{
+  "name": "Power Toggle",
+  "slug": "power-toggle",
+  "description": "Circular standby power button toggle switch.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "power",
+    "button",
+    "standby"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

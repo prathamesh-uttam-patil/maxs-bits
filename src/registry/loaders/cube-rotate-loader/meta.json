@@ -1,0 +1,17 @@
+{
+  "name": "Cube Rotate Loader",
+  "slug": "cube-rotate-loader",
+  "description": "3D rotating isometric cube spinner.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "cube",
+    "3d",
+    "isometric"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

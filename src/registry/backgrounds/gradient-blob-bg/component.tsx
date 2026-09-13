@@ -1,0 +1,3 @@
+"use client";
+import { cn } from "@/lib/utils";
+export function GradientBlobBg({ className }: { className?: string }) { return <div className={cn("relative w-full h-36 rounded-xl bg-[var(--background)] border border-[var(--border)] overflow-hidden flex items-center justify-center", className)}><div className="absolute w-24 h-24 rounded-full bg-[var(--primary)]/30 blur-2xl animate-pulse" /><span className="relative z-10 text-xs font-bold">Liquid Aura Blob</span></div>; }

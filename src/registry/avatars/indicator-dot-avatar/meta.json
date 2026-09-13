@@ -1,0 +1,17 @@
+{
+  "name": "Indicator Dot Avatar",
+  "slug": "indicator-dot-avatar",
+  "description": "Avatar with busy/idle/dnd state ring indicator.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "status",
+    "presence",
+    "dot"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}
