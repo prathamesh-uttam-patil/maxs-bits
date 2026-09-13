@@ -1,0 +1,32 @@
+{
+  "name": "Avatar Chip",
+  "slug": "avatar-chip",
+  "description": "Interactive chip featuring user avatar image/emoji, status dot, and clickable tag.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "avatar",
+    "user",
+    "tag",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "name",
+      "type": "string",
+      "required": true,
+      "description": "User name"
+    },
+    {
+      "name": "avatar",
+      "type": "string",
+      "required": false,
+      "default": "👨🏻‍💻",
+      "description": "Avatar emoji or initial"
+    }
+  ]
+}

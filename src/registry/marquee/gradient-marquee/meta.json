@@ -1,0 +1,18 @@
+{
+  "name": "Gradient Marquee",
+  "slug": "gradient-marquee",
+  "description": "Ticker marquee with edge gradient fading masks and color tags.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "gradient",
+    "ticker",
+    "tags",
+    "fade"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

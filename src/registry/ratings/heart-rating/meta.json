@@ -1,0 +1,26 @@
+{
+  "name": "Heart Rating",
+  "slug": "heart-rating",
+  "description": "Interactive heart reaction rating with spring burst animation on selection.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "heart",
+    "like",
+    "reaction",
+    "feedback"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "max",
+      "type": "number",
+      "required": false,
+      "default": "5",
+      "description": "Total hearts"
+    }
+  ]
+}

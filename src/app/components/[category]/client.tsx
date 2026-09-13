@@ -82,8 +82,10 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "tilt-card": dynamic(() => import("@/registry/cards/tilt-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "chips": {
+    "avatar-chip": dynamic(() => import("@/registry/chips/avatar-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "color-chip": dynamic(() => import("@/registry/chips/color-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "filter-chip": dynamic(() => import("@/registry/chips/filter-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "glow-chip": dynamic(() => import("@/registry/chips/glow-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "removable-chip": dynamic(() => import("@/registry/chips/removable-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "status-chip": dynamic(() => import("@/registry/chips/status-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
@@ -139,8 +141,10 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "wave-loader": dynamic(() => import("@/registry/loaders/wave-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "marquee": {
+    "gradient-marquee": dynamic(() => import("@/registry/marquee/gradient-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "infinite-marquee": dynamic(() => import("@/registry/marquee/infinite-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "logo-marquee": dynamic(() => import("@/registry/marquee/logo-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "testimonial-marquee": dynamic(() => import("@/registry/marquee/testimonial-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "vertical-marquee": dynamic(() => import("@/registry/marquee/vertical-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "modals": {
@@ -164,8 +168,10 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   },
   "ratings": {
     "emoji-rating": dynamic(() => import("@/registry/ratings/emoji-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "heart-rating": dynamic(() => import("@/registry/ratings/heart-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "slider-rating": dynamic(() => import("@/registry/ratings/slider-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "star-rating": dynamic(() => import("@/registry/ratings/star-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "thumb-feedback": dynamic(() => import("@/registry/ratings/thumb-feedback/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "scroll": {
     "count-up": dynamic(() => import("@/registry/scroll/count-up/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -178,7 +184,9 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   "skeletons": {
     "skeleton-avatar": dynamic(() => import("@/registry/skeletons/skeleton-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "skeleton-card": dynamic(() => import("@/registry/skeletons/skeleton-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-dashboard": dynamic(() => import("@/registry/skeletons/skeleton-dashboard/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "skeleton-list": dynamic(() => import("@/registry/skeletons/skeleton-list/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-table": dynamic(() => import("@/registry/skeletons/skeleton-table/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "skeleton-text": dynamic(() => import("@/registry/skeletons/skeleton-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "switches": {

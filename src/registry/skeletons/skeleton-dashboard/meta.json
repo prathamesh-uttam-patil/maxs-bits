@@ -1,0 +1,18 @@
+{
+  "name": "Skeleton Dashboard",
+  "slug": "skeleton-dashboard",
+  "description": "Full analytics widget skeleton with metric cards and mini chart.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "dashboard",
+    "chart",
+    "metrics",
+    "analytics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

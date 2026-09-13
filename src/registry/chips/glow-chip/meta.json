@@ -1,0 +1,32 @@
+{
+  "name": "Glow Chip",
+  "slug": "glow-chip",
+  "description": "A futuristic glowing status chip with animated pulse background.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "glow",
+    "neon",
+    "status",
+    "cyberpunk"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Label text"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#10b981",
+      "description": "Glow color"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Testimonial Marquee",
+  "slug": "testimonial-marquee",
+  "description": "Infinite auto-scrolling row of user reviews with pause on hover.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "testimonial",
+    "reviews",
+    "infinite",
+    "scroll"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}
