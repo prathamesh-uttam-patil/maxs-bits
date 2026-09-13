@@ -1,0 +1,16 @@
+{
+  "name": "Media Gallery Lightbox",
+  "slug": "media-gallery-lightbox",
+  "description": "Fullscreen image showcase viewer with thumbnail carousel.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "lightbox",
+    "gallery"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

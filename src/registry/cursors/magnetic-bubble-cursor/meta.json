@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Bubble Cursor",
+  "slug": "magnetic-bubble-cursor",
+  "description": "Elastic bubble cursor that morphs shape around interactive buttons.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "bubble",
+    "magnetic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

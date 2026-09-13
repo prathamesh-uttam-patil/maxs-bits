@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Stargazers Marquee",
+  "slug": "github-stargazers-marquee",
+  "description": "Scrolling avatars of recent GitHub repo stargazers.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "github",
+    "stargazers"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

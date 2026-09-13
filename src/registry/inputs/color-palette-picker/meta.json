@@ -1,0 +1,16 @@
+{
+  "name": "Color Palette Picker",
+  "slug": "color-palette-picker",
+  "description": "Preset hex swatches color selection input.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "color",
+    "palette"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

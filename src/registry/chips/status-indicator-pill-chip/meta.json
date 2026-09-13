@@ -1,0 +1,16 @@
+{
+  "name": "Status Indicator Pill Chip",
+  "slug": "status-indicator-pill-chip",
+  "description": "Pill chip with dual status text and colored dot.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "status",
+    "indicator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

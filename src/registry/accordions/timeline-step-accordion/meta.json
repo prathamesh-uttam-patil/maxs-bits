@@ -1,0 +1,16 @@
+{
+  "name": "Timeline Step Accordion",
+  "slug": "timeline-step-accordion",
+  "description": "Accordion integrated into vertical numbered process line.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "timeline",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

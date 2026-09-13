@@ -1,0 +1,16 @@
+{
+  "name": "Team Cluster Avatar Group",
+  "slug": "team-cluster-avatar-group",
+  "description": "Honeycomb cluster of collaborator user avatars.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "team",
+    "cluster"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

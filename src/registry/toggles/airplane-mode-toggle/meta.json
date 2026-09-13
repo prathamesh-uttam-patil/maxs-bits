@@ -1,0 +1,16 @@
+{
+  "name": "Airplane Mode Toggle",
+  "slug": "airplane-mode-toggle",
+  "description": "Flight mode toggle with flying airplane transition.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "airplane",
+    "flight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

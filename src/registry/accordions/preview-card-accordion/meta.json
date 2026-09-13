@@ -1,0 +1,16 @@
+{
+  "name": "Preview Card Accordion",
+  "slug": "preview-card-accordion",
+  "description": "Accordion that shows mini interactive widgets inside.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "card",
+    "preview"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

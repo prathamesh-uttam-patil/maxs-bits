@@ -1,0 +1,16 @@
+{
+  "name": "Slider Page Navigator",
+  "slug": "slider-page-navigator",
+  "description": "Scrubber range slider for fast document pagination.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "slider",
+    "navigator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

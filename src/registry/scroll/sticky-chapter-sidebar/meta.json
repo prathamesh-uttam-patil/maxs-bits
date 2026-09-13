@@ -1,0 +1,16 @@
+{
+  "name": "Sticky Chapter Sidebar",
+  "slug": "sticky-chapter-sidebar",
+  "description": "Documentation sticky table of contents navigation.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "chapter",
+    "toc"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

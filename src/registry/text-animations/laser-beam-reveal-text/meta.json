@@ -1,0 +1,16 @@
+{
+  "name": "Laser Beam Reveal Text",
+  "slug": "laser-beam-reveal-text",
+  "description": "Glowing laser line that sweeps across text to reveal letters.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "laser",
+    "reveal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Kanban Board",
+  "slug": "skeleton-kanban-board",
+  "description": "Task management board columns skeleton placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "kanban",
+    "board"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

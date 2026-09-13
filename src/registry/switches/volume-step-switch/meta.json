@@ -1,0 +1,16 @@
+{
+  "name": "Volume Step Switch",
+  "slug": "volume-step-switch",
+  "description": "3-stage low/medium/high audio volume step selector.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "volume",
+    "audio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

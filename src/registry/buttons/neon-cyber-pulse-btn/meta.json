@@ -1,0 +1,16 @@
+{
+  "name": "Neon Cyber Pulse Button",
+  "slug": "neon-cyber-pulse-btn",
+  "description": "Cyberpunk inspired pulsating neon laser CTA button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "neon",
+    "cyber"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

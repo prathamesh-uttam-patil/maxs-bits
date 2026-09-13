@@ -1,0 +1,16 @@
+{
+  "name": "Shortcut Badge Tooltip",
+  "slug": "shortcut-badge-tooltip",
+  "description": "Tooltip with keyboard key combination graphic.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "shortcut",
+    "kbd"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Code Comment Divider",
+  "slug": "code-comment-divider",
+  "description": "Developer syntax style // --- SECTION --- divider.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "code",
+    "comment"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

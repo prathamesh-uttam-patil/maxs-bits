@@ -1,0 +1,16 @@
+{
+  "name": "Animated Crypto Ticker Counter",
+  "slug": "animated-crypto-ticker-counter",
+  "description": "Stock ticker price flipper with green/red delta.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "crypto",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

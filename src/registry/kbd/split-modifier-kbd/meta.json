@@ -1,0 +1,16 @@
+{
+  "name": "Split Modifier KBD",
+  "slug": "split-modifier-kbd",
+  "description": "Visual shortcut badge for dual modifier shortcuts.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "modifier",
+    "keys"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

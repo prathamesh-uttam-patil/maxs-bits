@@ -1,0 +1,16 @@
+{
+  "name": "Hologram Shimmer Button",
+  "slug": "hologram-shimmer-btn",
+  "description": "Iridescent holographic shimmer foil sheen CTA button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "hologram",
+    "shimmer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

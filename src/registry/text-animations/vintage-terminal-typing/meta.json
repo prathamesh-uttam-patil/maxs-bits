@@ -1,0 +1,16 @@
+{
+  "name": "Vintage Terminal Typing",
+  "slug": "vintage-terminal-typing",
+  "description": "Retro monochrome CRT terminal blinking cursor typing.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "terminal",
+    "retro"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

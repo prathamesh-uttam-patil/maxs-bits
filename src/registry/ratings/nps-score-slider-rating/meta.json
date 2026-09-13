@@ -1,0 +1,16 @@
+{
+  "name": "NPS Score Slider Rating",
+  "slug": "nps-score-slider-rating",
+  "description": "Net Promoter Score 1-10 survey rating bar.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "nps",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

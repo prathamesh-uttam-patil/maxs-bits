@@ -1,0 +1,16 @@
+{
+  "name": "Reaction Picker Bar",
+  "slug": "reaction-picker-bar",
+  "description": "Slack style emoji sentiment feedback bar.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "reaction",
+    "picker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

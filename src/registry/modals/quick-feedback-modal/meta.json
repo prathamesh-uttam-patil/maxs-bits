@@ -1,0 +1,16 @@
+{
+  "name": "Quick Feedback Modal",
+  "slug": "quick-feedback-modal",
+  "description": "Minimal user satisfaction survey dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "feedback",
+    "survey"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Chip Style Breadcrumbs",
+  "slug": "chip-style-breadcrumbs",
+  "description": "Rounded pill chip path sequence with folder icons.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "chip",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Milestone Track Progress",
+  "slug": "milestone-track-progress",
+  "description": "Roadmap timeline with completed milestone flags.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "milestone",
+    "track"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

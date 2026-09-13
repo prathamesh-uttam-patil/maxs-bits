@@ -1,0 +1,16 @@
+{
+  "name": "Streak Counter Badge",
+  "slug": "streak-counter-badge",
+  "description": "Gamification daily streak counter flame badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "streak",
+    "fire"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

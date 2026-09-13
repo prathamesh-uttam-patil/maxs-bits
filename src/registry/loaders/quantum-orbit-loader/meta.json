@@ -1,0 +1,16 @@
+{
+  "name": "Quantum Orbit Loader",
+  "slug": "quantum-orbit-loader",
+  "description": "Multi-axis planetary quantum electron orbital spinner.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "quantum",
+    "orbit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Infinity Loop Loader",
+  "slug": "infinity-loop-loader",
+  "description": "Figure-eight path tracing infinity symbol loader.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "infinity",
+    "loop"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

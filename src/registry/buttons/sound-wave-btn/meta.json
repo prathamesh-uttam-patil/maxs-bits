@@ -1,0 +1,16 @@
+{
+  "name": "Sound Wave Button",
+  "slug": "sound-wave-btn",
+  "description": "Button with animated sound wave bars reacting on hover.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "audio",
+    "wave"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

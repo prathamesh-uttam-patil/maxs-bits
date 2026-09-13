@@ -1,0 +1,16 @@
+{
+  "name": "Glow Gradient Outline Card",
+  "slug": "glow-gradient-outline-card",
+  "description": "Card with animated gradient glow tracing border outline.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "glow",
+    "outline"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

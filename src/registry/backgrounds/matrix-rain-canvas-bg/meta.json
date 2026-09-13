@@ -1,0 +1,16 @@
+{
+  "name": "Matrix Rain Canvas BG",
+  "slug": "matrix-rain-canvas-bg",
+  "description": "Digital green rain matrix canvas particle field.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "matrix",
+    "canvas"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

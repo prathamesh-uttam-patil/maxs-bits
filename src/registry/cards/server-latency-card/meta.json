@@ -1,0 +1,16 @@
+{
+  "name": "Server Latency Card",
+  "slug": "server-latency-card",
+  "description": "Realtime network ping and uptime metric card.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "server",
+    "uptime"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Git Commit Card",
+  "slug": "git-commit-card",
+  "description": "GitHub style commit history card with diff badge.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "git",
+    "commit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

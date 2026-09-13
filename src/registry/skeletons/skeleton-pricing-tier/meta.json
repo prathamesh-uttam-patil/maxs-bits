@@ -1,0 +1,16 @@
+{
+  "name": "Skeleton Pricing Tier",
+  "slug": "skeleton-pricing-tier",
+  "description": "Subscription plan pricing matrix skeleton.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "pricing",
+    "tier"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

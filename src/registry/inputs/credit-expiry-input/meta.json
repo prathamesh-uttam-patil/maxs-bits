@@ -1,0 +1,16 @@
+{
+  "name": "Credit Expiry Input",
+  "slug": "credit-expiry-input",
+  "description": "Auto-formatting MM/YY credit card expiration field.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "credit",
+    "expiry"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

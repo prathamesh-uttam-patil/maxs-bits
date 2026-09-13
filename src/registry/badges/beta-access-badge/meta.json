@@ -1,0 +1,16 @@
+{
+  "name": "Beta Access Badge",
+  "slug": "beta-access-badge",
+  "description": "Early adopter holographic gradient beta badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "beta",
+    "early"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

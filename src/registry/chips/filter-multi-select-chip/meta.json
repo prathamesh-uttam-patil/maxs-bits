@@ -1,0 +1,16 @@
+{
+  "name": "Filter Multi Select Chip",
+  "slug": "filter-multi-select-chip",
+  "description": "Interactive search query facet filter chip.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "filter",
+    "select"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}
