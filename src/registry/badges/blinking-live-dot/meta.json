@@ -1,0 +1,19 @@
+{
+  "name": "Blinking Live Dot",
+  "slug": "blinking-live-dot",
+  "description": "Real-time live streaming beacon indicator with rhythmic radar pulse.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "live",
+    "beacon",
+    "dot",
+    "pulse",
+    "stream"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

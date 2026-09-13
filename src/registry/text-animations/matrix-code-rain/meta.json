@@ -1,0 +1,18 @@
+{
+  "name": "Matrix Code Rain",
+  "slug": "matrix-code-rain",
+  "description": "Cyberpunk green matrix character stream text effect.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "matrix",
+    "cyberpunk",
+    "terminal",
+    "code"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

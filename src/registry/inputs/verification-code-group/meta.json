@@ -1,0 +1,18 @@
+{
+  "name": "Verification Code Group",
+  "slug": "verification-code-group",
+  "description": "6-digit segmented authentication verification input group.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "otp",
+    "code",
+    "verification",
+    "2fa"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

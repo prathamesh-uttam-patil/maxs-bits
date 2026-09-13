@@ -1,0 +1,18 @@
+{
+  "name": "Glow Border Pill Button",
+  "slug": "glow-border-pill-button",
+  "description": "Pill shaped CTA button with dynamic rotating gradient border trace.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "pill",
+    "glow",
+    "border",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

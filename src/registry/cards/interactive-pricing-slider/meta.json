@@ -1,0 +1,18 @@
+{
+  "name": "Interactive Pricing Slider",
+  "slug": "interactive-pricing-slider",
+  "description": "Interactive price calculation card with tier calculation on slider drag.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "pricing",
+    "slider",
+    "tier",
+    "calculator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

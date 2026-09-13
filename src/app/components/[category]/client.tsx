@@ -41,6 +41,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   "badges": {
     "animated-badge": dynamic(() => import("@/registry/badges/animated-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "badge-group": dynamic(() => import("@/registry/badges/badge-group/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "blinking-live-dot": dynamic(() => import("@/registry/badges/blinking-live-dot/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "count-badge": dynamic(() => import("@/registry/badges/count-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-badge": dynamic(() => import("@/registry/badges/gradient-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "notification-badge": dynamic(() => import("@/registry/badges/notification-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -59,6 +60,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "bounce-button": dynamic(() => import("@/registry/buttons/bounce-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "confetti-button": dynamic(() => import("@/registry/buttons/confetti-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "copy-button": dynamic(() => import("@/registry/buttons/copy-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "glow-border-pill-button": dynamic(() => import("@/registry/buttons/glow-border-pill-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "glow-button": dynamic(() => import("@/registry/buttons/glow-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-border-button": dynamic(() => import("@/registry/buttons/gradient-border-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-button": dynamic(() => import("@/registry/buttons/gradient-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -81,6 +83,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "glass-card": dynamic(() => import("@/registry/cards/glass-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-card": dynamic(() => import("@/registry/cards/gradient-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "hover-reveal-card": dynamic(() => import("@/registry/cards/hover-reveal-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "interactive-pricing-slider": dynamic(() => import("@/registry/cards/interactive-pricing-slider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "metric-growth-card": dynamic(() => import("@/registry/cards/metric-growth-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "notification-card": dynamic(() => import("@/registry/cards/notification-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "pricing-card": dynamic(() => import("@/registry/cards/pricing-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -135,6 +138,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "select-input": dynamic(() => import("@/registry/inputs/select-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "tag-input": dynamic(() => import("@/registry/inputs/tag-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "textarea-auto": dynamic(() => import("@/registry/inputs/textarea-auto/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "verification-code-group": dynamic(() => import("@/registry/inputs/verification-code-group/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "kbd": {
     "command-palette-kbd": dynamic(() => import("@/registry/kbd/command-palette-kbd/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -145,6 +149,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
   "loaders": {
     "bar-loader": dynamic(() => import("@/registry/loaders/bar-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "clock-loader": dynamic(() => import("@/registry/loaders/clock-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "dna-spinner-loader": dynamic(() => import("@/registry/loaders/dna-spinner-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "dots-grid": dynamic(() => import("@/registry/loaders/dots-grid/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "orbit-loader": dynamic(() => import("@/registry/loaders/orbit-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "progress-loader": dynamic(() => import("@/registry/loaders/progress-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -179,6 +184,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "gradient-bar": dynamic(() => import("@/registry/progress/gradient-bar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "radial-progress": dynamic(() => import("@/registry/progress/radial-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "steps-progress": dynamic(() => import("@/registry/progress/steps-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "striped-animated-progress": dynamic(() => import("@/registry/progress/striped-animated-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },
   "ratings": {
     "emoji-rating": dynamic(() => import("@/registry/ratings/emoji-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
@@ -227,6 +233,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "glitch-text": dynamic(() => import("@/registry/text-animations/glitch-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-text": dynamic(() => import("@/registry/text-animations/gradient-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "highlight-text": dynamic(() => import("@/registry/text-animations/highlight-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "matrix-code-rain": dynamic(() => import("@/registry/text-animations/matrix-code-rain/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "scramble-text": dynamic(() => import("@/registry/text-animations/scramble-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "shimmer-gradient-text": dynamic(() => import("@/registry/text-animations/shimmer-gradient-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "typewriter-text": dynamic(() => import("@/registry/text-animations/typewriter-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
