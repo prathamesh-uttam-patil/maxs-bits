@@ -1,0 +1,32 @@
+{
+  "name": "Status Chip",
+  "slug": "status-chip",
+  "description": "A chip displaying status with contextual icon and color.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "status",
+    "success",
+    "error",
+    "warning",
+    "contextual"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "status",
+      "type": "\"success\"|\"error\"|\"warning\"|\"info\"",
+      "required": true,
+      "description": "Status type"
+    },
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Status label"
+    }
+  ]
+}

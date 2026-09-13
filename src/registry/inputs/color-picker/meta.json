@@ -1,0 +1,26 @@
+{
+  "name": "Color Picker",
+  "slug": "color-picker",
+  "description": "A styled color picker input with hex display and copy.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "color",
+    "picker",
+    "hex",
+    "palette"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "defaultColor",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Default color"
+    }
+  ]
+}

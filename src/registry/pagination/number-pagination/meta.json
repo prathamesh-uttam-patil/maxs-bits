@@ -1,0 +1,30 @@
+{
+  "name": "Number Pagination",
+  "slug": "number-pagination",
+  "description": "A numbered pagination with prev/next arrows and active state.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "numbers",
+    "pages",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "total",
+      "type": "number",
+      "required": true,
+      "description": "Total pages"
+    },
+    {
+      "name": "current",
+      "type": "number",
+      "required": true,
+      "description": "Current page (1-based)"
+    }
+  ]
+}

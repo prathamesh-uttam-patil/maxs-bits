@@ -1,0 +1,32 @@
+{
+  "name": "Pin Input",
+  "slug": "pin-input",
+  "description": "A PIN input with masked dots and shake animation on error.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "pin",
+    "password",
+    "masked",
+    "secure"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "length",
+      "type": "number",
+      "required": false,
+      "default": "4",
+      "description": "PIN length"
+    },
+    {
+      "name": "onComplete",
+      "type": "(pin: string) => void",
+      "required": false,
+      "description": "Called when PIN is filled"
+    }
+  ]
+}

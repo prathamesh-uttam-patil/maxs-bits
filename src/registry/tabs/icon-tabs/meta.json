@@ -1,0 +1,25 @@
+{
+  "name": "Icon Tabs",
+  "slug": "icon-tabs",
+  "description": "Tabs with emoji icons and labels stacked vertically.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "icon",
+    "emoji",
+    "vertical",
+    "compact"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "tabs",
+      "type": "{icon:string;label:string}[]",
+      "required": true,
+      "description": "Tab items with icon and label"
+    }
+  ]
+}

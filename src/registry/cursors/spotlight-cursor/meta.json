@@ -1,0 +1,31 @@
+{
+  "name": "Spotlight Cursor",
+  "slug": "spotlight-cursor",
+  "description": "A radial spotlight effect that follows the cursor within a container.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "spotlight",
+    "mouse",
+    "glow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Container content"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "rgba(139,92,246,0.15)",
+      "description": "Spotlight color"
+    }
+  ]
+}

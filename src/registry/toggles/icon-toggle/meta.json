@@ -1,0 +1,24 @@
+{
+  "name": "Icon Toggle",
+  "slug": "icon-toggle",
+  "description": "A toggle that swaps between two icons with rotation animation.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "icon",
+    "switch",
+    "rotate"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "checked",
+      "type": "boolean",
+      "required": false,
+      "description": "Toggle state"
+    }
+  ]
+}

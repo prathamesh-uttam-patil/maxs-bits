@@ -1,0 +1,30 @@
+{
+  "name": "Gradient Tooltip",
+  "slug": "gradient-tooltip",
+  "description": "A tooltip with an animated gradient background.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "gradient",
+    "hover",
+    "colorful"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Trigger element"
+    },
+    {
+      "name": "content",
+      "type": "string",
+      "required": true,
+      "description": "Tooltip text"
+    }
+  ]
+}

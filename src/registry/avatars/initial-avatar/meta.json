@@ -1,0 +1,31 @@
+{
+  "name": "Initial Avatar",
+  "slug": "initial-avatar",
+  "description": "An avatar showing initials with a consistent hashed background color.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "initials",
+    "placeholder",
+    "generated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "name",
+      "type": "string",
+      "required": true,
+      "description": "Full name"
+    },
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "40",
+      "description": "Size in px"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Logo Marquee",
+  "slug": "logo-marquee",
+  "description": "A marquee strip of brand logos with grayscale-to-color hover effect.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "logo",
+    "brand",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "logos",
+      "type": "string[]",
+      "required": true,
+      "description": "Logo text/emoji list"
+    }
+  ]
+}

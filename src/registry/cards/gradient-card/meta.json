@@ -1,0 +1,24 @@
+{
+  "name": "Gradient Card",
+  "slug": "gradient-card",
+  "description": "A card with a subtle gradient background and glow border on hover.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "gradient",
+    "glow",
+    "hover"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Card content"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Copy Button",
+  "slug": "copy-button",
+  "description": "A button that copies text and shows a checkmark confirmation.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "copy",
+    "clipboard",
+    "confirm"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "required": true,
+      "description": "Text to copy"
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": false,
+      "description": "Button content"
+    }
+  ]
+}

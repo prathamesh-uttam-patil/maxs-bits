@@ -1,0 +1,224 @@
+"use client";
+import { useState, useMemo, useCallback } from "react";
+import dynamic from "next/dynamic";
+import { ComponentCard } from "@/components/site/component-card";
+import { SearchBar } from "@/components/site/search-bar";
+import type { ComponentMeta } from "@/lib/registry";
+const d: Record<string, Record<string, React.ComponentType>> = {
+  "accordions": {
+    "gradient-accordion": dynamic(() => import("@/registry/accordions/gradient-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "multi-accordion": dynamic(() => import("@/registry/accordions/multi-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "smooth-accordion": dynamic(() => import("@/registry/accordions/smooth-accordion/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "alerts": {
+    "animated-alert": dynamic(() => import("@/registry/alerts/animated-alert/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "banner-alert": dynamic(() => import("@/registry/alerts/banner-alert/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "toast-notification": dynamic(() => import("@/registry/alerts/toast-notification/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "avatars": {
+    "avatar-group": dynamic(() => import("@/registry/avatars/avatar-group/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "bordered-avatar": dynamic(() => import("@/registry/avatars/bordered-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "initial-avatar": dynamic(() => import("@/registry/avatars/initial-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "ring-avatar": dynamic(() => import("@/registry/avatars/ring-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "status-avatar": dynamic(() => import("@/registry/avatars/status-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "backgrounds": {
+    "aurora-background": dynamic(() => import("@/registry/backgrounds/aurora-background/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "dot-pattern": dynamic(() => import("@/registry/backgrounds/dot-pattern/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-mesh": dynamic(() => import("@/registry/backgrounds/gradient-mesh/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "grid-background": dynamic(() => import("@/registry/backgrounds/grid-background/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "noise-bg": dynamic(() => import("@/registry/backgrounds/noise-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "particles-background": dynamic(() => import("@/registry/backgrounds/particles-background/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "badges": {
+    "animated-badge": dynamic(() => import("@/registry/badges/animated-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "count-badge": dynamic(() => import("@/registry/badges/count-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-badge": dynamic(() => import("@/registry/badges/gradient-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "notification-badge": dynamic(() => import("@/registry/badges/notification-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pulse-badge": dynamic(() => import("@/registry/badges/pulse-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "status-badge": dynamic(() => import("@/registry/badges/status-badge/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "breadcrumbs": {
+    "animated-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/animated-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "icon-breadcrumbs": dynamic(() => import("@/registry/breadcrumbs/icon-breadcrumbs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "buttons": {
+    "3d-button": dynamic(() => import("@/registry/buttons/3d-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "bounce-button": dynamic(() => import("@/registry/buttons/bounce-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "copy-button": dynamic(() => import("@/registry/buttons/copy-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "glow-button": dynamic(() => import("@/registry/buttons/glow-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-border-button": dynamic(() => import("@/registry/buttons/gradient-border-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-button": dynamic(() => import("@/registry/buttons/gradient-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "icon-button": dynamic(() => import("@/registry/buttons/icon-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "like-button": dynamic(() => import("@/registry/buttons/like-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "loading-button": dynamic(() => import("@/registry/buttons/loading-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "magnetic-button": dynamic(() => import("@/registry/buttons/magnetic-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "neon-button": dynamic(() => import("@/registry/buttons/neon-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "outline-button": dynamic(() => import("@/registry/buttons/outline-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pulse-button": dynamic(() => import("@/registry/buttons/pulse-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "ripple-button": dynamic(() => import("@/registry/buttons/ripple-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "shimmer-button": dynamic(() => import("@/registry/buttons/shimmer-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "social-button": dynamic(() => import("@/registry/buttons/social-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "split-button": dynamic(() => import("@/registry/buttons/split-button/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "cards": {
+    "feature-card": dynamic(() => import("@/registry/cards/feature-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "flip-card": dynamic(() => import("@/registry/cards/flip-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "glass-card": dynamic(() => import("@/registry/cards/glass-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-card": dynamic(() => import("@/registry/cards/gradient-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "hover-reveal-card": dynamic(() => import("@/registry/cards/hover-reveal-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "notification-card": dynamic(() => import("@/registry/cards/notification-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pricing-card": dynamic(() => import("@/registry/cards/pricing-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "profile-card": dynamic(() => import("@/registry/cards/profile-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "spotlight-card": dynamic(() => import("@/registry/cards/spotlight-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "stats-card": dynamic(() => import("@/registry/cards/stats-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "testimonial-card": dynamic(() => import("@/registry/cards/testimonial-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "tilt-card": dynamic(() => import("@/registry/cards/tilt-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "chips": {
+    "color-chip": dynamic(() => import("@/registry/chips/color-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "filter-chip": dynamic(() => import("@/registry/chips/filter-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "removable-chip": dynamic(() => import("@/registry/chips/removable-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "status-chip": dynamic(() => import("@/registry/chips/status-chip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "counters": {
+    "animated-counter": dynamic(() => import("@/registry/counters/animated-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "flip-counter": dynamic(() => import("@/registry/counters/flip-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "timer-counter": dynamic(() => import("@/registry/counters/timer-counter/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "cursors": {
+    "spotlight-cursor": dynamic(() => import("@/registry/cursors/spotlight-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "trail-cursor": dynamic(() => import("@/registry/cursors/trail-cursor/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "dividers": {
+    "dot-divider": dynamic(() => import("@/registry/dividers/dot-divider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-divider": dynamic(() => import("@/registry/dividers/gradient-divider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "text-divider": dynamic(() => import("@/registry/dividers/text-divider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "wave-divider": dynamic(() => import("@/registry/dividers/wave-divider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "inputs": {
+    "animated-border-input": dynamic(() => import("@/registry/inputs/animated-border-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "color-picker": dynamic(() => import("@/registry/inputs/color-picker/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "floating-input": dynamic(() => import("@/registry/inputs/floating-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "number-input": dynamic(() => import("@/registry/inputs/number-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "otp-input": dynamic(() => import("@/registry/inputs/otp-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "password-input": dynamic(() => import("@/registry/inputs/password-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pin-input": dynamic(() => import("@/registry/inputs/pin-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "range-slider": dynamic(() => import("@/registry/inputs/range-slider/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "search-input": dynamic(() => import("@/registry/inputs/search-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "select-input": dynamic(() => import("@/registry/inputs/select-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "tag-input": dynamic(() => import("@/registry/inputs/tag-input/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "textarea-auto": dynamic(() => import("@/registry/inputs/textarea-auto/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "kbd": {
+    "keyboard-key": dynamic(() => import("@/registry/kbd/keyboard-key/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "shortcut-display": dynamic(() => import("@/registry/kbd/shortcut-display/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "loaders": {
+    "bar-loader": dynamic(() => import("@/registry/loaders/bar-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "clock-loader": dynamic(() => import("@/registry/loaders/clock-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "dots-grid": dynamic(() => import("@/registry/loaders/dots-grid/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "orbit-loader": dynamic(() => import("@/registry/loaders/orbit-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "progress-loader": dynamic(() => import("@/registry/loaders/progress-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pulse-dots": dynamic(() => import("@/registry/loaders/pulse-dots/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-shimmer": dynamic(() => import("@/registry/loaders/skeleton-shimmer/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "spinner-loader": dynamic(() => import("@/registry/loaders/spinner-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "typing-loader": dynamic(() => import("@/registry/loaders/typing-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "wave-loader": dynamic(() => import("@/registry/loaders/wave-loader/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "marquee": {
+    "infinite-marquee": dynamic(() => import("@/registry/marquee/infinite-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "logo-marquee": dynamic(() => import("@/registry/marquee/logo-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "vertical-marquee": dynamic(() => import("@/registry/marquee/vertical-marquee/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "modals": {
+    "confirm-dialog": dynamic(() => import("@/registry/modals/confirm-dialog/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "scale-modal": dynamic(() => import("@/registry/modals/scale-modal/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "slide-drawer": dynamic(() => import("@/registry/modals/slide-drawer/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "pagination": {
+    "dot-pagination": dynamic(() => import("@/registry/pagination/dot-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "number-pagination": dynamic(() => import("@/registry/pagination/number-pagination/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "progress": {
+    "circular-progress": dynamic(() => import("@/registry/progress/circular-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-bar": dynamic(() => import("@/registry/progress/gradient-bar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "radial-progress": dynamic(() => import("@/registry/progress/radial-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "steps-progress": dynamic(() => import("@/registry/progress/steps-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "ratings": {
+    "emoji-rating": dynamic(() => import("@/registry/ratings/emoji-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "slider-rating": dynamic(() => import("@/registry/ratings/slider-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "star-rating": dynamic(() => import("@/registry/ratings/star-rating/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "scroll": {
+    "count-up": dynamic(() => import("@/registry/scroll/count-up/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "fade-in-scroll": dynamic(() => import("@/registry/scroll/fade-in-scroll/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "parallax-text": dynamic(() => import("@/registry/scroll/parallax-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "reveal-on-scroll": dynamic(() => import("@/registry/scroll/reveal-on-scroll/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "scroll-progress": dynamic(() => import("@/registry/scroll/scroll-progress/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "scroll-to-top": dynamic(() => import("@/registry/scroll/scroll-to-top/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "skeletons": {
+    "skeleton-avatar": dynamic(() => import("@/registry/skeletons/skeleton-avatar/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-card": dynamic(() => import("@/registry/skeletons/skeleton-card/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-list": dynamic(() => import("@/registry/skeletons/skeleton-list/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "skeleton-text": dynamic(() => import("@/registry/skeletons/skeleton-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "switches": {
+    "labeled-switch": dynamic(() => import("@/registry/switches/labeled-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "theme-switch": dynamic(() => import("@/registry/switches/theme-switch/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "tabs": {
+    "animated-tabs": dynamic(() => import("@/registry/tabs/animated-tabs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "icon-tabs": dynamic(() => import("@/registry/tabs/icon-tabs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "pill-tabs": dynamic(() => import("@/registry/tabs/pill-tabs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "underline-tabs": dynamic(() => import("@/registry/tabs/underline-tabs/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "text-animations": {
+    "blur-reveal-text": dynamic(() => import("@/registry/text-animations/blur-reveal-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "counter-text": dynamic(() => import("@/registry/text-animations/counter-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "fade-words": dynamic(() => import("@/registry/text-animations/fade-words/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "glitch-text": dynamic(() => import("@/registry/text-animations/glitch-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-text": dynamic(() => import("@/registry/text-animations/gradient-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "highlight-text": dynamic(() => import("@/registry/text-animations/highlight-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "scramble-text": dynamic(() => import("@/registry/text-animations/scramble-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "typewriter-text": dynamic(() => import("@/registry/text-animations/typewriter-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "typing-delete": dynamic(() => import("@/registry/text-animations/typing-delete/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "wave-text": dynamic(() => import("@/registry/text-animations/wave-text/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "timeline": {
+    "horizontal-timeline": dynamic(() => import("@/registry/timeline/horizontal-timeline/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "vertical-timeline": dynamic(() => import("@/registry/timeline/vertical-timeline/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "toggles": {
+    "checkbox-toggle": dynamic(() => import("@/registry/toggles/checkbox-toggle/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "day-night-toggle": dynamic(() => import("@/registry/toggles/day-night-toggle/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "icon-toggle": dynamic(() => import("@/registry/toggles/icon-toggle/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "liquid-toggle": dynamic(() => import("@/registry/toggles/liquid-toggle/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "radio-group": dynamic(() => import("@/registry/toggles/radio-group/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+  "tooltips": {
+    "animated-tooltip": dynamic(() => import("@/registry/tooltips/animated-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-tooltip": dynamic(() => import("@/registry/tooltips/gradient-tooltip/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+  },
+};
+export function CategoryPageClient({ components }: { components: ComponentMeta[] }) {
+  const [q, setQ] = useState("");
+  const handleSearch = useCallback((v: string) => { setQ(v); }, []);
+  const filtered = useMemo(() => {
+    if (!q) return components;
+    const l = q.toLowerCase();
+    return components.filter((c) => c.name.toLowerCase().includes(l) || c.description.toLowerCase().includes(l) || c.tags.some((t) => t.toLowerCase().includes(l)));
+  }, [components, q]);
+  return (
+    <>
+      <SearchBar onSearch={handleSearch} className="mb-8 max-w-md" />
+      {filtered.length === 0 ? <div className="text-center py-20"><p className="text-[var(--muted-foreground)] text-lg">No components found matching &quot;{q}&quot;</p></div> : (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+          {filtered.map((c) => { const D = d[c.category]?.[c.slug]; return <ComponentCard key={c.slug} component={c}>{D ? <D /> : null}</ComponentCard>; })}
+        </div>
+      )}
+    </>
+  );
+}

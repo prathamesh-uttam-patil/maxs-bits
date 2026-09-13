@@ -1,0 +1,16 @@
+{
+  "name": "Glow Button",
+  "slug": "glow-button",
+  "description": "A neon glow button that intensifies its glowing effect on hover.",
+  "category": "buttons",
+  "tags": ["button", "glow", "neon", "hover", "shadow"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Button content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" },
+    { "name": "glowColor", "type": "string", "required": false, "default": "#8b5cf6", "description": "Color of the glow effect" }
+  ]
+}

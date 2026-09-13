@@ -1,0 +1,31 @@
+{
+  "name": "Removable Chip",
+  "slug": "removable-chip",
+  "description": "A chip that can be removed with a close button and shrink animation.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "removable",
+    "tag",
+    "close",
+    "dismiss"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Chip label"
+    },
+    {
+      "name": "onRemove",
+      "type": "() => void",
+      "required": false,
+      "description": "Remove handler"
+    }
+  ]
+}

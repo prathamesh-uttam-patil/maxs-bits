@@ -1,0 +1,25 @@
+{
+  "name": "Gradient Border Button",
+  "slug": "gradient-border-button",
+  "description": "A button with animated rotating gradient border.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "gradient",
+    "border",
+    "animated",
+    "rotating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button content"
+    }
+  ]
+}

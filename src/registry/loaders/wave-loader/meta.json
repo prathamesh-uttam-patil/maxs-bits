@@ -1,0 +1,26 @@
+{
+  "name": "Wave Loader",
+  "slug": "wave-loader",
+  "description": "Vertical bars that animate like a sound wave.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "wave",
+    "bars",
+    "equalizer",
+    "music"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "var(--primary)",
+      "description": "Bar color"
+    }
+  ]
+}

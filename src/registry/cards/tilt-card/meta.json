@@ -1,0 +1,16 @@
+{
+  "name": "3D Tilt Card",
+  "slug": "tilt-card",
+  "description": "A card that tilts in 3D space following your cursor movement for an interactive hover effect.",
+  "category": "cards",
+  "tags": ["card", "3D", "tilt", "hover", "interactive"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Card content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" },
+    { "name": "maxTilt", "type": "number", "required": false, "default": "15", "description": "Maximum tilt angle in degrees" }
+  ]
+}

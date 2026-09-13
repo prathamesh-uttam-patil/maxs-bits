@@ -1,0 +1,32 @@
+{
+  "name": "Trail Cursor",
+  "slug": "trail-cursor",
+  "description": "A cursor with colorful trailing dots that follow movement.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "trail",
+    "dots",
+    "follow",
+    "mouse"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Container content"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Trail color"
+    }
+  ]
+}

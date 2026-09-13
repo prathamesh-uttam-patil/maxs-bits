@@ -1,0 +1,32 @@
+{
+  "name": "Vertical Marquee",
+  "slug": "vertical-marquee",
+  "description": "A vertical scrolling marquee for testimonials or news.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "vertical",
+    "scroll",
+    "ticker",
+    "news"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "string[]",
+      "required": true,
+      "description": "Items to scroll"
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "required": false,
+      "default": "20",
+      "description": "Speed in seconds"
+    }
+  ]
+}

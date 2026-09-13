@@ -1,0 +1,24 @@
+{
+  "name": "Flip Counter",
+  "slug": "flip-counter",
+  "description": "A digit counter with flip card animation.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "flip",
+    "digit",
+    "animated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "value",
+      "type": "number",
+      "required": true,
+      "description": "Display value"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Like Button",
+  "slug": "like-button",
+  "description": "An animated heart like button with burst particle effect.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "like",
+    "heart",
+    "animated",
+    "reaction"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "onLike",
+      "type": "() => void",
+      "required": false,
+      "description": "Like handler"
+    }
+  ]
+}

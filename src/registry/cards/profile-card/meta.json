@@ -1,0 +1,37 @@
+{
+  "name": "Profile Card",
+  "slug": "profile-card",
+  "description": "A user profile card with avatar, name, bio and social links.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "profile",
+    "user",
+    "social",
+    "bio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "name",
+      "type": "string",
+      "required": true,
+      "description": "User name"
+    },
+    {
+      "name": "bio",
+      "type": "string",
+      "required": true,
+      "description": "Bio text"
+    },
+    {
+      "name": "avatar",
+      "type": "string",
+      "required": false,
+      "description": "Avatar emoji"
+    }
+  ]
+}

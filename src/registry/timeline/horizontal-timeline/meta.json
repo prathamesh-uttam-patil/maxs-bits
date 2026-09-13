@@ -1,0 +1,31 @@
+{
+  "name": "Horizontal Timeline",
+  "slug": "horizontal-timeline",
+  "description": "A horizontal timeline with milestone dots and labels.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "horizontal",
+    "milestones",
+    "progress"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{label:string;date:string}[]",
+      "required": true,
+      "description": "Timeline items"
+    },
+    {
+      "name": "activeIndex",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Active item"
+    }
+  ]
+}

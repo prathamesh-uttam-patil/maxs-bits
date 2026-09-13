@@ -1,0 +1,27 @@
+{
+  "name": "Theme Switch",
+  "slug": "theme-switch",
+  "description": "A switch with sun/moon icons for theme toggling.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "theme",
+    "dark",
+    "light",
+    "sun",
+    "moon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "isDark",
+      "type": "boolean",
+      "required": false,
+      "default": "false",
+      "description": "Dark mode state"
+    }
+  ]
+}

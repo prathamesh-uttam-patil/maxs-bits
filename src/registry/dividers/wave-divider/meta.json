@@ -1,0 +1,25 @@
+{
+  "name": "Wave Divider",
+  "slug": "wave-divider",
+  "description": "A decorative SVG wave section divider.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "wave",
+    "svg",
+    "section"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "var(--primary)",
+      "description": "Wave color"
+    }
+  ]
+}

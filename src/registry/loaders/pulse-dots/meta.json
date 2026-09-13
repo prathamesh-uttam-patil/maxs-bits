@@ -1,0 +1,16 @@
+{
+  "name": "Pulse Dots",
+  "slug": "pulse-dots",
+  "description": "Three dots that pulse in sequence, creating a smooth loading indicator.",
+  "category": "loaders",
+  "tags": ["loader", "dots", "pulse", "bounce", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "size", "type": "number", "required": false, "default": "10", "description": "Dot size in px" },
+    { "name": "color", "type": "string", "required": false, "default": "#8b5cf6", "description": "Dot color" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

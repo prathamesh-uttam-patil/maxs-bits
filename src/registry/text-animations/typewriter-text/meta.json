@@ -1,0 +1,16 @@
+{
+  "name": "Typewriter Text",
+  "slug": "typewriter-text",
+  "description": "A text animation that types out characters one by one with a blinking cursor.",
+  "category": "text-animations",
+  "tags": ["text", "typewriter", "animation", "cursor"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "text", "type": "string", "required": true, "description": "The text to type out" },
+    { "name": "speed", "type": "number", "required": false, "default": "80", "description": "Typing speed in ms per character" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Notification Card",
+  "slug": "notification-card",
+  "description": "A notification card with icon, message, time, and dismiss action.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "notification",
+    "message",
+    "dismiss"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "icon",
+      "type": "string",
+      "required": false,
+      "description": "Icon emoji"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Notification title"
+    },
+    {
+      "name": "message",
+      "type": "string",
+      "required": true,
+      "description": "Notification message"
+    },
+    {
+      "name": "time",
+      "type": "string",
+      "required": false,
+      "description": "Time ago text"
+    }
+  ]
+}

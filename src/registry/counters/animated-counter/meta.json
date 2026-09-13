@@ -1,0 +1,39 @@
+{
+  "name": "Animated Counter",
+  "slug": "animated-counter",
+  "description": "A number counter with increment/decrement buttons and rolling animation.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "number",
+    "increment",
+    "animated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "initial",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Starting value"
+    },
+    {
+      "name": "min",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Minimum value"
+    },
+    {
+      "name": "max",
+      "type": "number",
+      "required": false,
+      "default": "99",
+      "description": "Maximum value"
+    }
+  ]
+}

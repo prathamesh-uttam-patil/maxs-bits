@@ -1,0 +1,32 @@
+{
+  "name": "Noise Background",
+  "slug": "noise-bg",
+  "description": "A subtle noise/grain texture overlay background.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "noise",
+    "grain",
+    "texture",
+    "subtle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": false,
+      "description": "Content overlay"
+    },
+    {
+      "name": "opacity",
+      "type": "number",
+      "required": false,
+      "default": "0.05",
+      "description": "Noise opacity"
+    }
+  ]
+}

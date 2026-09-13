@@ -1,0 +1,15 @@
+{
+  "name": "Glitch Text",
+  "slug": "glitch-text",
+  "description": "A cyberpunk-style glitch text effect with colorful distortion layers.",
+  "category": "text-animations",
+  "tags": ["text", "glitch", "cyberpunk", "distortion"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "string", "required": true, "description": "The text to display" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

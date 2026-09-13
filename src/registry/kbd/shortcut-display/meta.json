@@ -1,0 +1,24 @@
+{
+  "name": "Shortcut Display",
+  "slug": "shortcut-display",
+  "description": "Displays keyboard shortcuts with styled keys and plus separators.",
+  "category": "kbd",
+  "tags": [
+    "keyboard",
+    "shortcut",
+    "combo",
+    "display"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "keys",
+      "type": "string[]",
+      "required": true,
+      "description": "Key labels to display"
+    }
+  ]
+}

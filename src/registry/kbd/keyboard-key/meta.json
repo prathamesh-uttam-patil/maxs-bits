@@ -1,0 +1,25 @@
+{
+  "name": "Keyboard Key",
+  "slug": "keyboard-key",
+  "description": "A styled keyboard key with press animation for shortcut hints.",
+  "category": "kbd",
+  "tags": [
+    "keyboard",
+    "key",
+    "shortcut",
+    "kbd",
+    "press"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Key label"
+    }
+  ]
+}

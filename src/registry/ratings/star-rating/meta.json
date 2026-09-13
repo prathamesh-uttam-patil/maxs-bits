@@ -1,0 +1,38 @@
+{
+  "name": "Star Rating",
+  "slug": "star-rating",
+  "description": "Interactive star rating with hover preview and smooth fill animation.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "star",
+    "review",
+    "interactive"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "max",
+      "type": "number",
+      "required": false,
+      "default": "5",
+      "description": "Maximum stars"
+    },
+    {
+      "name": "value",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Current rating"
+    },
+    {
+      "name": "onChange",
+      "type": "(value: number) => void",
+      "required": false,
+      "description": "Change handler"
+    }
+  ]
+}

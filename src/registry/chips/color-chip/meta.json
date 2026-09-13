@@ -1,0 +1,32 @@
+{
+  "name": "Color Chip",
+  "slug": "color-chip",
+  "description": "A chip with a colored dot indicator.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "color",
+    "dot",
+    "label",
+    "tag"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Chip label"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Dot color"
+    }
+  ]
+}

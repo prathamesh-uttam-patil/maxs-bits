@@ -1,0 +1,31 @@
+{
+  "name": "Search Input",
+  "slug": "search-input",
+  "description": "A search input with an expanding animation and built-in icon.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "search",
+    "expand",
+    "icon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "placeholder",
+      "type": "string",
+      "required": false,
+      "default": "Search...",
+      "description": "Placeholder text"
+    },
+    {
+      "name": "onSearch",
+      "type": "(query: string) => void",
+      "required": false,
+      "description": "Search handler"
+    }
+  ]
+}

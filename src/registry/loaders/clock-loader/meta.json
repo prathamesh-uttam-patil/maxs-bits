@@ -1,0 +1,26 @@
+{
+  "name": "Clock Loader",
+  "slug": "clock-loader",
+  "description": "A minimal clock-style loader with rotating hands.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "clock",
+    "time",
+    "rotating",
+    "minimal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "32",
+      "description": "Size in px"
+    }
+  ]
+}

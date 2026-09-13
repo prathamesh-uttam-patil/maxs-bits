@@ -1,0 +1,31 @@
+{
+  "name": "Parallax Text",
+  "slug": "parallax-text",
+  "description": "Text that moves at a different speed on scroll creating a parallax effect.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "parallax",
+    "text",
+    "motion"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Text content"
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "required": false,
+      "default": "0.5",
+      "description": "Parallax speed multiplier"
+    }
+  ]
+}

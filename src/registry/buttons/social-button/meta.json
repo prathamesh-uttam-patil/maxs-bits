@@ -1,0 +1,30 @@
+{
+  "name": "Social Button",
+  "slug": "social-button",
+  "description": "Social media login buttons with brand colors and icons.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "social",
+    "login",
+    "brand"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "provider",
+      "type": "\"google\"|\"github\"|\"twitter\"",
+      "required": true,
+      "description": "Social provider"
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button text"
+    }
+  ]
+}

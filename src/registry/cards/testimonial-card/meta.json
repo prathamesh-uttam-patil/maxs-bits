@@ -1,0 +1,36 @@
+{
+  "name": "Testimonial Card",
+  "slug": "testimonial-card",
+  "description": "A testimonial card with quote, author name, and avatar.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "testimonial",
+    "review",
+    "quote"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "quote",
+      "type": "string",
+      "required": true,
+      "description": "Testimonial text"
+    },
+    {
+      "name": "author",
+      "type": "string",
+      "required": true,
+      "description": "Author name"
+    },
+    {
+      "name": "role",
+      "type": "string",
+      "required": false,
+      "description": "Author role"
+    }
+  ]
+}

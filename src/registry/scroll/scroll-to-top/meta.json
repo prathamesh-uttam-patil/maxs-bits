@@ -1,0 +1,26 @@
+{
+  "name": "Scroll To Top",
+  "slug": "scroll-to-top",
+  "description": "A floating button that appears on scroll and smoothly scrolls to top.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "top",
+    "button",
+    "floating",
+    "back"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "threshold",
+      "type": "number",
+      "required": false,
+      "default": "300",
+      "description": "Scroll threshold in px"
+    }
+  ]
+}

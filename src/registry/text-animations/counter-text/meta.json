@@ -1,0 +1,32 @@
+{
+  "name": "Counter Text",
+  "slug": "counter-text",
+  "description": "Animated number counter that rolls up to target value.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "counter",
+    "number",
+    "roll",
+    "animated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "target",
+      "type": "number",
+      "required": true,
+      "description": "Target number"
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "required": false,
+      "default": "2000",
+      "description": "Animation duration ms"
+    }
+  ]
+}

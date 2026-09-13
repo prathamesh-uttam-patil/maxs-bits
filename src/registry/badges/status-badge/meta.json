@@ -1,0 +1,31 @@
+{
+  "name": "Status Badge",
+  "slug": "status-badge",
+  "description": "A badge with a pulsing dot indicator for showing status.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "status",
+    "online",
+    "offline",
+    "dot"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "status",
+      "type": "\"online\"|\"offline\"|\"busy\"|\"away\"",
+      "required": true,
+      "description": "Status type"
+    },
+    {
+      "name": "label",
+      "type": "string",
+      "required": false,
+      "description": "Status label"
+    }
+  ]
+}

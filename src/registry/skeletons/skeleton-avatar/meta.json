@@ -1,0 +1,25 @@
+{
+  "name": "Skeleton Avatar",
+  "slug": "skeleton-avatar",
+  "description": "A skeleton placeholder for avatar with shimmer effect.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "avatar",
+    "placeholder",
+    "loading"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "40",
+      "description": "Size in px"
+    }
+  ]
+}

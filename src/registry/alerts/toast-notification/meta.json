@@ -1,0 +1,31 @@
+{
+  "name": "Toast Notification",
+  "slug": "toast-notification",
+  "description": "A toast that slides in from bottom and auto-dismisses.",
+  "category": "alerts",
+  "tags": [
+    "toast",
+    "notification",
+    "popup",
+    "snackbar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "message",
+      "type": "string",
+      "required": true,
+      "description": "Toast message"
+    },
+    {
+      "name": "duration",
+      "type": "number",
+      "required": false,
+      "default": "3000",
+      "description": "Auto-dismiss ms"
+    }
+  ]
+}

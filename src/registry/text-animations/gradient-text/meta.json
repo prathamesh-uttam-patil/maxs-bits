@@ -1,0 +1,15 @@
+{
+  "name": "Gradient Text",
+  "slug": "gradient-text",
+  "description": "Animated gradient text that smoothly shifts through colors.",
+  "category": "text-animations",
+  "tags": ["text", "gradient", "animation", "colorful"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "The text content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Scale Modal",
+  "slug": "scale-modal",
+  "description": "A modal dialog that scales in from center with backdrop blur.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "dialog",
+    "scale",
+    "popup"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "isOpen",
+      "type": "boolean",
+      "required": true,
+      "description": "Open state"
+    },
+    {
+      "name": "onClose",
+      "type": "() => void",
+      "required": true,
+      "description": "Close handler"
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Modal content"
+    }
+  ]
+}

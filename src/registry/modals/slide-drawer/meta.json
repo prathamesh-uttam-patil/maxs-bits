@@ -1,0 +1,37 @@
+{
+  "name": "Slide Drawer",
+  "slug": "slide-drawer",
+  "description": "A side drawer that slides in from the right with backdrop.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "drawer",
+    "slide",
+    "sidebar",
+    "panel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "isOpen",
+      "type": "boolean",
+      "required": true,
+      "description": "Open state"
+    },
+    {
+      "name": "onClose",
+      "type": "() => void",
+      "required": true,
+      "description": "Close handler"
+    },
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Drawer content"
+    }
+  ]
+}

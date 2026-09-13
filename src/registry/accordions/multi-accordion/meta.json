@@ -1,0 +1,24 @@
+{
+  "name": "Multi Accordion",
+  "slug": "multi-accordion",
+  "description": "An accordion that allows multiple panels to be open simultaneously.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "multi",
+    "expand",
+    "simultaneous"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{title:string;content:string}[]",
+      "required": true,
+      "description": "Accordion items"
+    }
+  ]
+}

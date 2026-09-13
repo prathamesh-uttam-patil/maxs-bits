@@ -1,0 +1,24 @@
+{
+  "name": "Dot Pattern",
+  "slug": "dot-pattern",
+  "description": "A subtle dot pattern background with radial fade.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "dots",
+    "pattern",
+    "subtle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": false,
+      "description": "Content overlay"
+    }
+  ]
+}

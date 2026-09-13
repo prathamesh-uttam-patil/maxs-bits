@@ -1,0 +1,15 @@
+{
+  "name": "Aurora Background",
+  "slug": "aurora-background",
+  "description": "A beautiful aurora borealis effect with smoothly shifting gradient blobs.",
+  "category": "backgrounds",
+  "tags": ["background", "aurora", "gradient", "animated", "borealis"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": false, "description": "Content to overlay" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

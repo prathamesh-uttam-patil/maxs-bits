@@ -1,0 +1,31 @@
+{
+  "name": "Flip Card",
+  "slug": "flip-card",
+  "description": "A card that flips to reveal back content on hover.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "flip",
+    "3d",
+    "hover",
+    "reveal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "front",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Front content"
+    },
+    {
+      "name": "back",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Back content"
+    }
+  ]
+}

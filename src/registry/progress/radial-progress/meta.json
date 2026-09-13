@@ -1,0 +1,32 @@
+{
+  "name": "Radial Progress",
+  "slug": "radial-progress",
+  "description": "A radial/ring progress indicator with percentage text.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "radial",
+    "ring",
+    "donut",
+    "percentage"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "value",
+      "type": "number",
+      "required": true,
+      "description": "Progress 0-100"
+    },
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "80",
+      "description": "Size in px"
+    }
+  ]
+}

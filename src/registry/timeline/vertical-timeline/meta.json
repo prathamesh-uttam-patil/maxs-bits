@@ -1,0 +1,24 @@
+{
+  "name": "Vertical Timeline",
+  "slug": "vertical-timeline",
+  "description": "A vertical timeline with connected dots and alternating content.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "history",
+    "events",
+    "vertical"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{title:string;description:string;date:string}[]",
+      "required": true,
+      "description": "Timeline items"
+    }
+  ]
+}

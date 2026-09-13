@@ -1,0 +1,38 @@
+{
+  "name": "Number Input",
+  "slug": "number-input",
+  "description": "A styled number input with increment/decrement buttons.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "number",
+    "stepper",
+    "increment",
+    "decrement"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "defaultValue",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Default value"
+    },
+    {
+      "name": "min",
+      "type": "number",
+      "required": false,
+      "description": "Minimum"
+    },
+    {
+      "name": "max",
+      "type": "number",
+      "required": false,
+      "description": "Maximum"
+    }
+  ]
+}

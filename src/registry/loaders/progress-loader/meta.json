@@ -1,0 +1,26 @@
+{
+  "name": "Progress Loader",
+  "slug": "progress-loader",
+  "description": "A thin animated progress bar at the top of a container.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "progress",
+    "bar",
+    "top",
+    "nprogress"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "loading",
+      "type": "boolean",
+      "required": false,
+      "default": "true",
+      "description": "Loading state"
+    }
+  ]
+}

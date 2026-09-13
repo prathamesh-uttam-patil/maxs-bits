@@ -1,0 +1,43 @@
+{
+  "name": "Pricing Card",
+  "slug": "pricing-card",
+  "description": "A sleek pricing card with feature list and highlighted CTA.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "pricing",
+    "plan",
+    "features"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "plan",
+      "type": "string",
+      "required": true,
+      "description": "Plan name"
+    },
+    {
+      "name": "price",
+      "type": "string",
+      "required": true,
+      "description": "Price display"
+    },
+    {
+      "name": "features",
+      "type": "string[]",
+      "required": true,
+      "description": "Feature list"
+    },
+    {
+      "name": "highlighted",
+      "type": "boolean",
+      "required": false,
+      "default": "false",
+      "description": "Highlight this plan"
+    }
+  ]
+}

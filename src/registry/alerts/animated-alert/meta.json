@@ -1,0 +1,31 @@
+{
+  "name": "Animated Alert",
+  "slug": "animated-alert",
+  "description": "A dismissible alert that slides in and can be closed with smooth exit.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "notification",
+    "dismiss",
+    "animated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Alert content"
+    },
+    {
+      "name": "variant",
+      "type": "\"info\"|\"success\"|\"warning\"|\"error\"",
+      "required": false,
+      "default": "info",
+      "description": "Alert variant"
+    }
+  ]
+}

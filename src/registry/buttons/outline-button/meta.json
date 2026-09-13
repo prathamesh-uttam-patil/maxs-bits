@@ -1,0 +1,25 @@
+{
+  "name": "Outline Expand Button",
+  "slug": "outline-button",
+  "description": "An outline button that fills with color on hover from left to right.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "outline",
+    "expand",
+    "fill",
+    "hover"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button content"
+    }
+  ]
+}

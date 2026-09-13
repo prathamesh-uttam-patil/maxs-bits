@@ -1,0 +1,32 @@
+{
+  "name": "Auto Textarea",
+  "slug": "textarea-auto",
+  "description": "A textarea that automatically grows with content.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "textarea",
+    "auto",
+    "grow",
+    "resize"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "placeholder",
+      "type": "string",
+      "required": false,
+      "description": "Placeholder text"
+    },
+    {
+      "name": "maxRows",
+      "type": "number",
+      "required": false,
+      "default": "6",
+      "description": "Max rows"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "name": "Skeleton Shimmer",
+  "slug": "skeleton-shimmer",
+  "description": "A configurable skeleton block with shimmer animation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "skeleton",
+    "shimmer",
+    "placeholder"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "width",
+      "type": "string",
+      "required": false,
+      "default": "100%",
+      "description": "Width"
+    },
+    {
+      "name": "height",
+      "type": "string",
+      "required": false,
+      "default": "1rem",
+      "description": "Height"
+    },
+    {
+      "name": "rounded",
+      "type": "boolean",
+      "required": false,
+      "default": "false",
+      "description": "Rounded"
+    }
+  ]
+}

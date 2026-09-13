@@ -1,0 +1,16 @@
+{
+  "name": "OTP Input",
+  "slug": "otp-input",
+  "description": "A one-time password input with individual digit boxes and auto-focus behavior.",
+  "category": "inputs",
+  "tags": ["input", "OTP", "verification", "code", "digits"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "length", "type": "number", "required": false, "default": "6", "description": "Number of digits" },
+    { "name": "onComplete", "type": "(code: string) => void", "required": false, "description": "Called when all digits are filled" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

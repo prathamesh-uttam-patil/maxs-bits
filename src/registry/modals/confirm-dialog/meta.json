@@ -1,0 +1,49 @@
+{
+  "name": "Confirm Dialog",
+  "slug": "confirm-dialog",
+  "description": "A confirmation dialog with action buttons and backdrop.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "dialog",
+    "confirm",
+    "action",
+    "alert"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "isOpen",
+      "type": "boolean",
+      "required": true,
+      "description": "Open state"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Dialog title"
+    },
+    {
+      "name": "message",
+      "type": "string",
+      "required": true,
+      "description": "Dialog message"
+    },
+    {
+      "name": "onConfirm",
+      "type": "() => void",
+      "required": true,
+      "description": "Confirm handler"
+    },
+    {
+      "name": "onCancel",
+      "type": "() => void",
+      "required": true,
+      "description": "Cancel handler"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Spinner Loader",
+  "slug": "spinner-loader",
+  "description": "A classic gradient spinner with smooth rotation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "spinner",
+    "rotating",
+    "classic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "32",
+      "description": "Size in px"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Spinner color"
+    }
+  ]
+}

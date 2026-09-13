@@ -1,0 +1,25 @@
+{
+  "name": "Wave Text",
+  "slug": "wave-text",
+  "description": "Text with a wave animation where each letter bounces sequentially.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "wave",
+    "bounce",
+    "letter",
+    "sequential"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "text",
+      "type": "string",
+      "required": true,
+      "description": "Text to animate"
+    }
+  ]
+}

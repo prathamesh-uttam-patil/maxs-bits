@@ -1,0 +1,30 @@
+{
+  "name": "Icon Button",
+  "slug": "icon-button",
+  "description": "A compact icon-only button with tooltip on hover.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "icon",
+    "compact",
+    "toolbar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "icon",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Icon element"
+    },
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Tooltip label"
+    }
+  ]
+}

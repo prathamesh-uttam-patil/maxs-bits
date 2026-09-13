@@ -1,0 +1,32 @@
+{
+  "name": "Typing Delete",
+  "slug": "typing-delete",
+  "description": "Types text, pauses, deletes it, then types the next word.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "typing",
+    "delete",
+    "backspace",
+    "loop"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "words",
+      "type": "string[]",
+      "required": true,
+      "description": "Words to cycle"
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "required": false,
+      "default": "100",
+      "description": "Typing speed ms"
+    }
+  ]
+}

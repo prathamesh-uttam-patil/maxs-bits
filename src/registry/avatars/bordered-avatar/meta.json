@@ -1,0 +1,38 @@
+{
+  "name": "Bordered Avatar",
+  "slug": "bordered-avatar",
+  "description": "An avatar with a gradient animated spinning border.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "border",
+    "gradient",
+    "spinning",
+    "instagram"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "src",
+      "type": "string",
+      "required": false,
+      "description": "Image URL"
+    },
+    {
+      "name": "name",
+      "type": "string",
+      "required": true,
+      "description": "Name for initials"
+    },
+    {
+      "name": "size",
+      "type": "number",
+      "required": false,
+      "default": "48",
+      "description": "Size in px"
+    }
+  ]
+}

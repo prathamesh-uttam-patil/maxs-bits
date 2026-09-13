@@ -1,0 +1,17 @@
+{
+  "name": "Bar Loader",
+  "slug": "bar-loader",
+  "description": "An animated progress bar loader with a smooth sweeping gradient animation.",
+  "category": "loaders",
+  "tags": ["loader", "bar", "progress", "gradient", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "width", "type": "number", "required": false, "default": "200", "description": "Width of the bar in px" },
+    { "name": "height", "type": "number", "required": false, "default": "4", "description": "Height of the bar in px" },
+    { "name": "color", "type": "string", "required": false, "default": "#8b5cf6", "description": "Bar color" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

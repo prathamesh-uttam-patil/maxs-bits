@@ -1,0 +1,24 @@
+{
+  "name": "Icon Breadcrumbs",
+  "slug": "icon-breadcrumbs",
+  "description": "Breadcrumbs with home icon and arrow separators.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "icon",
+    "home",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{label:string;href?:string}[]",
+      "required": true,
+      "description": "Breadcrumb items"
+    }
+  ]
+}

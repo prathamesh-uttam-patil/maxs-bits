@@ -1,0 +1,37 @@
+{
+  "name": "Filter Chip",
+  "slug": "filter-chip",
+  "description": "Toggleable filter chips with smooth selection animation.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "filter",
+    "tag",
+    "toggle",
+    "select"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Chip label"
+    },
+    {
+      "name": "selected",
+      "type": "boolean",
+      "required": false,
+      "description": "Selection state"
+    },
+    {
+      "name": "onClick",
+      "type": "() => void",
+      "required": false,
+      "description": "Click handler"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Day/Night Toggle",
+  "slug": "day-night-toggle",
+  "description": "A beautiful day/night theme toggle with sun, moon, and stars animation.",
+  "category": "toggles",
+  "tags": ["toggle", "theme", "day", "night", "sun", "moon"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "isDark", "type": "boolean", "required": false, "default": "false", "description": "Dark mode state" },
+    { "name": "onChange", "type": "(isDark: boolean) => void", "required": false, "description": "Change handler" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

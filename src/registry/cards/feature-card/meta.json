@@ -1,0 +1,36 @@
+{
+  "name": "Feature Card",
+  "slug": "feature-card",
+  "description": "A feature card with icon, title, description and subtle hover lift.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "feature",
+    "icon",
+    "landing"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "icon",
+      "type": "string",
+      "required": true,
+      "description": "Icon/emoji"
+    },
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Feature title"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "required": true,
+      "description": "Feature description"
+    }
+  ]
+}

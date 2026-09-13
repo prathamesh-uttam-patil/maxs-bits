@@ -1,0 +1,32 @@
+{
+  "name": "Select Input",
+  "slug": "select-input",
+  "description": "A styled custom select dropdown with smooth open animation.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "select",
+    "dropdown",
+    "custom",
+    "styled"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "options",
+      "type": "string[]",
+      "required": true,
+      "description": "Select options"
+    },
+    {
+      "name": "placeholder",
+      "type": "string",
+      "required": false,
+      "default": "Select...",
+      "description": "Placeholder"
+    }
+  ]
+}

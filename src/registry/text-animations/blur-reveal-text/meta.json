@@ -1,0 +1,15 @@
+{
+  "name": "Blur Reveal Text",
+  "slug": "blur-reveal-text",
+  "description": "Text that reveals itself from a blur with a staggered letter-by-letter animation.",
+  "category": "text-animations",
+  "tags": ["text", "blur", "reveal", "stagger", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": ["framer-motion"],
+  "props": [
+    { "name": "text", "type": "string", "required": true, "description": "Text to reveal" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

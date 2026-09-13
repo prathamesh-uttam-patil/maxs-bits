@@ -1,0 +1,32 @@
+{
+  "name": "Reveal On Scroll",
+  "slug": "reveal-on-scroll",
+  "description": "Content that fades and slides up when scrolled into view.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "reveal",
+    "fade",
+    "intersection",
+    "observer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Content to reveal"
+    },
+    {
+      "name": "direction",
+      "type": "\"up\"|\"left\"|\"right\"",
+      "required": false,
+      "default": "up",
+      "description": "Direction"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Loading Button",
+  "slug": "loading-button",
+  "description": "A button with a built-in loading spinner state.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "loading",
+    "spinner",
+    "async"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button content"
+    },
+    {
+      "name": "loading",
+      "type": "boolean",
+      "required": false,
+      "default": "false",
+      "description": "Loading state"
+    }
+  ]
+}

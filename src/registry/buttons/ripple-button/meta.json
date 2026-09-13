@@ -1,0 +1,15 @@
+{
+  "name": "Ripple Button",
+  "slug": "ripple-button",
+  "description": "A Material Design-inspired button with a ripple effect on click.",
+  "category": "buttons",
+  "tags": ["button", "ripple", "material", "click", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Button content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

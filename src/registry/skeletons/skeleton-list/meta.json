@@ -1,0 +1,25 @@
+{
+  "name": "Skeleton List",
+  "slug": "skeleton-list",
+  "description": "A skeleton placeholder for list items with icon and text.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "list",
+    "placeholder",
+    "loading"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "count",
+      "type": "number",
+      "required": false,
+      "default": "3",
+      "description": "Number of items"
+    }
+  ]
+}

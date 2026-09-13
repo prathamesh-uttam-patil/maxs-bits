@@ -1,0 +1,31 @@
+{
+  "name": "Underline Tabs",
+  "slug": "underline-tabs",
+  "description": "Tabs with a smooth sliding underline indicator.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "underline",
+    "indicator",
+    "sliding"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "tabs",
+      "type": "string[]",
+      "required": true,
+      "description": "Tab labels"
+    },
+    {
+      "name": "defaultIndex",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Default active tab"
+    }
+  ]
+}

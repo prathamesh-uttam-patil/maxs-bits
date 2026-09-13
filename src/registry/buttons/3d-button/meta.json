@@ -1,0 +1,31 @@
+{
+  "name": "3D Button",
+  "slug": "3d-button",
+  "description": "A button with 3D depth effect and press-down animation.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "3d",
+    "depth",
+    "press"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button content"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Button color"
+    }
+  ]
+}

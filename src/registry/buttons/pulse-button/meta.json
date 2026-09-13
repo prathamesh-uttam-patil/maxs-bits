@@ -1,0 +1,16 @@
+{
+  "name": "Pulse Button",
+  "slug": "pulse-button",
+  "description": "A button with a soft pulsing glow ring animation that draws attention.",
+  "category": "buttons",
+  "tags": ["button", "pulse", "glow", "animation", "ring"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Button content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" },
+    { "name": "pulseColor", "type": "string", "required": false, "default": "#8b5cf6", "description": "Color of the pulse ring" }
+  ]
+}

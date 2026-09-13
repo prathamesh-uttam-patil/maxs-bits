@@ -1,0 +1,30 @@
+{
+  "name": "Animated Tooltip",
+  "slug": "animated-tooltip",
+  "description": "A tooltip that scales and fades in with spring animation on hover.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "hover",
+    "animated",
+    "popup"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Trigger element"
+    },
+    {
+      "name": "content",
+      "type": "string",
+      "required": true,
+      "description": "Tooltip text"
+    }
+  ]
+}

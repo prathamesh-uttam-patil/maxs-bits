@@ -1,0 +1,37 @@
+{
+  "name": "Hover Reveal Card",
+  "slug": "hover-reveal-card",
+  "description": "A card that reveals hidden content on hover with a smooth slide-up.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "hover",
+    "reveal",
+    "overlay"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "title",
+      "type": "string",
+      "required": true,
+      "description": "Card title"
+    },
+    {
+      "name": "description",
+      "type": "string",
+      "required": true,
+      "description": "Hidden description"
+    },
+    {
+      "name": "emoji",
+      "type": "string",
+      "required": false,
+      "default": "✨",
+      "description": "Display emoji"
+    }
+  ]
+}

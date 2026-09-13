@@ -1,0 +1,32 @@
+{
+  "name": "Labeled Switch",
+  "slug": "labeled-switch",
+  "description": "A toggle switch with ON/OFF labels inside the track.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "toggle",
+    "on",
+    "off",
+    "label"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "checked",
+      "type": "boolean",
+      "required": false,
+      "default": "false",
+      "description": "Switch state"
+    },
+    {
+      "name": "onChange",
+      "type": "(checked: boolean) => void",
+      "required": false,
+      "description": "Change handler"
+    }
+  ]
+}

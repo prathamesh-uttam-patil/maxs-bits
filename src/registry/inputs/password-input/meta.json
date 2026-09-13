@@ -1,0 +1,26 @@
+{
+  "name": "Password Input",
+  "slug": "password-input",
+  "description": "A password input with strength meter and toggle visibility.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "password",
+    "strength",
+    "secure",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "placeholder",
+      "type": "string",
+      "required": false,
+      "default": "Password",
+      "description": "Placeholder"
+    }
+  ]
+}

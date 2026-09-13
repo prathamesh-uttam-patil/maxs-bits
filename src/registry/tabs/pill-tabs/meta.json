@@ -1,0 +1,1 @@
+{"name":"Pill Tabs","slug":"pill-tabs","description":"Tab buttons that morph into a pill shape on selection with color fill.","category":"tabs","tags":["tabs","pill","rounded","select"],"isNew":true,"author":"Max","createdAt":"2026-09-10","dependencies":[],"props":[{"name":"tabs","type":"string[]","required":true,"description":"Tab labels"}]}

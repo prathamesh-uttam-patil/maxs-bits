@@ -1,0 +1,36 @@
+{
+  "name": "Dot Pagination",
+  "slug": "dot-pagination",
+  "description": "A minimal dot-based pagination indicator with animated active dot.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "dots",
+    "indicator",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "total",
+      "type": "number",
+      "required": true,
+      "description": "Total pages"
+    },
+    {
+      "name": "current",
+      "type": "number",
+      "required": true,
+      "description": "Current page (0-based)"
+    },
+    {
+      "name": "onChange",
+      "type": "(index: number) => void",
+      "required": false,
+      "description": "Page change handler"
+    }
+  ]
+}

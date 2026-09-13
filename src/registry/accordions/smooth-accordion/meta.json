@@ -1,0 +1,24 @@
+{
+  "name": "Smooth Accordion",
+  "slug": "smooth-accordion",
+  "description": "An accordion with smooth height animation and rotating chevron.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "collapse",
+    "expand",
+    "faq"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{title:string;content:string}[]",
+      "required": true,
+      "description": "Accordion items"
+    }
+  ]
+}

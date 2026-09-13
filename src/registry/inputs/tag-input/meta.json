@@ -1,0 +1,26 @@
+{
+  "name": "Tag Input",
+  "slug": "tag-input",
+  "description": "An input that creates tag chips on Enter key press.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "tag",
+    "chips",
+    "multi",
+    "enter"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "placeholder",
+      "type": "string",
+      "required": false,
+      "default": "Add tag...",
+      "description": "Placeholder text"
+    }
+  ]
+}

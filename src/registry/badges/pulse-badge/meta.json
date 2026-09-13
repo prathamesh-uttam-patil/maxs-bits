@@ -1,0 +1,32 @@
+{
+  "name": "Pulse Badge",
+  "slug": "pulse-badge",
+  "description": "A badge with a pulsing animation to grab attention.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "pulse",
+    "attention",
+    "live",
+    "animated"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Badge content"
+    },
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#ef4444",
+      "description": "Pulse color"
+    }
+  ]
+}

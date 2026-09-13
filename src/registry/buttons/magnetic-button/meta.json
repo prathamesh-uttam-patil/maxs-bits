@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Button",
+  "slug": "magnetic-button",
+  "description": "A button that subtly follows your cursor when hovering nearby, creating a magnetic attraction effect.",
+  "category": "buttons",
+  "tags": ["button", "magnetic", "cursor", "interactive", "hover"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": ["framer-motion"],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Button content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" },
+    { "name": "strength", "type": "number", "required": false, "default": "0.3", "description": "Magnetic attraction strength (0-1)" }
+  ]
+}

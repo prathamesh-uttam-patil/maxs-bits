@@ -1,0 +1,16 @@
+{
+  "name": "Orbit Loader",
+  "slug": "orbit-loader",
+  "description": "An elegant loading animation with orbiting dots around a central point.",
+  "category": "loaders",
+  "tags": ["loader", "spinner", "orbit", "dots", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "size", "type": "number", "required": false, "default": "40", "description": "Size of the loader in px" },
+    { "name": "color", "type": "string", "required": false, "default": "#8b5cf6", "description": "Dot color" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

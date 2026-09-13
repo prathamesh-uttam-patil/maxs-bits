@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Toggle",
+  "slug": "liquid-toggle",
+  "description": "A smooth toggle switch with a liquid/blob morphing animation effect.",
+  "category": "toggles",
+  "tags": ["toggle", "switch", "liquid", "blob", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "checked", "type": "boolean", "required": false, "default": "false", "description": "Toggle state" },
+    { "name": "onChange", "type": "(checked: boolean) => void", "required": false, "description": "Change handler" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

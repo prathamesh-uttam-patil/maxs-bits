@@ -1,0 +1,16 @@
+{
+  "name": "Floating Label Input",
+  "slug": "floating-input",
+  "description": "An input field with a label that floats up elegantly when focused or filled.",
+  "category": "inputs",
+  "tags": ["input", "label", "floating", "form", "animation"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "label", "type": "string", "required": true, "description": "The floating label text" },
+    { "name": "type", "type": "string", "required": false, "default": "text", "description": "Input type" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Spotlight Card",
+  "slug": "spotlight-card",
+  "description": "A card with a spotlight effect that follows your cursor, creating a dramatic hover highlight.",
+  "category": "cards",
+  "tags": ["card", "spotlight", "hover", "cursor", "glow"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Card content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" },
+    { "name": "spotlightColor", "type": "string", "required": false, "default": "rgba(139, 92, 246, 0.15)", "description": "Spotlight color" }
+  ]
+}

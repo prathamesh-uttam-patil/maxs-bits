@@ -1,0 +1,32 @@
+{
+  "name": "Banner Alert",
+  "slug": "banner-alert",
+  "description": "A full-width alert banner with icon and dismiss button.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "banner",
+    "announcement",
+    "dismiss",
+    "full-width"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "message",
+      "type": "string",
+      "required": true,
+      "description": "Alert message"
+    },
+    {
+      "name": "variant",
+      "type": "\"info\"|\"success\"|\"warning\"|\"error\"",
+      "required": false,
+      "default": "info",
+      "description": "Alert variant"
+    }
+  ]
+}

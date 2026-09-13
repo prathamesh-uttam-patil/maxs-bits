@@ -1,0 +1,24 @@
+{
+  "name": "Emoji Rating",
+  "slug": "emoji-rating",
+  "description": "A fun emoji-based rating selector with bounce animation.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "emoji",
+    "feedback",
+    "fun"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "onChange",
+      "type": "(value: number) => void",
+      "required": false,
+      "description": "Change handler"
+    }
+  ]
+}

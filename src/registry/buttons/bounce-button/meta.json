@@ -1,0 +1,24 @@
+{
+  "name": "Bounce Button",
+  "slug": "bounce-button",
+  "description": "A button that bounces on click with spring physics.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "bounce",
+    "spring",
+    "click"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "children",
+      "type": "React.ReactNode",
+      "required": true,
+      "description": "Button content"
+    }
+  ]
+}

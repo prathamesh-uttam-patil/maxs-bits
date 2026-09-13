@@ -1,0 +1,26 @@
+{
+  "name": "Typing Loader",
+  "slug": "typing-loader",
+  "description": "A chat-style typing indicator with bouncing dots.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "typing",
+    "chat",
+    "dots",
+    "bounce"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "color",
+      "type": "string",
+      "required": false,
+      "default": "#8b5cf6",
+      "description": "Dot color"
+    }
+  ]
+}

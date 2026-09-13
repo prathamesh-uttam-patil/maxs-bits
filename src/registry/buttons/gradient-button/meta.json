@@ -1,0 +1,15 @@
+{
+  "name": "Gradient Button",
+  "slug": "gradient-button",
+  "description": "An animated gradient border button that shifts colors continuously.",
+  "category": "buttons",
+  "tags": ["button", "gradient", "animation", "border"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "children", "type": "React.ReactNode", "required": true, "description": "Button content" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

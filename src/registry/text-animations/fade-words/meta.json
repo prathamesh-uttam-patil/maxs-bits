@@ -1,0 +1,32 @@
+{
+  "name": "Fade Words",
+  "slug": "fade-words",
+  "description": "Cycles through words with a smooth fade transition.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "fade",
+    "cycle",
+    "words",
+    "rotate"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "words",
+      "type": "string[]",
+      "required": true,
+      "description": "Words to cycle"
+    },
+    {
+      "name": "interval",
+      "type": "number",
+      "required": false,
+      "default": "2000",
+      "description": "Interval in ms"
+    }
+  ]
+}

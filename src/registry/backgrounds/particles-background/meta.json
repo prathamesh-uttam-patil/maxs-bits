@@ -1,0 +1,16 @@
+{
+  "name": "Particles Background",
+  "slug": "particles-background",
+  "description": "Floating particles that drift upward with varying sizes and opacities.",
+  "category": "backgrounds",
+  "tags": ["background", "particles", "floating", "animated", "ambient"],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-10",
+  "dependencies": [],
+  "props": [
+    { "name": "count", "type": "number", "required": false, "default": "30", "description": "Number of particles" },
+    { "name": "color", "type": "string", "required": false, "default": "#8b5cf6", "description": "Particle color" },
+    { "name": "className", "type": "string", "required": false, "description": "Additional CSS classes" }
+  ]
+}

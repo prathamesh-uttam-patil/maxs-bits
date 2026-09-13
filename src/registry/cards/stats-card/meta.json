@@ -1,0 +1,36 @@
+{
+  "name": "Stats Card",
+  "slug": "stats-card",
+  "description": "A compact stats card with icon, value, and trend indicator.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "stats",
+    "metric",
+    "dashboard"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Metric label"
+    },
+    {
+      "name": "value",
+      "type": "string",
+      "required": true,
+      "description": "Metric value"
+    },
+    {
+      "name": "trend",
+      "type": "number",
+      "required": false,
+      "description": "Trend percentage"
+    }
+  ]
+}

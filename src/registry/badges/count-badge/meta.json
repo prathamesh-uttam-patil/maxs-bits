@@ -1,0 +1,32 @@
+{
+  "name": "Count Badge",
+  "slug": "count-badge",
+  "description": "A badge that shows a count with animated number transitions.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "count",
+    "number",
+    "animated",
+    "notification"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "count",
+      "type": "number",
+      "required": true,
+      "description": "Badge count"
+    },
+    {
+      "name": "variant",
+      "type": "\"default\"|\"primary\"|\"danger\"",
+      "required": false,
+      "default": "default",
+      "description": "Badge style"
+    }
+  ]
+}

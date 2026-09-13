@@ -1,0 +1,25 @@
+{
+  "name": "Gradient Accordion",
+  "slug": "gradient-accordion",
+  "description": "An accordion with gradient-highlighted active panel.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "gradient",
+    "faq",
+    "expand",
+    "colorful"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-12",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "items",
+      "type": "{title:string;content:string}[]",
+      "required": true,
+      "description": "Accordion items"
+    }
+  ]
+}

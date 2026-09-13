@@ -1,0 +1,40 @@
+{
+  "name": "Range Slider",
+  "slug": "range-slider",
+  "description": "A styled range slider with value tooltip.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "range",
+    "slider",
+    "value",
+    "tooltip"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "min",
+      "type": "number",
+      "required": false,
+      "default": "0",
+      "description": "Minimum"
+    },
+    {
+      "name": "max",
+      "type": "number",
+      "required": false,
+      "default": "100",
+      "description": "Maximum"
+    },
+    {
+      "name": "defaultValue",
+      "type": "number",
+      "required": false,
+      "default": "50",
+      "description": "Default value"
+    }
+  ]
+}
