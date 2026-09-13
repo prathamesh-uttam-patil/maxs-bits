@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { ArrowRight, Sparkles, Box, Layers } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
-import { FadeWords } from "@/registry/text-animations/fade-words/component";
+import { HeroHeadline } from "@/components/site/hero-headline";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
@@ -79,16 +79,8 @@ export default function HomePage() {
             <span>{totalCount} components and growing</span>
           </div>
 
-          {/* Heading with FadeWords */}
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight leading-[1.15] mb-6">
-            Beautiful React{" "}
-            <FadeWords
-              words={["components", "animations", "interactions", "interfaces", "effects"]}
-              className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--primary)] via-[var(--accent)] to-purple-400 text-4xl md:text-6xl lg:text-7xl font-bold"
-            />
-            <br />
-            you can copy & paste
-          </h1>
+          {/* Headline */}
+          <HeroHeadline />
 
           {/* Subtitle */}
           <p className="text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed">
