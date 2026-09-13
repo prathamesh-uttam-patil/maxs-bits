@@ -1,0 +1,16 @@
+{
+  "name": "Audio Player Controls Dock",
+  "slug": "dock-audio-player-controls",
+  "description": "Bottom music player dock with track title and playback controls.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "audio",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

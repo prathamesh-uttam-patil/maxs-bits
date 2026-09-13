@@ -1,0 +1,16 @@
+{
+  "name": "Profile Header Banner Skeleton",
+  "slug": "skeleton-profile-header-banner",
+  "description": "Cover photo, circular avatar, and biography text line frames.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "profile",
+    "header"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

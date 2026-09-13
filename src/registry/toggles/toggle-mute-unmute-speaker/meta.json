@@ -1,0 +1,16 @@
+{
+  "name": "Mute Unmute Speaker Toggle",
+  "slug": "toggle-mute-unmute-speaker",
+  "description": "Speaker icon with sound waves that slash out when muted.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "volume",
+    "mute"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

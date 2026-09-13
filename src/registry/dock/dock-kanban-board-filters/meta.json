@@ -1,0 +1,16 @@
+{
+  "name": "Kanban Board Filters Dock",
+  "slug": "dock-kanban-board-filters",
+  "description": "Floating bottom bar for task priority, assignee, and tag filters.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "kanban",
+    "filter"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Audio Waveform Karaoke Text Animation",
+  "slug": "text-animation-audio-waveform-karaoke",
+  "description": "Karaoke lyric highlighting word by word synced to beat.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "karaoke",
+    "lyrics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

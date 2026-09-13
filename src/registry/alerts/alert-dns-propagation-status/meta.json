@@ -1,0 +1,16 @@
+{
+  "name": "DNS Propagation Status Alert",
+  "slug": "alert-dns-propagation-status",
+  "description": "Custom domain DNS record verification progress banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "dns",
+    "domain"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

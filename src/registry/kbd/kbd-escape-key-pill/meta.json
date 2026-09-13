@@ -1,0 +1,16 @@
+{
+  "name": "Escape Key Pill KBD",
+  "slug": "kbd-escape-key-pill",
+  "description": "Highlighted escape key badge for modal dismissal hints.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "esc",
+    "keycap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

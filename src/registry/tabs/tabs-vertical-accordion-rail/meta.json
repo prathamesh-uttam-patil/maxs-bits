@@ -1,0 +1,16 @@
+{
+  "name": "Vertical Accordion Rail Tabs",
+  "slug": "tabs-vertical-accordion-rail",
+  "description": "Side navigation rail expanding into nested sub-navigation tabs.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "rail",
+    "sidebar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

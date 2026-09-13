@@ -1,0 +1,16 @@
+{
+  "name": "Scroll To Top Rocket Button Scroll",
+  "slug": "scroll-to-top-rocket-button",
+  "description": "Playful rocket icon button launching screen back to top.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "top",
+    "rocket"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

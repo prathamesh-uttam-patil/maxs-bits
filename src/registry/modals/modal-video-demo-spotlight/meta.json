@@ -1,0 +1,16 @@
+{
+  "name": "Video Demo Spotlight Modal",
+  "slug": "modal-video-demo-spotlight",
+  "description": "Cinematic video player modal with dark backdrop blur.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "video",
+    "spotlight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

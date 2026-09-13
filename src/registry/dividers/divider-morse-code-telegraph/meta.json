@@ -1,0 +1,16 @@
+{
+  "name": "Morse Code Telegraph Divider",
+  "slug": "divider-morse-code-telegraph",
+  "description": "Dot and dash telegraph sequence serving as modern separator.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "morse",
+    "telegraph"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

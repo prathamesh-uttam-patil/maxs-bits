@@ -1,0 +1,16 @@
+{
+  "name": "Social Follower Ticker Counter",
+  "slug": "counter-social-follower-ticker",
+  "description": "Audience milestone rolling digits with celebration sparkles.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "followers",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

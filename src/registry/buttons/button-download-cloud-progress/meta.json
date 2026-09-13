@@ -1,0 +1,16 @@
+{
+  "name": "Download Cloud Progress Button",
+  "slug": "button-download-cloud-progress",
+  "description": "Icon button that transforms into linear download bar.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "download",
+    "progress"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Mobile Curved Nav Bar Dock",
+  "slug": "dock-mobile-curved-nav-bar",
+  "description": "Bottom navigation bar with central curved floating action button.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "mobile",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Camera Live Indicator Avatar",
+  "slug": "avatar-camera-live-indicator",
+  "description": "Webcam streaming badge on circular avatar frame.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "camera",
+    "live"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

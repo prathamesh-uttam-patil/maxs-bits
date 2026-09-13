@@ -1,0 +1,16 @@
+{
+  "name": "Return Enter Arrow Key KBD",
+  "slug": "kbd-return-enter-arrow-key",
+  "description": "Curved return carriage carriage enter keycap emblem.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "enter",
+    "return"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

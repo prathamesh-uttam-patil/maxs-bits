@@ -1,0 +1,16 @@
+{
+  "name": "Inverted Monochrome Dot Cursor",
+  "slug": "cursor-inverted-monochrome-dot",
+  "description": "Difference blend-mode cursor that inverts screen color.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "blend",
+    "invert"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

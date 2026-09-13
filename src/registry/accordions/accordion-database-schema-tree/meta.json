@@ -1,0 +1,16 @@
+{
+  "name": "Database Schema Tree Accordion",
+  "slug": "accordion-database-schema-tree",
+  "description": "Table relations, foreign keys, and indexes collapsible explorer.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "database",
+    "schema"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Fluid Spring Morph Switch",
+  "slug": "switch-fluid-spring-morph",
+  "description": "Elastic jelly physics toggle knob stretching as it moves.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "jelly",
+    "spring"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

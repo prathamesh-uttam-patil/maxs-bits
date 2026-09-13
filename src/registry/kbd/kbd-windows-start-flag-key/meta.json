@@ -1,0 +1,16 @@
+{
+  "name": "Windows Start Flag Key KBD",
+  "slug": "kbd-windows-start-flag-key",
+  "description": "Four quadrant Windows logo operating system start key.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "windows",
+    "start"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

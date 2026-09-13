@@ -1,0 +1,16 @@
+{
+  "name": "Haptic Hold To Confirm Button",
+  "slug": "button-haptic-hold-to-confirm",
+  "description": "Press and hold button with radial progress ring confirmation.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "hold",
+    "confirm"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

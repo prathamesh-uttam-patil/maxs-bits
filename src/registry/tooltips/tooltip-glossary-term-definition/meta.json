@@ -1,0 +1,16 @@
+{
+  "name": "Glossary Term Definition Tooltip",
+  "slug": "tooltip-glossary-term-definition",
+  "description": "Dictionary definition popover for technical terminology.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "glossary",
+    "definition"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

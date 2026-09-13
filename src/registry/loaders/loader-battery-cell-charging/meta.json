@@ -1,0 +1,16 @@
+{
+  "name": "Battery Cell Charging Loader",
+  "slug": "loader-battery-cell-charging",
+  "description": "Stepped battery bars filling sequentially with green glow.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "battery",
+    "charge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

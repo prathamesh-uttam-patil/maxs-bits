@@ -1,0 +1,16 @@
+{
+  "name": "AI Image Generator Lightbox Modal",
+  "slug": "modal-ai-image-generator-lightbox",
+  "description": "Full-resolution image preview lightbox with prompt metadata.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "lightbox",
+    "ai"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Audio Player Widget Skeleton",
+  "slug": "skeleton-audio-player-widget",
+  "description": "Placeholder loading wireframe for media player and waveforms.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "audio",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Concentric Pulsing Rings Loader",
+  "slug": "loader-concentric-pulsing-rings",
+  "description": "Expanding water ripple concentric circular waves loader.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "rings",
+    "pulse"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

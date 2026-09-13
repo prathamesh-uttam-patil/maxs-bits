@@ -1,0 +1,16 @@
+{
+  "name": "ML Pipeline Run Accordion",
+  "slug": "accordion-ml-pipeline-run",
+  "description": "Machine learning training epochs and validation loss steps.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "ml",
+    "pipeline"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

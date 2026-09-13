@@ -1,0 +1,16 @@
+{
+  "name": "Payment Checkout Card Modal",
+  "slug": "modal-payment-checkout-card",
+  "description": "Stripe style inline credit card checkout payment dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "checkout",
+    "stripe"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

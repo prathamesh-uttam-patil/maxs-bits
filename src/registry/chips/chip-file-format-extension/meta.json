@@ -1,0 +1,16 @@
+{
+  "name": "File Format Extension Chip",
+  "slug": "chip-file-format-extension",
+  "description": "Code file type indicator chip (TSX, JSON, YAML, SVG).",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "format",
+    "file"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

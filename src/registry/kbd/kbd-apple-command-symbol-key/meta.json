@@ -1,0 +1,16 @@
+{
+  "name": "Apple Command Symbol Key KBD",
+  "slug": "kbd-apple-command-symbol-key",
+  "description": "macOS cmd modifier key symbol with mechanical keycap bevel.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "macos",
+    "cmd"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

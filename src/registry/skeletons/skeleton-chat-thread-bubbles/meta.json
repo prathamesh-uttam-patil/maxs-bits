@@ -1,0 +1,16 @@
+{
+  "name": "Chat Thread Bubbles Skeleton",
+  "slug": "skeleton-chat-thread-bubbles",
+  "description": "Simulated incoming and outgoing messenger chat bubble shapes.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "chat",
+    "messenger"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

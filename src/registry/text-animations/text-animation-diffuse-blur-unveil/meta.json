@@ -1,0 +1,16 @@
+{
+  "name": "Diffuse Blur Unveil Text Animation",
+  "slug": "text-animation-diffuse-blur-unveil",
+  "description": "Text emerging from deep frosted glass Gaussian blur.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "blur",
+    "unveil"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

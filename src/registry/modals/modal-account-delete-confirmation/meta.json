@@ -1,0 +1,16 @@
+{
+  "name": "Account Delete Confirmation Modal",
+  "slug": "modal-account-delete-confirmation",
+  "description": "High-risk danger dialog requiring typing username to confirm.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "danger",
+    "delete"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bank Account Balance Card",
+  "slug": "card-bank-account-balance",
+  "description": "Fintech account balance with income and expense sparklines.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "fintech",
+    "balance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Removable User Mention Chip",
+  "slug": "chip-removable-user-mention",
+  "description": "Teammate tag with mini avatar and remove close button.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "mention",
+    "user"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

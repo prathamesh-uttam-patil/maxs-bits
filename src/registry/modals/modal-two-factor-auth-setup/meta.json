@@ -1,0 +1,16 @@
+{
+  "name": "Two Factor Auth Setup Modal",
+  "slug": "modal-two-factor-auth-setup",
+  "description": "Authenticator app QR code scanning and recovery code dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "2fa",
+    "security"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

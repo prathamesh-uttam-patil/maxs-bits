@@ -1,0 +1,16 @@
+{
+  "name": "Fluid Distortion Glass Cursor",
+  "slug": "cursor-fluid-distortion-glass",
+  "description": "Refractive magnifying glass bubble warping content beneath.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "refraction",
+    "glass"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

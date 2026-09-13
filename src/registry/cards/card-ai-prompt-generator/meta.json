@@ -1,0 +1,16 @@
+{
+  "name": "AI Prompt Generator Card",
+  "slug": "card-ai-prompt-generator",
+  "description": "Interactive card featuring prompt suggestions and quick copy.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "ai",
+    "prompt"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

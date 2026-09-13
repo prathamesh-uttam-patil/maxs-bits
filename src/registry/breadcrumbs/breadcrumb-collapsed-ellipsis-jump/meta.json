@@ -1,0 +1,16 @@
+{
+  "name": "Collapsed Ellipsis Jump Breadcrumb",
+  "slug": "breadcrumb-collapsed-ellipsis-jump",
+  "description": "Compacted middle directories expanding on popover trigger.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "ellipsis",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

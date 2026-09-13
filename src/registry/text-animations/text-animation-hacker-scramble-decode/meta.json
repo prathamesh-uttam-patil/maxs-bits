@@ -1,0 +1,16 @@
+{
+  "name": "Hacker Scramble Decode Text Animation",
+  "slug": "text-animation-hacker-scramble-decode",
+  "description": "Random matrix characters decoding into final title string.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "matrix",
+    "scramble"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

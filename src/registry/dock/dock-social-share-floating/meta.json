@@ -1,0 +1,16 @@
+{
+  "name": "Social Share Floating Dock",
+  "slug": "dock-social-share-floating",
+  "description": "Floating share bar with Twitter, LinkedIn, copy link, and email.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "share",
+    "social"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dark Light Mode Icon Toggle",
+  "slug": "toggle-dark-light-mode-icon",
+  "description": "Circular theme switch button morphing sun and moon.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "theme",
+    "darkmode"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

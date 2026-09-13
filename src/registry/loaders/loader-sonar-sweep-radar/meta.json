@@ -1,0 +1,16 @@
+{
+  "name": "Sonar Sweep Radar Loader",
+  "slug": "loader-sonar-sweep-radar",
+  "description": "360-degree rotating radar sweep with blip persistence.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "sonar",
+    "radar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

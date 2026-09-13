@@ -1,0 +1,16 @@
+{
+  "name": "Kanban Board Cards Skeleton",
+  "slug": "skeleton-kanban-board-cards",
+  "description": "Task columns with pulsing placeholder ticket rectangles.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "kanban",
+    "tasks"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

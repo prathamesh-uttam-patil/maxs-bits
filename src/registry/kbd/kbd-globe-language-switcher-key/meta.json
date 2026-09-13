@@ -1,0 +1,16 @@
+{
+  "name": "Globe Language Switcher Key KBD",
+  "slug": "kbd-globe-language-switcher-key",
+  "description": "International input method globe keycap indicator.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "globe",
+    "i18n"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

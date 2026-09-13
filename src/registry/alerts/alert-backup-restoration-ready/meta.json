@@ -1,0 +1,16 @@
+{
+  "name": "Backup Restoration Ready Alert",
+  "slug": "alert-backup-restoration-ready",
+  "description": "Notification banner confirming database snapshot is ready.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "backup",
+    "database"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

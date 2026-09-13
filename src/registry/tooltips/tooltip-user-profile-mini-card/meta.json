@@ -1,0 +1,16 @@
+{
+  "name": "User Profile Mini Card Tooltip",
+  "slug": "tooltip-user-profile-mini-card",
+  "description": "Hovercard with avatar, bio, follower count, and follow CTA.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "profile",
+    "card"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

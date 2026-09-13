@@ -1,0 +1,16 @@
+{
+  "name": "Atom Electron Orbit Loader",
+  "slug": "loader-atom-electron-orbit",
+  "description": "Atomic nucleus with 3 crossing orbital electrons rotating in 3D.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "atom",
+    "orbit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

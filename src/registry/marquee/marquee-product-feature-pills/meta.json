@@ -1,0 +1,16 @@
+{
+  "name": "Product Feature Pills Marquee",
+  "slug": "marquee-product-feature-pills",
+  "description": "Highlighted SaaS capability chips rolling in opposing directions.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "features",
+    "saas"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

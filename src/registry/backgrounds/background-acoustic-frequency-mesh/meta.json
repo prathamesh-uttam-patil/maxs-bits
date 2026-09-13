@@ -1,0 +1,16 @@
+{
+  "name": "Acoustic Frequency Mesh BG",
+  "slug": "background-acoustic-frequency-mesh",
+  "description": "Audio soundwave harmonic vector mesh animated background.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "audio",
+    "sound"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

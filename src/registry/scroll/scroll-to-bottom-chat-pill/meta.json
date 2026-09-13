@@ -1,0 +1,16 @@
+{
+  "name": "Scroll To Bottom Chat Pill Scroll",
+  "slug": "scroll-to-bottom-chat-pill",
+  "description": "Bouncing unread messages pill jumping to end of conversation.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "chat",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

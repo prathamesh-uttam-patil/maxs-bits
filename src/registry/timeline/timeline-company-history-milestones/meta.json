@@ -1,0 +1,16 @@
+{
+  "name": "Company History Milestones Timeline",
+  "slug": "timeline-company-history-milestones",
+  "description": "Founding journey and funding rounds historic timeline.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "milestones",
+    "history"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Invoice Breakdown Panel Accordion",
+  "slug": "accordion-invoice-breakdown-panel",
+  "description": "Itemized billing charges, usage taxes, and discount collapsible.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "invoice",
+    "billing"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

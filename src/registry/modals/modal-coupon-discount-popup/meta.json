@@ -1,0 +1,16 @@
+{
+  "name": "Coupon Discount Popup Modal",
+  "slug": "modal-coupon-discount-popup",
+  "description": "Spin-to-win discount wheel marketing popup modal.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "coupon",
+    "promo"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

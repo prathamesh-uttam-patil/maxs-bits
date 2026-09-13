@@ -1,0 +1,16 @@
+{
+  "name": "Career Experience Path Timeline",
+  "slug": "timeline-career-experience-path",
+  "description": "Professional resume chronology with company logos and dates.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "resume",
+    "career"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

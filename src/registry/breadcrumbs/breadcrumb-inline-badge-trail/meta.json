@@ -1,0 +1,16 @@
+{
+  "name": "Inline Badge Trail Breadcrumb",
+  "slug": "breadcrumb-inline-badge-trail",
+  "description": "Breadcrumb segments styled with pill chips and chevrons.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "chips",
+    "trail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

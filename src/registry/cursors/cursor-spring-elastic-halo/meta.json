@@ -1,0 +1,16 @@
+{
+  "name": "Spring Elastic Halo Cursor",
+  "slug": "cursor-spring-elastic-halo",
+  "description": "Physics spring damped ring lagging behind primary cursor.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "spring",
+    "physics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

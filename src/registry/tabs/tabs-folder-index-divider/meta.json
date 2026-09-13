@@ -1,0 +1,16 @@
+{
+  "name": "Folder Index Divider Tabs",
+  "slug": "tabs-folder-index-divider",
+  "description": "Physical filing folder staggered colored index tabs.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "folder",
+    "index"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

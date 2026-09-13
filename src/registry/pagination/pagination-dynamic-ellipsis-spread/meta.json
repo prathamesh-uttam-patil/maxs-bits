@@ -1,0 +1,16 @@
+{
+  "name": "Dynamic Ellipsis Spread Pagination",
+  "slug": "pagination-dynamic-ellipsis-spread",
+  "description": "Intelligent page number clamp with dynamic sliding window.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "window",
+    "ellipsis"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Meteor Particle Trail Loader",
+  "slug": "loader-meteor-particle-trail",
+  "description": "Glowing comet speeding along a rounded track border.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "comet",
+    "meteor"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

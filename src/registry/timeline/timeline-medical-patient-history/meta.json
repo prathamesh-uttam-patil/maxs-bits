@@ -1,0 +1,16 @@
+{
+  "name": "Medical Patient History Timeline",
+  "slug": "timeline-medical-patient-history",
+  "description": "Healthcare clinical consultations and prescription record.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "health",
+    "medical"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

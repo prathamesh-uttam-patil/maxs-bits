@@ -1,0 +1,16 @@
+{
+  "name": "Audio Equalizer Bars Divider",
+  "slug": "divider-audio-equalizer-bars",
+  "description": "Horizontal section split featuring subtle audio graph bars.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "audio",
+    "bars"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

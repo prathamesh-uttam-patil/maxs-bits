@@ -1,0 +1,16 @@
+{
+  "name": "Split Dropdown Action Button",
+  "slug": "button-split-dropdown-action",
+  "description": "Primary action trigger with integrated chevron split menu.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "split",
+    "dropdown"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

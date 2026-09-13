@@ -1,0 +1,16 @@
+{
+  "name": "IP Address Quad Mask Input",
+  "slug": "input-ip-address-quad-mask",
+  "description": "IPv4 segmented octet entry with auto-focus dot forwarding.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "ipv4",
+    "network"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

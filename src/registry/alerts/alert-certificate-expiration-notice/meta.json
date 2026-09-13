@@ -1,0 +1,16 @@
+{
+  "name": "Certificate Expiration Notice Alert",
+  "slug": "alert-certificate-expiration-notice",
+  "description": "SSL/TLS certificate renewal warning banner with action link.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "ssl",
+    "cert"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

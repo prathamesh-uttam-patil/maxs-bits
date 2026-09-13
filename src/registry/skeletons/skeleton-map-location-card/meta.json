@@ -1,0 +1,16 @@
+{
+  "name": "Map Location Card Skeleton",
+  "slug": "skeleton-map-location-card",
+  "description": "Geographic map viewport with pin and address wireframe bars.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "map",
+    "location"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

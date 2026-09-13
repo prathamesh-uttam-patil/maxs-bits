@@ -1,0 +1,16 @@
+{
+  "name": "Compact Mini Toggle Switch",
+  "slug": "switch-compact-mini-toggle",
+  "description": "Dense high-efficiency toggle switch for tight table rows.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "compact",
+    "mini"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

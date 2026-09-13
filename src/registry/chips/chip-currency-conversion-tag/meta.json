@@ -1,0 +1,16 @@
+{
+  "name": "Currency Conversion Tag Chip",
+  "slug": "chip-currency-conversion-tag",
+  "description": "Forex exchange rate delta indicator pill chip.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "forex",
+    "currency"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

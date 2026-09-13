@@ -1,0 +1,16 @@
+{
+  "name": "Battery Charging Indicator Badge",
+  "slug": "badge-battery-charging-indicator",
+  "description": "Electric vehicle and battery bolt charge status badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "battery",
+    "charge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Apps Mac Style Floating Dock",
+  "slug": "dock-apps-mac-style-floating",
+  "description": "Classic macOS floating magnification dock with spring bouncy icons.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "macos",
+    "floating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

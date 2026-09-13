@@ -1,0 +1,16 @@
+{
+  "name": "Env Var Manager Accordion",
+  "slug": "accordion-env-var-manager",
+  "description": "Grouped production and preview environment secrets viewer.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "env",
+    "secrets"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

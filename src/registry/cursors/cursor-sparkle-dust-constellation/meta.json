@@ -1,0 +1,16 @@
+{
+  "name": "Sparkle Dust Constellation Cursor",
+  "slug": "cursor-sparkle-dust-constellation",
+  "description": "Particle constellation connecting nearby trailing nodes.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "constellation",
+    "dust"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

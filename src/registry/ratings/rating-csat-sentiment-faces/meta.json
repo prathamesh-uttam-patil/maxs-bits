@@ -1,0 +1,16 @@
+{
+  "name": "CSAT Sentiment Faces Rating",
+  "slug": "rating-csat-sentiment-faces",
+  "description": "Customer satisfaction 5-emoji faces from angry to ecstatic.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "csat",
+    "sentiment"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

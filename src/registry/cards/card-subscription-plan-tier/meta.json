@@ -1,0 +1,16 @@
+{
+  "name": "Subscription Plan Tier Card",
+  "slug": "card-subscription-plan-tier",
+  "description": "SaaS membership pricing card with feature checklist.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "saas",
+    "pricing"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

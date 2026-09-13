@@ -1,0 +1,16 @@
+{
+  "name": "Cart Item Stepper Counter",
+  "slug": "counter-cart-item-stepper",
+  "description": "Plus and minus quantity adjustment stepper with bounce.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "stepper",
+    "cart"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

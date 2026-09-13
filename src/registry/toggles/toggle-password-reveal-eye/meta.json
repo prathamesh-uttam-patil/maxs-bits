@@ -1,0 +1,16 @@
+{
+  "name": "Password Reveal Eye Toggle",
+  "slug": "toggle-password-reveal-eye",
+  "description": "Eye icon that opens and closes to toggle text visibility.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "password",
+    "reveal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

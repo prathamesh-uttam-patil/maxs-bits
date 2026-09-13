@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Button Snap Cursor",
+  "slug": "cursor-magnetic-button-snap",
+  "description": "Snaps and stretches smoothly onto clickable interactive pills.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "magnetic",
+    "snap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

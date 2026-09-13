@@ -1,0 +1,16 @@
+{
+  "name": "Metric Gauge Delta Chip",
+  "slug": "chip-metric-gauge-delta",
+  "description": "Green/red percentage fluctuation trend indicator tag.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "metric",
+    "trend"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

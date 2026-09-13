@@ -1,0 +1,16 @@
+{
+  "name": "Lottery Jackpot Roller Counter",
+  "slug": "counter-lottery-jackpot-roller",
+  "description": "Grand prize cash ticker rolling upward with slot animation.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "jackpot",
+    "roller"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

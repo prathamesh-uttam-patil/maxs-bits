@@ -1,0 +1,16 @@
+{
+  "name": "CI CD Build Pipeline Timeline",
+  "slug": "timeline-ci-cd-build-pipeline",
+  "description": "Continuous integration stages (lint, test, build, deploy).",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "cicd",
+    "pipeline"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

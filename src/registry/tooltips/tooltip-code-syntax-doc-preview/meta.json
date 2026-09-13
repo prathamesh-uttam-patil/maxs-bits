@@ -1,0 +1,16 @@
+{
+  "name": "Code Syntax Doc Preview Tooltip",
+  "slug": "tooltip-code-syntax-doc-preview",
+  "description": "TypeScript type definition and JSDoc comment hover popup.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "typescript",
+    "docs"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

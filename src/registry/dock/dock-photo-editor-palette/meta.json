@@ -1,0 +1,16 @@
+{
+  "name": "Photo Editor Palette Dock",
+  "slug": "dock-photo-editor-palette",
+  "description": "Image adjustment palette dock for crop, brightness, and contrast.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "photo",
+    "edit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

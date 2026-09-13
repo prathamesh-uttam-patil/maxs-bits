@@ -1,0 +1,16 @@
+{
+  "name": "Code IDE Action Bar Dock",
+  "slug": "dock-code-ide-action-bar",
+  "description": "Run, debug, terminal, and git branch shortcut dock.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "ide",
+    "code"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DNA Helix Strand Divider",
+  "slug": "divider-dna-helix-strand",
+  "description": "Biotech DNA double helix horizontal divider pattern.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "dna",
+    "biotech"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

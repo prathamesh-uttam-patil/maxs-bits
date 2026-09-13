@@ -1,0 +1,16 @@
+{
+  "name": "Compact Icon Pills Dock",
+  "slug": "dock-compact-icon-pills",
+  "description": "Minimalist pill-shaped floating navigation bar with tooltips.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "pill",
+    "minimal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

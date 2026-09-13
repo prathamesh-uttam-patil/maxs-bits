@@ -1,0 +1,16 @@
+{
+  "name": "Effort Score Slider Rating",
+  "slug": "rating-effort-score-slider",
+  "description": "Customer effort score CES horizontal continuous track slider.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "ces",
+    "slider"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

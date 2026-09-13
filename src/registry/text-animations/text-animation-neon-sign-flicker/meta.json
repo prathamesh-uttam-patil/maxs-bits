@@ -1,0 +1,16 @@
+{
+  "name": "Neon Sign Flicker Text Animation",
+  "slug": "text-animation-neon-sign-flicker",
+  "description": "Vintage diner gas tube neon flickering on and off.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "neon",
+    "flicker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "File Upload Drag Drop Modal",
+  "slug": "modal-file-upload-drag-drop",
+  "description": "Multi-file attachment dropzone modal with progress preview.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "upload",
+    "files"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

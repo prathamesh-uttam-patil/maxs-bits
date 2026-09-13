@@ -1,0 +1,16 @@
+{
+  "name": "Ecommerce Product Grid Skeleton",
+  "slug": "skeleton-ecommerce-product-grid",
+  "description": "Product card image, price tag, and add-to-cart placeholders.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "ecommerce",
+    "product"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Drag Interactive Stars Rating",
+  "slug": "rating-drag-interactive-stars",
+  "description": "Drag-to-fill fractional star rating with half-star precision.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "stars",
+    "fractional"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

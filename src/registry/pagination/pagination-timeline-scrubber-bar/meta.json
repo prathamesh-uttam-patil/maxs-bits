@@ -1,0 +1,16 @@
+{
+  "name": "Timeline Scrubber Bar Pagination",
+  "slug": "pagination-timeline-scrubber-bar",
+  "description": "Horizontal drag scrubber navigating years and months.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "timeline",
+    "scrubber"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

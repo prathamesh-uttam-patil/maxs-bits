@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Star Counter Button",
+  "slug": "button-github-star-counter",
+  "description": "Star button with integrated counter pill badge.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "github",
+    "star"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

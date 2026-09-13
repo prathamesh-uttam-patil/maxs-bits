@@ -1,0 +1,16 @@
+{
+  "name": "Financial Chart Panel Skeleton",
+  "slug": "skeleton-financial-chart-panel",
+  "description": "Stock candlestick and bar chart loading state placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "chart",
+    "financial"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

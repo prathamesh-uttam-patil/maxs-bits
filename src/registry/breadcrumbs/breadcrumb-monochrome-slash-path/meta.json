@@ -1,0 +1,16 @@
+{
+  "name": "Monochrome Slash Path Breadcrumb",
+  "slug": "breadcrumb-monochrome-slash-path",
+  "description": "Minimalist forward slash separated modern header path.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "slash",
+    "mono"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Radar Sweep Ping Cursor",
+  "slug": "cursor-radar-sweep-ping",
+  "description": "Circular sonar beam expanding from cursor click point.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "radar",
+    "sonar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

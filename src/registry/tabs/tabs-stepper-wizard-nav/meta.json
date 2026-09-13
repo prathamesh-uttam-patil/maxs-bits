@@ -1,0 +1,16 @@
+{
+  "name": "Stepper Wizard Nav Tabs",
+  "slug": "tabs-stepper-wizard-nav",
+  "description": "Numbered step tabs for multi-stage account setup.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "wizard",
+    "stepper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

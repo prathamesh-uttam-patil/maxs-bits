@@ -1,0 +1,16 @@
+{
+  "name": "Storage Disk Threshold Alert",
+  "slug": "alert-storage-disk-threshold",
+  "description": "Critical volume capacity low warning notification strip.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "storage",
+    "disk"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

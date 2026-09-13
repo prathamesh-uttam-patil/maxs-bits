@@ -1,0 +1,16 @@
+{
+  "name": "API Rate Limit Warning Alert",
+  "slug": "alert-api-rate-limit-warning",
+  "description": "Warns developers when monthly quota reaches 90% utilization.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "api",
+    "quota"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

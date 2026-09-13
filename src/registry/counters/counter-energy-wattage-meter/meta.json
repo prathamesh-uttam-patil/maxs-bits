@@ -1,0 +1,16 @@
+{
+  "name": "Energy Wattage Meter Counter",
+  "slug": "counter-energy-wattage-meter",
+  "description": "Realtime electricity power usage consumption digits.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "power",
+    "energy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

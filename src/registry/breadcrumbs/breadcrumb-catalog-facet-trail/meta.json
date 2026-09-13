@@ -1,0 +1,16 @@
+{
+  "name": "Catalog Facet Trail Breadcrumb",
+  "slug": "breadcrumb-catalog-facet-trail",
+  "description": "E-commerce category, brand, and specification filter path.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "facet",
+    "ecommerce"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

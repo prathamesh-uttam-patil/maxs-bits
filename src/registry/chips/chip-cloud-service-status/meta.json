@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Service Status Chip",
+  "slug": "chip-cloud-service-status",
+  "description": "Micro status tag displaying AWS or GCP regional health.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "status",
+    "cloud"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

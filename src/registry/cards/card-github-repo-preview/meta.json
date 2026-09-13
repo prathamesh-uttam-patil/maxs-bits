@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Repo Preview Card",
+  "slug": "card-github-repo-preview",
+  "description": "Repository language, star count, forks, and license details.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "github",
+    "repo"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

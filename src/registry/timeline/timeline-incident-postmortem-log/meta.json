@@ -1,0 +1,16 @@
+{
+  "name": "Incident Postmortem Log Timeline",
+  "slug": "timeline-incident-postmortem-log",
+  "description": "DevOps server outage incident root cause analysis log.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "incident",
+    "devops"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

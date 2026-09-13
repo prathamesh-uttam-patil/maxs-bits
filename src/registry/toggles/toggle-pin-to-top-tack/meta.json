@@ -1,0 +1,16 @@
+{
+  "name": "Pin To Top Tack Toggle",
+  "slug": "toggle-pin-to-top-tack",
+  "description": "Thumbtack icon that tilts 45 degrees when pinned.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "pin",
+    "tack"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

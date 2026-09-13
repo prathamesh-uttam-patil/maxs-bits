@@ -1,0 +1,16 @@
+{
+  "name": "Chat Emoji Reactions Dock",
+  "slug": "dock-chat-emoji-reactions",
+  "description": "Quick-access emoji dock bar for live stream audience reactions.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "emoji",
+    "chat"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

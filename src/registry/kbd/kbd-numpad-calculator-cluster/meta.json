@@ -1,0 +1,16 @@
+{
+  "name": "Numpad Calculator Cluster KBD",
+  "slug": "kbd-numpad-calculator-cluster",
+  "description": "Compact numeric keypad grid layout keycap preview.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "numpad",
+    "calc"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

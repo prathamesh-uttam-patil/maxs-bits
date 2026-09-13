@@ -1,0 +1,16 @@
+{
+  "name": "Code Snippet Box Skeleton",
+  "slug": "skeleton-code-snippet-box",
+  "description": "Wireframe loading box for syntax highlighted code editors.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "code",
+    "snippet"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

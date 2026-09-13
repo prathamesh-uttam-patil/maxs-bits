@@ -1,0 +1,16 @@
+{
+  "name": "Video Scrubber Timeline Dock",
+  "slug": "dock-video-scrubber-timeline",
+  "description": "Floating video player control dock with timecode display.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "video",
+    "scrubber"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

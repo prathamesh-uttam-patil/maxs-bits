@@ -1,0 +1,16 @@
+{
+  "name": "Server Region Ping Badge",
+  "slug": "badge-server-region-ping",
+  "description": "Edge CDN edge datacenter location latency badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "cdn",
+    "region"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

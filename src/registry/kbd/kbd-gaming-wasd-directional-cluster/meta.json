@@ -1,0 +1,16 @@
+{
+  "name": "Gaming WASD Directional Cluster KBD",
+  "slug": "kbd-gaming-wasd-directional-cluster",
+  "description": "Textured gamer WASD movement key cluster with backlight.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "wasd",
+    "gaming"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

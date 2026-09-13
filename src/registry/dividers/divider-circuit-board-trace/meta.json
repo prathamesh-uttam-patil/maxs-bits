@@ -1,0 +1,16 @@
+{
+  "name": "Circuit Board Trace Divider",
+  "slug": "divider-circuit-board-trace",
+  "description": "Microchip circuit trace line connecting two semiconductor pads.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "circuit",
+    "chip"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

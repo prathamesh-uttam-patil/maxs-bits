@@ -1,0 +1,16 @@
+{
+  "name": "Network Latency Ping Avatar",
+  "slug": "avatar-network-latency-ping",
+  "description": "Realtime ping status dot indicating teammate connection speed.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "ping",
+    "network"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Keyboard Shortcut Helper Tooltip",
+  "slug": "tooltip-keyboard-shortcut-helper",
+  "description": "Action button tooltip showing platform-specific key shortcut.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "keyboard",
+    "shortcut"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

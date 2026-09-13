@@ -1,0 +1,16 @@
+{
+  "name": "Document Outline Flow Breadcrumb",
+  "slug": "breadcrumb-document-outline-flow",
+  "description": "Hierarchical chapter, section, and article navigation line.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "document",
+    "outline"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

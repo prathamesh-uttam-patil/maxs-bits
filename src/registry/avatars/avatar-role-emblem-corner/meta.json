@@ -1,0 +1,16 @@
+{
+  "name": "Role Emblem Corner Avatar",
+  "slug": "avatar-role-emblem-corner",
+  "description": "Superadmin shield crest badge attached to avatar corner.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "admin",
+    "role"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

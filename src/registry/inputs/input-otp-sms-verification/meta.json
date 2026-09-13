@@ -1,0 +1,16 @@
+{
+  "name": "OTP SMS Verification Input",
+  "slug": "input-otp-sms-verification",
+  "description": "6-digit security code boxes with paste support and countdown.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "otp",
+    "auth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Infinite Scroll Pill Pagination",
+  "slug": "pagination-infinite-scroll-pill",
+  "description": "Floating bottom pill showing items loaded count out of total.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "infinite",
+    "scroll"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

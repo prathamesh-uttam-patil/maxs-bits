@@ -1,0 +1,16 @@
+{
+  "name": "Sinusoidal Wave Loop Divider",
+  "slug": "divider-sinusoidal-wave-loop",
+  "description": "Oscillating mathematical sine wave vector horizontal border.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "sine",
+    "wave"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

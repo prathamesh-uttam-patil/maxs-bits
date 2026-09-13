@@ -1,0 +1,16 @@
+{
+  "name": "Podcast Episode Titles Marquee",
+  "slug": "marquee-podcast-episode-titles",
+  "description": "Audio show episode playlist scrolling ticker with duration.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "podcast",
+    "audio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Icon Label Dock Strip Tabs",
+  "slug": "tabs-icon-label-dock-strip",
+  "description": "Mobile app bottom dock tabs with badges and label animations.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "mobile",
+    "dock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

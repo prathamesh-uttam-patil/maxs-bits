@@ -1,0 +1,16 @@
+{
+  "name": "Social Activity Stream Timeline",
+  "slug": "timeline-social-activity-stream",
+  "description": "Realtime friend activity feed with comments and reactions.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "social",
+    "feed"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

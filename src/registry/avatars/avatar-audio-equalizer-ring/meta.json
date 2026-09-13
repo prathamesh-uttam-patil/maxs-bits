@@ -1,0 +1,16 @@
+{
+  "name": "Audio Equalizer Ring Avatar",
+  "slug": "avatar-audio-equalizer-ring",
+  "description": "Live speaker voice indicator with pulsing audio waveform bars.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "audio",
+    "voice"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

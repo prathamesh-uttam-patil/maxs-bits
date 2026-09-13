@@ -1,0 +1,16 @@
+{
+  "name": "Upvote Counter Reddit Rating",
+  "slug": "rating-upvote-counter-reddit",
+  "description": "Reddit style orange/periwinkle upvote and downvote counter.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "upvote",
+    "reddit"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

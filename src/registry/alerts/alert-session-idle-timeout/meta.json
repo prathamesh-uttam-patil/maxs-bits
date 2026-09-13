@@ -1,0 +1,16 @@
+{
+  "name": "Session Idle Timeout Alert",
+  "slug": "alert-session-idle-timeout",
+  "description": "Warns user of imminent auto-logout due to inactivity.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "session",
+    "timeout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

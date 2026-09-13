@@ -1,0 +1,16 @@
+{
+  "name": "Encryption End To End Badge",
+  "slug": "badge-encryption-end-to-end",
+  "description": "Cryptographic padlock confidentiality emblem badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "crypto",
+    "lock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

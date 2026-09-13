@@ -1,0 +1,16 @@
+{
+  "name": "Floating Anchor Nav Scroll",
+  "slug": "scroll-floating-anchor-nav",
+  "description": "Floating sidebar dots indicating current viewport section.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "anchor",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

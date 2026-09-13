@@ -1,0 +1,16 @@
+{
+  "name": "Editable Inline Label Chip",
+  "slug": "chip-editable-inline-label",
+  "description": "Clickable chip that toggles into text input for editing.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "editable",
+    "input"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

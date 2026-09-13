@@ -1,0 +1,16 @@
+{
+  "name": "Radar Scanner Sweep Avatar",
+  "slug": "avatar-radar-scanner-sweep",
+  "description": "Circular radar beam revolving around profile avatar.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "radar",
+    "scan"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

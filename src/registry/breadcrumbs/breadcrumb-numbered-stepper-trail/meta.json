@@ -1,0 +1,16 @@
+{
+  "name": "Numbered Stepper Trail Breadcrumb",
+  "slug": "breadcrumb-numbered-stepper-trail",
+  "description": "Numbered flow milestones for multi-stage checkout funnel.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "stepper",
+    "checkout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

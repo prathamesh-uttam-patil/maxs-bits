@@ -1,0 +1,16 @@
+{
+  "name": "Bullet Dot Slider Pagination",
+  "slug": "pagination-bullet-dot-slider",
+  "description": "Expanding capsule dot indicators for touch carousels.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "dots",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

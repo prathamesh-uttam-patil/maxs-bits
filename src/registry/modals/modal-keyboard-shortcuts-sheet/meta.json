@@ -1,0 +1,16 @@
+{
+  "name": "Keyboard Shortcuts Sheet Modal",
+  "slug": "modal-keyboard-shortcuts-sheet",
+  "description": "Comprehensive hotkey cheat-sheet grouped by application area.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "shortcuts",
+    "hotkeys"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dashed Scissor Cut Divider",
+  "slug": "divider-dashed-scissor-cut",
+  "description": "Coupon style dashed separation line with scissor icon.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "coupon",
+    "scissor"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

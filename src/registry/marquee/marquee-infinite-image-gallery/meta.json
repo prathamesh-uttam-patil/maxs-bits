@@ -1,0 +1,16 @@
+{
+  "name": "Infinite Image Gallery Marquee",
+  "slug": "marquee-infinite-image-gallery",
+  "description": "Photographic masonry gallery sliding automatically across screen.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "gallery",
+    "photos"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

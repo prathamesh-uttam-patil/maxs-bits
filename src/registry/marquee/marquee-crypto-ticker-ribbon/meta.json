@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Ticker Ribbon Marquee",
+  "slug": "marquee-crypto-ticker-ribbon",
+  "description": "Realtime cryptocurrency price coins with 24h green/red deltas.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "crypto",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

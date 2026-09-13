@@ -1,0 +1,16 @@
+{
+  "name": "Mechanical Rocker Tactile Switch",
+  "slug": "switch-mechanical-rocker-tactile",
+  "description": "Physical power rocker switch tilting left and right with click.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "rocker",
+    "mechanical"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

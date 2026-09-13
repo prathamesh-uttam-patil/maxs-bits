@@ -1,0 +1,16 @@
+{
+  "name": "Circuit Blueprint Grid BG",
+  "slug": "background-circuit-blueprint-grid",
+  "description": "Technical cyan blueprint architectural schematic background.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "blueprint",
+    "grid"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

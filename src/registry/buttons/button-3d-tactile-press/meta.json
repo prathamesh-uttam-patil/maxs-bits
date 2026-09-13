@@ -1,0 +1,16 @@
+{
+  "name": "3D Tactile Press Button",
+  "slug": "button-3d-tactile-press",
+  "description": "Physical spring tactile mechanical button with deep shadow.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "3d",
+    "tactile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "DNA Double Helix Spin Loader",
+  "slug": "loader-dna-double-helix-spin",
+  "description": "Twisting biotechnology DNA base-pair rotating nodes.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "dna",
+    "helix"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

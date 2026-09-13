@@ -1,0 +1,16 @@
+{
+  "name": "Option Alt Dual Symbol KBD",
+  "slug": "kbd-option-alt-dual-symbol",
+  "description": "Combined option and alt key legend representation.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "alt",
+    "option"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

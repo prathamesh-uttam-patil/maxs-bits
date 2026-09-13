@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Striped Pulse Progress",
+  "slug": "progress-gradient-striped-pulse",
+  "description": "Diagonal candy-stripe animated indeterminate loader bar.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "stripes",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

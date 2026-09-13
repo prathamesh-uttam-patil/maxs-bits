@@ -1,0 +1,16 @@
+{
+  "name": "Favorite Heart Burst Button",
+  "slug": "button-favorite-heart-burst",
+  "description": "Twitter-like micro-particle heart burst interaction button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "heart",
+    "burst"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Checkout Slide To Pay Button",
+  "slug": "button-checkout-slide-to-pay",
+  "description": "Swipe right slider button confirming payment transaction.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "slider",
+    "pay"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

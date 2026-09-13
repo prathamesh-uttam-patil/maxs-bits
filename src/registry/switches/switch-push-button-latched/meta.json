@@ -1,0 +1,16 @@
+{
+  "name": "Push Button Latched Switch",
+  "slug": "switch-push-button-latched",
+  "description": "Square LED lighted pushbutton that recesses when depressed.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "button",
+    "led"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

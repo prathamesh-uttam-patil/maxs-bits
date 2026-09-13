@@ -1,0 +1,16 @@
+{
+  "name": "Search Command Palette Input",
+  "slug": "input-search-command-palette",
+  "description": "Spotlight style search input with instant shortcut tags.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "search",
+    "command"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

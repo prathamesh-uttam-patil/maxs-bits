@@ -1,0 +1,16 @@
+{
+  "name": "Level Experience Bar Avatar",
+  "slug": "avatar-level-experience-bar",
+  "description": "Gamer level ring showing current XP progress around border.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "xp",
+    "gamer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

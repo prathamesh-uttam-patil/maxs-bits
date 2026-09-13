@@ -1,0 +1,16 @@
+{
+  "name": "Memory Footprint Size Badge",
+  "slug": "badge-memory-footprint-size",
+  "description": "Bundle size gzipped package benchmark badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "bundle",
+    "perf"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

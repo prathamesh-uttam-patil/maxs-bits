@@ -1,0 +1,16 @@
+{
+  "name": "Paper Airplane Flight Cursor",
+  "slug": "cursor-paper-airplane-flight",
+  "description": "Cute paper glider rotating toward mouse travel direction.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "flight",
+    "airplane"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

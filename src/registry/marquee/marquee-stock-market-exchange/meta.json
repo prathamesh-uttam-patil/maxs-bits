@@ -1,0 +1,16 @@
+{
+  "name": "Stock Market Exchange Marquee",
+  "slug": "marquee-stock-market-exchange",
+  "description": "Wall Street financial indices scrolling board with live updates.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "stocks",
+    "finance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

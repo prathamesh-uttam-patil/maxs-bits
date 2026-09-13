@@ -1,0 +1,16 @@
+{
+  "name": "Precision Ruler Cross Cursor",
+  "slug": "cursor-precision-ruler-cross",
+  "description": "Design tool XY coordinate hair-lines and pixel coordinates.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "ruler",
+    "coords"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "New Release Candidate Badge",
+  "slug": "badge-new-release-candidate",
+  "description": "Software semver release candidate status pill.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "semver",
+    "release"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

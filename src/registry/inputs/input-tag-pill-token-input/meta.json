@@ -1,0 +1,16 @@
+{
+  "name": "Tag Pill Token Input",
+  "slug": "input-tag-pill-token-input",
+  "description": "Multi-tag tokenizer input with backspace removal support.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "tags",
+    "token"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

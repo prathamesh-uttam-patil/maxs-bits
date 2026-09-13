@@ -1,0 +1,16 @@
+{
+  "name": "Crowdfunding Goal Backer Counter",
+  "slug": "counter-crowdfunding-goal-backer",
+  "description": "Funding percentage and backer count live odometer.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "crowdfunding",
+    "goal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

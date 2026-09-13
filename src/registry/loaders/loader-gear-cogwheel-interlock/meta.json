@@ -1,0 +1,16 @@
+{
+  "name": "Gear Cogwheel Interlock Loader",
+  "slug": "loader-gear-cogwheel-interlock",
+  "description": "Interlocking mechanical gears rotating with precision teeth.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "gear",
+    "cogs"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

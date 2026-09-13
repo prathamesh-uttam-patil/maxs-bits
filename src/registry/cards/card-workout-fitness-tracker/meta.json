@@ -1,0 +1,16 @@
+{
+  "name": "Workout Fitness Tracker Card",
+  "slug": "card-workout-fitness-tracker",
+  "description": "Health fitness tracker card with calories burned and rings.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "fitness",
+    "health"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

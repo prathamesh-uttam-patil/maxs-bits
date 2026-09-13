@@ -1,0 +1,16 @@
+{
+  "name": "Segmented Battery Blocks Progress",
+  "slug": "progress-segmented-battery-blocks",
+  "description": "10 discrete LED battery bars glowing based on energy level.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "battery",
+    "led"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

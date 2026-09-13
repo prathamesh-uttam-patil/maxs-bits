@@ -1,0 +1,16 @@
+{
+  "name": "Scroll Zoom Image Reveal Scroll",
+  "slug": "scroll-zoom-image-reveal",
+  "description": "Hero image expanding from framed box to full bleed canvas.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "zoom",
+    "reveal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

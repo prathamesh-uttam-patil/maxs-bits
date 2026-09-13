@@ -1,0 +1,16 @@
+{
+  "name": "Prism Light Leak BG",
+  "slug": "background-prism-light-leak",
+  "description": "Optics dispersion rainbow flare drifting across corners.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "prism",
+    "lens"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

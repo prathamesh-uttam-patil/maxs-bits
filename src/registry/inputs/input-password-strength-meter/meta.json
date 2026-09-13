@@ -1,0 +1,16 @@
+{
+  "name": "Password Strength Meter Input",
+  "slug": "input-password-strength-meter",
+  "description": "Secure password field with live entropy strength indicator.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "password",
+    "entropy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

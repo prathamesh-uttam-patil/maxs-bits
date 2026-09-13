@@ -1,0 +1,16 @@
+{
+  "name": "Sticky Table Header Scroll",
+  "slug": "scroll-sticky-table-header",
+  "description": "Data table header fixing itself to top with glassmorphic blur.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "sticky",
+    "table"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vertical Numbered Rail Pagination",
+  "slug": "pagination-vertical-numbered-rail",
+  "description": "Right aligned full-page presentation slide indicator dots.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "vertical",
+    "slides"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

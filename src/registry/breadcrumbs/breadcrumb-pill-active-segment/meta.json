@@ -1,0 +1,16 @@
+{
+  "name": "Pill Active Segment Breadcrumb",
+  "slug": "breadcrumb-pill-active-segment",
+  "description": "Last breadcrumb segment highlighted as solid active pill.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "pill",
+    "active"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Terminal ASCII Rule Divider",
+  "slug": "divider-terminal-ascii-rule",
+  "description": "Monospaced ASCII character rule pattern separator line.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "ascii",
+    "terminal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

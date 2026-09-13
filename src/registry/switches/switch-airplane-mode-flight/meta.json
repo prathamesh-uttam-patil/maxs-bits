@@ -1,0 +1,16 @@
+{
+  "name": "Airplane Mode Flight Switch",
+  "slug": "switch-airplane-mode-flight",
+  "description": "Toggle switch with sliding airplane silhouette icon.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "airplane",
+    "flight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

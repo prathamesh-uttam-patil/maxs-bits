@@ -1,0 +1,16 @@
+{
+  "name": "E Commerce Package Tracking Timeline",
+  "slug": "timeline-e-commerce-package-tracking",
+  "description": "Shipping courier checkpoints from order placed to delivered.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "shipping",
+    "package"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

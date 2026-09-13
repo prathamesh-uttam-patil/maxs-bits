@@ -1,0 +1,16 @@
+{
+  "name": "Microphone Mute Toggle Switch",
+  "slug": "switch-microphone-mute-toggle",
+  "description": "Audio conference mic toggle with strike-through slash icon.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "mic",
+    "mute"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

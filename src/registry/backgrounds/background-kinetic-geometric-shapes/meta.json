@@ -1,0 +1,16 @@
+{
+  "name": "Kinetic Geometric Shapes BG",
+  "slug": "background-kinetic-geometric-shapes",
+  "description": "Floating minimalist geometric polygons with soft physics.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "geometric",
+    "kinetic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

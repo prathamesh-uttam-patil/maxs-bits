@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Wave Cylinder Progress",
+  "slug": "progress-liquid-wave-cylinder",
+  "description": "3D cylinder tank showing fluid sloshing liquid level.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "liquid",
+    "cylinder"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

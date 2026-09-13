@@ -1,0 +1,16 @@
+{
+  "name": "Onboarding Wizard Step Modal",
+  "slug": "modal-onboarding-wizard-step",
+  "description": "First-time user product walkthrough with progress dots.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "onboarding",
+    "wizard"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

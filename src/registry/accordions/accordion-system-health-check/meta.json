@@ -1,0 +1,16 @@
+{
+  "name": "System Health Check Accordion",
+  "slug": "accordion-system-health-check",
+  "description": "Service health status, latency, and uptime breakdown panel.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "health",
+    "system"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Hot Streak Counter Badge",
+  "slug": "badge-hot-streak-counter",
+  "description": "Daily productivity streak flame badge with streak count.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "streak",
+    "flame"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

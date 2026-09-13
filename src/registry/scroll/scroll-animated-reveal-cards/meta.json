@@ -1,0 +1,16 @@
+{
+  "name": "Animated Reveal Cards Scroll",
+  "slug": "scroll-animated-reveal-cards",
+  "description": "Cards that slide up and scale into view as user scrolls.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "reveal",
+    "animation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

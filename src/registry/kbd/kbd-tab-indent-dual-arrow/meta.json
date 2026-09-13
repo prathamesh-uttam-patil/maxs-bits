@@ -1,0 +1,16 @@
+{
+  "name": "Tab Indent Dual Arrow KBD",
+  "slug": "kbd-tab-indent-dual-arrow",
+  "description": "Left and right horizontal stop tab keycap icon.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "tab",
+    "indent"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

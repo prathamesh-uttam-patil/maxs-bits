@@ -1,0 +1,16 @@
+{
+  "name": "Speedometer Dial Gauge Progress",
+  "slug": "progress-speedometer-dial-gauge",
+  "description": "Radial needle speedometer tracking network throughput.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "speedometer",
+    "gauge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

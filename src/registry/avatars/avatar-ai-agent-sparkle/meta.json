@@ -1,0 +1,16 @@
+{
+  "name": "AI Agent Sparkle Avatar",
+  "slug": "avatar-ai-agent-sparkle",
+  "description": "AI assistant bot avatar ring with glowing particle shimmer.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "ai",
+    "agent"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

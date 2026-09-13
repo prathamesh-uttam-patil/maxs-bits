@@ -1,0 +1,16 @@
+{
+  "name": "Email Inbox List Skeleton",
+  "slug": "skeleton-email-inbox-list",
+  "description": "Gmail style sender, subject line, and date timestamp wireframes.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "email",
+    "inbox"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

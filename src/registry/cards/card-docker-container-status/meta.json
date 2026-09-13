@@ -1,0 +1,16 @@
+{
+  "name": "Docker Container Status Card",
+  "slug": "card-docker-container-status",
+  "description": "DevOps container card with CPU, RAM, and restart control.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "docker",
+    "devops"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

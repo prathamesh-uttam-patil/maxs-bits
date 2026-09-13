@@ -1,0 +1,16 @@
+{
+  "name": "Game Score Multiplier Counter",
+  "slug": "counter-game-score-multiplier",
+  "description": "Arcade point score counter with combo multiplier pulse.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "arcade",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

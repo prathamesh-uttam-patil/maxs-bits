@@ -1,0 +1,16 @@
+{
+  "name": "Crypto Wallet Asset Card",
+  "slug": "card-crypto-wallet-asset",
+  "description": "Token balances, 24h trend delta, and transfer action button.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "crypto",
+    "wallet"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

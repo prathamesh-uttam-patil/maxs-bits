@@ -1,0 +1,16 @@
+{
+  "name": "Pomodoro Timer Clock Counter",
+  "slug": "counter-pomodoro-timer-clock",
+  "description": "Productivity 25-minute focus session circular countdown.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "pomodoro",
+    "timer"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

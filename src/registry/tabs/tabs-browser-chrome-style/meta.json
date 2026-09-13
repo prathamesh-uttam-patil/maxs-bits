@@ -1,0 +1,16 @@
+{
+  "name": "Browser Chrome Style Tabs",
+  "slug": "tabs-browser-chrome-style",
+  "description": "Slanted trapezoid browser tabs with close buttons.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "browser",
+    "chrome"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

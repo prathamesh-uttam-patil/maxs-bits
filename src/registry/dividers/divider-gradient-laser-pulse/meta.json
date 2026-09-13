@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Laser Pulse Divider",
+  "slug": "divider-gradient-laser-pulse",
+  "description": "Razor thin neon laser line with traveling photon dot.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "laser",
+    "pulse"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

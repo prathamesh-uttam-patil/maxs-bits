@@ -1,0 +1,16 @@
+{
+  "name": "Storage Quota Donut Progress",
+  "slug": "progress-storage-quota-donut",
+  "description": "Multi-segment disk usage donut ring (media, apps, cache).",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "donut",
+    "storage"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

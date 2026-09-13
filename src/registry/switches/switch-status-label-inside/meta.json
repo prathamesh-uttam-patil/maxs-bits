@@ -1,0 +1,16 @@
+{
+  "name": "Status Label Inside Switch",
+  "slug": "switch-status-label-inside",
+  "description": "Toggle with text label embedded directly inside track oval.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "label",
+    "track"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

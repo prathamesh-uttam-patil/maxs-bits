@@ -1,0 +1,16 @@
+{
+  "name": "License Terms Viewer Accordion",
+  "slug": "accordion-license-terms-viewer",
+  "description": "Legal agreements and open-source licenses collapsible section.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "legal",
+    "license"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

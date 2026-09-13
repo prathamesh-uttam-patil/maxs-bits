@@ -1,0 +1,16 @@
+{
+  "name": "Chart Data Point Hover Tooltip",
+  "slug": "tooltip-chart-data-point-hover",
+  "description": "Rich tooltip card displaying X/Y values and metric sparkline.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "chart",
+    "data"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

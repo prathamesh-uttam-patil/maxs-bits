@@ -1,0 +1,16 @@
+{
+  "name": "Video Feed Player Skeleton",
+  "slug": "skeleton-video-feed-player",
+  "description": "16:9 aspect video preview box with channel title skeleton.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "video",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

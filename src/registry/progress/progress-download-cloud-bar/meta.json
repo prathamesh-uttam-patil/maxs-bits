@@ -1,0 +1,16 @@
+{
+  "name": "Download Cloud Bar Progress",
+  "slug": "progress-download-cloud-bar",
+  "description": "Cloud download status bar with estimated time remaining.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "download",
+    "eta"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

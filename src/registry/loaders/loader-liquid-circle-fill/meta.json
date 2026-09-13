@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Circle Fill Loader",
+  "slug": "loader-liquid-circle-fill",
+  "description": "Sinusoidal wave surface rising inside a circular mask.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "liquid",
+    "wave"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

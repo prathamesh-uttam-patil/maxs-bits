@@ -1,0 +1,16 @@
+{
+  "name": "Review Breakdown Bars Rating",
+  "slug": "rating-review-breakdown-bars",
+  "description": "Amazon style 5-star to 1-star review distribution histogram.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "histogram",
+    "breakdown"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stepper Progress Milestones Pagination",
+  "slug": "pagination-stepper-progress-milestones",
+  "description": "Connected numbered circles showing step completion.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "milestones",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

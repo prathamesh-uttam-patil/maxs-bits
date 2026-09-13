@@ -1,0 +1,16 @@
+{
+  "name": "Elastic Bubble Pill Tabs",
+  "slug": "tabs-elastic-bubble-pill",
+  "description": "Pill tab slider with liquid jelly elastic stretching.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "elastic",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

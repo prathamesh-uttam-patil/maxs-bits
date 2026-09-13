@@ -1,0 +1,16 @@
+{
+  "name": "Load More Spinner Button Pagination",
+  "slug": "pagination-load-more-spinner-button",
+  "description": "Button triggering lazy loading batch with inline spinner.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "loadmore",
+    "spinner"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

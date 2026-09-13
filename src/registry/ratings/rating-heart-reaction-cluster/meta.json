@@ -1,0 +1,16 @@
+{
+  "name": "Heart Reaction Cluster Rating",
+  "slug": "rating-heart-reaction-cluster",
+  "description": "Like heart counter with floating micro-heart burst particles.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "heart",
+    "likes"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

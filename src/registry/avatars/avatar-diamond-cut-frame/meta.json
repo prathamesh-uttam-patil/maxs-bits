@@ -1,0 +1,16 @@
+{
+  "name": "Diamond Cut Frame Avatar",
+  "slug": "avatar-diamond-cut-frame",
+  "description": "Luxury tilted diamond border shape profile picture container.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "diamond",
+    "frame"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

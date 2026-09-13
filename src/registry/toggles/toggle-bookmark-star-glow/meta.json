@@ -1,0 +1,16 @@
+{
+  "name": "Bookmark Star Glow Toggle",
+  "slug": "toggle-bookmark-star-glow",
+  "description": "Animated 5-point star that pops and shines when saved.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "star",
+    "bookmark"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

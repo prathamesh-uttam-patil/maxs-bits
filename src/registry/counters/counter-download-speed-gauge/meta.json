@@ -1,0 +1,16 @@
+{
+  "name": "Download Speed Gauge Counter",
+  "slug": "counter-download-speed-gauge",
+  "description": "Bandwidth MB/s speed monitor with dynamic unit scaling.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "speed",
+    "bandwidth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

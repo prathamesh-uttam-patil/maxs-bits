@@ -1,0 +1,16 @@
+{
+  "name": "Language Locale Select Chip",
+  "slug": "chip-language-locale-select",
+  "description": "Country flag and locale tag for multilingual switchers.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "locale",
+    "flag"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

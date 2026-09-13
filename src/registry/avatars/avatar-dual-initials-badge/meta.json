@@ -1,0 +1,16 @@
+{
+  "name": "Dual Initials Badge Avatar",
+  "slug": "avatar-dual-initials-badge",
+  "description": "Geometric fallback initials avatar with gradient background.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "initials",
+    "badge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

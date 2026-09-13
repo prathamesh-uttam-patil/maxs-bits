@@ -1,0 +1,16 @@
+{
+  "name": "NPS Gauge Colored Rating",
+  "slug": "rating-nps-gauge-colored",
+  "description": "Net Promoter Score 0 to 10 colored gradient button strip.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "nps",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

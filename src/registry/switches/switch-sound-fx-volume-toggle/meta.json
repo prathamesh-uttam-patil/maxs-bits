@@ -1,0 +1,16 @@
+{
+  "name": "Sound FX Volume Toggle Switch",
+  "slug": "switch-sound-fx-volume-toggle",
+  "description": "Speaker icon toggle emitting animated sound waves when on.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "audio",
+    "speaker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vertical Numbered Journey Timeline",
+  "slug": "timeline-vertical-numbered-journey",
+  "description": "Step-by-step user journey map with icons and badges.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "journey",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

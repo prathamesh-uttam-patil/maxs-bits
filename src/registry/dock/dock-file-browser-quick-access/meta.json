@@ -1,0 +1,16 @@
+{
+  "name": "File Browser Quick Access Dock",
+  "slug": "dock-file-browser-quick-access",
+  "description": "Desktop shortcut bar for documents, downloads, and trash.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "files",
+    "desktop"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

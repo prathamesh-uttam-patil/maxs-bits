@@ -1,0 +1,16 @@
+{
+  "name": "Gamer Hotbar HUD Dock",
+  "slug": "dock-gamer-hotbar-hud",
+  "description": "RPG video game inventory hotbar with numbered slot frames.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "rpg",
+    "gaming"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

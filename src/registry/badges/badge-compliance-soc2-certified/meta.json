@@ -1,0 +1,16 @@
+{
+  "name": "Compliance SOC2 Certified Badge",
+  "slug": "badge-compliance-soc2-certified",
+  "description": "Enterprise security certification audit guarantee emblem.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "security",
+    "compliance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

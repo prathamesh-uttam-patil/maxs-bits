@@ -1,0 +1,16 @@
+{
+  "name": "Fuel Level Tank Gauge Progress",
+  "slug": "progress-fuel-level-tank-gauge",
+  "description": "Automotive fuel tank gauge arc with low warning icon.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "fuel",
+    "gauge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

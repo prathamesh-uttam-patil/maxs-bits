@@ -1,0 +1,16 @@
+{
+  "name": "Bookmark Save Toggle Button",
+  "slug": "button-bookmark-save-toggle",
+  "description": "Animated ribbon bookmark button that fills on click.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "bookmark",
+    "save"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

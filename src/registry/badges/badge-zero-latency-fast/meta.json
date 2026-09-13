@@ -1,0 +1,16 @@
+{
+  "name": "Zero Latency Fast Badge",
+  "slug": "badge-zero-latency-fast",
+  "description": "Lightning bolt sub-millisecond edge execution badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "latency",
+    "edge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

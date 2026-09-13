@@ -1,0 +1,16 @@
+{
+  "name": "Generate AI Magic Button",
+  "slug": "button-generate-ai-magic",
+  "description": "Shimmering rainbow gradient border button with sparkle icon.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "ai",
+    "magic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

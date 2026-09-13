@@ -1,0 +1,16 @@
+{
+  "name": "Cloud Infra Topology Accordion",
+  "slug": "accordion-cloud-infra-topology",
+  "description": "Cluster regions, VPCs, and container instances hierarchy.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "cloud",
+    "infra"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

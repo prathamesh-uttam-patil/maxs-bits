@@ -1,0 +1,16 @@
+{
+  "name": "GitHub Stargazers Avatars Marquee",
+  "slug": "marquee-github-stargazers-avatars",
+  "description": "Live stream of GitHub contributor profile photos scrolling by.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "github",
+    "contributors"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

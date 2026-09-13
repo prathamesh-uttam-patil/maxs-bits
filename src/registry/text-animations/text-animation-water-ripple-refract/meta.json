@@ -1,0 +1,16 @@
+{
+  "name": "Water Ripple Refract Text Animation",
+  "slug": "text-animation-water-ripple-refract",
+  "description": "Typography undulating under simulated water ripples.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "water",
+    "ripple"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

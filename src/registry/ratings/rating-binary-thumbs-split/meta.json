@@ -1,0 +1,16 @@
+{
+  "name": "Binary Thumbs Split Rating",
+  "slug": "rating-binary-thumbs-split",
+  "description": "YouTube style thumbs up and down buttons with percentage bar.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "thumbs",
+    "youtube"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

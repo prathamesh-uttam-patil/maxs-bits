@@ -1,0 +1,16 @@
+{
+  "name": "Laser Stencil Cutout Text Animation",
+  "slug": "text-animation-laser-stencil-cutout",
+  "description": "Laser beam tracing letter contours with glowing sparks.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "laser",
+    "stencil"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

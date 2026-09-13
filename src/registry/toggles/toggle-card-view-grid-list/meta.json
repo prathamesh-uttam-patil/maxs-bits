@@ -1,0 +1,16 @@
+{
+  "name": "Card View Grid List Toggle",
+  "slug": "toggle-card-view-grid-list",
+  "description": "Switch layout between multi-column grid and single-row list.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "grid",
+    "list"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

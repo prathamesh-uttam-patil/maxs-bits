@@ -1,0 +1,16 @@
+{
+  "name": "Upcoming Event Calendar Marquee",
+  "slug": "marquee-upcoming-event-calendar",
+  "description": "Conference speaking slots and upcoming tech webinar ticker.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "events",
+    "calendar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Lock Privacy Shackle Toggle",
+  "slug": "toggle-lock-privacy-shackle",
+  "description": "Interactive privacy padlock locking and unlocking visibly.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "privacy",
+    "lock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Vertical Sidebar Rail Dock",
+  "slug": "dock-vertical-sidebar-rail",
+  "description": "Left aligned vertical tool rail with collapsible flyout menus.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "vertical",
+    "rail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

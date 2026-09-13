@@ -1,0 +1,16 @@
+{
+  "name": "Jump To Page Input Pagination",
+  "slug": "pagination-jump-to-page-input",
+  "description": "Direct page number text input box with go submission key.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "jump",
+    "input"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

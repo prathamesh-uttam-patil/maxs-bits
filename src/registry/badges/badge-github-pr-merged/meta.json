@@ -1,0 +1,16 @@
+{
+  "name": "GitHub PR Merged Badge",
+  "slug": "badge-github-pr-merged",
+  "description": "Pull request successfully integrated purple merge badge.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "git",
+    "pr"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

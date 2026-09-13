@@ -1,0 +1,16 @@
+{
+  "name": "Day Night Celestial Switch",
+  "slug": "switch-day-night-celestial",
+  "description": "Sun rotating into crescent moon with orbiting stars.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "theme",
+    "celestial"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

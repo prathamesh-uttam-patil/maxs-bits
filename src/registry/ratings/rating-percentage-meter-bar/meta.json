@@ -1,0 +1,16 @@
+{
+  "name": "Percentage Meter Bar Rating",
+  "slug": "rating-percentage-meter-bar",
+  "description": "Community approval rating bar with positive/negative ratio.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "percentage",
+    "ratio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

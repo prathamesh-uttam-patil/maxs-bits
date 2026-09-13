@@ -1,0 +1,16 @@
+{
+  "name": "Monetary Slider Range Input",
+  "slug": "input-monetary-slider-range",
+  "description": "Currency input paired with continuous price range track slider.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "slider",
+    "money"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

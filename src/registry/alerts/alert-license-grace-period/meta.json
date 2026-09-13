@@ -1,0 +1,16 @@
+{
+  "name": "License Grace Period Alert",
+  "slug": "alert-license-grace-period",
+  "description": "Account renewal reminder banner during grace period days.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "billing",
+    "license"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

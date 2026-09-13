@@ -1,0 +1,16 @@
+{
+  "name": "Share Social Embed Modal",
+  "slug": "modal-share-social-embed",
+  "description": "Social sharing modal with QR code generation and embed iframe.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "share",
+    "qrcode"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

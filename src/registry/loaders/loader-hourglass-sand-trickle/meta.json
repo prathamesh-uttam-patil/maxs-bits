@@ -1,0 +1,16 @@
+{
+  "name": "Hourglass Sand Trickle Loader",
+  "slug": "loader-hourglass-sand-trickle",
+  "description": "Vintage hourglass flipping 180 degrees with falling sand grains.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "hourglass",
+    "sand"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

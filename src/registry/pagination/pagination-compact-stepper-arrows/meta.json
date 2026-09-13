@@ -1,0 +1,16 @@
+{
+  "name": "Compact Stepper Arrows Pagination",
+  "slug": "pagination-compact-stepper-arrows",
+  "description": "Minimalist prev/next buttons with current index fraction.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "compact",
+    "stepper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

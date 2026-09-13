@@ -1,0 +1,16 @@
+{
+  "name": "Chromatic Aberration Text Animation",
+  "slug": "text-animation-chromatic-aberration",
+  "description": "RGB channel split glitch shift on high-energy hover.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "glitch",
+    "chromatic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

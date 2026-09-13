@@ -1,0 +1,16 @@
+{
+  "name": "Multi-Tenant Org Trail Breadcrumb",
+  "slug": "breadcrumb-multi-tenant-org-trail",
+  "description": "Organization, workspace, and project breadcrumb hierarchy.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "tenant",
+    "org"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

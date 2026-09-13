@@ -1,0 +1,16 @@
+{
+  "name": "Page Size Dropdown Bar Pagination",
+  "slug": "pagination-page-size-dropdown-bar",
+  "description": "Selector allowing user to choose 10, 25, 50, or 100 rows.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "rows",
+    "dropdown"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

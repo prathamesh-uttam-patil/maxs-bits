@@ -1,0 +1,16 @@
+{
+  "name": "Changelog Releases Accordion",
+  "slug": "accordion-changelog-releases",
+  "description": "Product version history breakdown with tags and highlights.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "changelog",
+    "release"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

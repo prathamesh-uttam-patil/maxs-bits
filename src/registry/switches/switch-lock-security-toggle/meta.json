@@ -1,0 +1,16 @@
+{
+  "name": "Lock Security Toggle Switch",
+  "slug": "switch-lock-security-toggle",
+  "description": "Padlock shackle that clicks closed and changes to secure green.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "security",
+    "lock"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

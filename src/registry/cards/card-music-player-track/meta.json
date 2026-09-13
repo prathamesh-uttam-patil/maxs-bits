@@ -1,0 +1,16 @@
+{
+  "name": "Music Player Track Card",
+  "slug": "card-music-player-track",
+  "description": "Audio album artwork, track scrubber, and play/pause controls.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "music",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

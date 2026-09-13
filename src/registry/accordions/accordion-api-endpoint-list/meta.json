@@ -1,0 +1,16 @@
+{
+  "name": "API Endpoint List Accordion",
+  "slug": "accordion-api-endpoint-list",
+  "description": "REST and GraphQL API route documentation collapsible panel list.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "api",
+    "docs"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

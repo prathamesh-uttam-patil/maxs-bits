@@ -1,0 +1,16 @@
+{
+  "name": "API Requests Per Second Counter",
+  "slug": "counter-api-requests-per-second",
+  "description": "High-frequency telemetry RPS number flipper counter.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "rps",
+    "telemetry"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

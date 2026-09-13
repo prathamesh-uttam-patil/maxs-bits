@@ -1,0 +1,16 @@
+{
+  "name": "Audit Log Detail Accordion",
+  "slug": "accordion-audit-log-detail",
+  "description": "Security compliance and access audit event details drawer.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "audit",
+    "security"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

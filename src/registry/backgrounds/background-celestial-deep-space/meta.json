@@ -1,0 +1,16 @@
+{
+  "name": "Celestial Deep Space BG",
+  "slug": "background-celestial-deep-space",
+  "description": "Deep galactic nebula clouds with twinkling star fields.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "space",
+    "galaxy"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

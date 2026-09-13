@@ -1,0 +1,16 @@
+{
+  "name": "Firmware Update Available Alert",
+  "slug": "alert-firmware-update-available",
+  "description": "Hardware device Over-The-Air firmware patch alert banner.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "firmware",
+    "update"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Bouncing Color Dots Loader",
+  "slug": "loader-bouncing-color-dots",
+  "description": "Staggered vertical bouncing pastel dots with floor shadows.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "dots",
+    "bounce"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

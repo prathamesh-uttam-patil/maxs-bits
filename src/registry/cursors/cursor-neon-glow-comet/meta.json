@@ -1,0 +1,16 @@
+{
+  "name": "Neon Glow Comet Cursor",
+  "slug": "cursor-neon-glow-comet",
+  "description": "Bright glowing comet tail following mouse movement velocity.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "comet",
+    "neon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

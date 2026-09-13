@@ -1,0 +1,16 @@
+{
+  "name": "Domain Suffix Autocomplete Input",
+  "slug": "input-domain-suffix-autocomplete",
+  "description": "Domain name input with instant .com/.io/.ai pill suffix selector.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "domain",
+    "tld"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

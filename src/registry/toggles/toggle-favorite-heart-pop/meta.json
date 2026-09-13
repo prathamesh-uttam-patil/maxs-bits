@@ -1,0 +1,16 @@
+{
+  "name": "Favorite Heart Pop Toggle",
+  "slug": "toggle-favorite-heart-pop",
+  "description": "Bouncy red heart icon toggling active like status.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "heart",
+    "like"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

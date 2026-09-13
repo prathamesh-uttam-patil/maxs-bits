@@ -1,0 +1,16 @@
+{
+  "name": "Smart Home Thermostat Card",
+  "slug": "card-smart-home-thermostat",
+  "description": "IoT climate control card with rotary temperature dial.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "iot",
+    "thermostat"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

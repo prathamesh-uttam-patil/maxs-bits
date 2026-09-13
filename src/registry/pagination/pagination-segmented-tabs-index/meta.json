@@ -1,0 +1,16 @@
+{
+  "name": "Segmented Tabs Index Pagination",
+  "slug": "pagination-segmented-tabs-index",
+  "description": "Segmented pill controls styling for page navigation.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "segmented",
+    "pills"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

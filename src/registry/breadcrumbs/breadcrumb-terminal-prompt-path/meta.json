@@ -1,0 +1,16 @@
+{
+  "name": "Terminal Prompt Path Breadcrumb",
+  "slug": "breadcrumb-terminal-prompt-path",
+  "description": "CLI styled ~ / user / project / src path navigator.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "terminal",
+    "cli"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

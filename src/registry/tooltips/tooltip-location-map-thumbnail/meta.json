@@ -1,0 +1,16 @@
+{
+  "name": "Location Map Thumbnail Tooltip",
+  "slug": "tooltip-location-map-thumbnail",
+  "description": "Mini street map preview thumbnail on address link hover.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "map",
+    "location"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

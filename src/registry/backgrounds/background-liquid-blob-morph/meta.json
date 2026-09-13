@@ -1,0 +1,16 @@
+{
+  "name": "Liquid Blob Morph BG",
+  "slug": "background-liquid-blob-morph",
+  "description": "Smooth organic gooey blobs blending in high-key gradient.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "blob",
+    "liquid"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Uptime Percentage Dial Counter",
+  "slug": "counter-uptime-percentage-dial",
+  "description": "99.99% service availability metric ticker dial.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "uptime",
+    "sla"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}
