@@ -1,0 +1,16 @@
+{
+  "name": "Session Timeout Alert",
+  "slug": "session-timeout-alert",
+  "description": "Warning banner with countdown timer for expiring session.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "timeout",
+    "session"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Search Clear Input",
+  "slug": "search-clear-input",
+  "description": "Instant search input with one-click clear button.",
+  "category": "inputs",
+  "tags": [
+    "input",
+    "search",
+    "clear"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

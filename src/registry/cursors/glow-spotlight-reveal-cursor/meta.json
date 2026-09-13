@@ -1,0 +1,16 @@
+{
+  "name": "Glow Spotlight Reveal Cursor",
+  "slug": "glow-spotlight-reveal-cursor",
+  "description": "Radial flashlight mask revealing hidden text underneath.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "spotlight",
+    "flashlight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

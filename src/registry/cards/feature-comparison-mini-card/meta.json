@@ -1,0 +1,16 @@
+{
+  "name": "Feature Comparison Mini Card",
+  "slug": "feature-comparison-mini-card",
+  "description": "Before vs after checklist comparison card.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "feature",
+    "compare"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

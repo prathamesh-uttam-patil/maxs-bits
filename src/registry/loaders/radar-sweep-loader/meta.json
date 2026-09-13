@@ -1,0 +1,16 @@
+{
+  "name": "Radar Sweep Loader",
+  "slug": "radar-sweep-loader",
+  "description": "Rotating sonar green radar sweep circle.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "radar",
+    "sweep"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

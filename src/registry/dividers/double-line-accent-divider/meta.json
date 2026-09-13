@@ -1,0 +1,16 @@
+{
+  "name": "Double Line Accent Divider",
+  "slug": "double-line-accent-divider",
+  "description": "Two parallel clean border lines with central diamond.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "double",
+    "diamond"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

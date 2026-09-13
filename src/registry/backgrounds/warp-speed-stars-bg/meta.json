@@ -1,0 +1,16 @@
+{
+  "name": "Warp Speed Stars BG",
+  "slug": "warp-speed-stars-bg",
+  "description": "Hyperdrive star streaks radiating outward.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "warp",
+    "stars"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

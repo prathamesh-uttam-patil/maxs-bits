@@ -1,0 +1,16 @@
+{
+  "name": "Code Block Collapsible Accordion",
+  "slug": "code-block-collapsible-accordion",
+  "description": "Syntax highlighted code accordion with copy trigger.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "code",
+    "collapsible"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

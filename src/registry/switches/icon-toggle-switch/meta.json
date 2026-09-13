@@ -1,0 +1,16 @@
+{
+  "name": "Icon Toggle Switch",
+  "slug": "icon-toggle-switch",
+  "description": "Switch displaying check and cross icons inside thumb.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "icon",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

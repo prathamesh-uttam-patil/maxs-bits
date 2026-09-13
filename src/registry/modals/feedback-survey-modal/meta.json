@@ -1,0 +1,16 @@
+{
+  "name": "Feedback Survey Modal",
+  "slug": "feedback-survey-modal",
+  "description": "Customer NPS rating feedback popup modal dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "survey",
+    "feedback"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

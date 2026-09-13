@@ -1,0 +1,16 @@
+{
+  "name": "Percentage Circle Counter",
+  "slug": "percentage-circle-counter",
+  "description": "SVG circular progress counter with center numeric percentage.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "circle",
+    "percentage"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

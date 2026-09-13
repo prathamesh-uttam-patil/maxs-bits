@@ -1,0 +1,16 @@
+{
+  "name": "Floating Jump To Top Button",
+  "slug": "floating-jump-to-top-btn",
+  "description": "Corner action button appearing when scrolling down.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "top",
+    "floating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

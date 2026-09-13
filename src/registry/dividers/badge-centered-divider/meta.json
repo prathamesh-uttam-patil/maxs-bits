@@ -1,0 +1,16 @@
+{
+  "name": "Badge Centered Divider",
+  "slug": "badge-centered-divider",
+  "description": "Rule line interrupted by a pill label badge.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "badge",
+    "center"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Keyboard Shortcut Hint Tooltip",
+  "slug": "keyboard-shortcut-hint-tooltip",
+  "description": "Action button with hover kbd shortcut guide.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "shortcut",
+    "hint"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

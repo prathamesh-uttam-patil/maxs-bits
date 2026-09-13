@@ -1,0 +1,16 @@
+{
+  "name": "Prism Light Leak BG",
+  "slug": "prism-light-leak-bg",
+  "description": "Optical prism flare and chromatic light leak sheen.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "prism",
+    "flare"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

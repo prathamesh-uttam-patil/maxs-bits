@@ -1,0 +1,16 @@
+{
+  "name": "Dashboard Widget Skeleton Card",
+  "slug": "dashboard-widget-skeleton-card",
+  "description": "Analytics chart and metric tile placeholder.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "dashboard",
+    "widget"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

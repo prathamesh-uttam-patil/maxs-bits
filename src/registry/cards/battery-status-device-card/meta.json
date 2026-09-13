@@ -1,0 +1,16 @@
+{
+  "name": "Battery Status Device Card",
+  "slug": "battery-status-device-card",
+  "description": "Hardware peripheral battery percentage and health card.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "battery",
+    "device"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

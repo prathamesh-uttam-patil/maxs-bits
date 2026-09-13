@@ -1,0 +1,16 @@
+{
+  "name": "Version History Timeline",
+  "slug": "version-history-timeline",
+  "description": "Changelog release tree with version tags and notes.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "version",
+    "changelog"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

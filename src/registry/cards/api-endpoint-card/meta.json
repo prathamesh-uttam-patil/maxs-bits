@@ -1,0 +1,16 @@
+{
+  "name": "API Endpoint Card",
+  "slug": "api-endpoint-card",
+  "description": "REST method badge (GET/POST) with code URL snippet.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "api",
+    "rest"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

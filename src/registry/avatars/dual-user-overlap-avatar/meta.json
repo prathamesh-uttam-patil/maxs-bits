@@ -1,0 +1,16 @@
+{
+  "name": "Dual User Overlap Avatar",
+  "slug": "dual-user-overlap-avatar",
+  "description": "Paired direct message conversation overlap avatar bubbles.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "dm",
+    "overlap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

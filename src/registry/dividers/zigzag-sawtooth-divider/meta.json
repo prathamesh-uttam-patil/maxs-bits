@@ -1,0 +1,16 @@
+{
+  "name": "Zigzag Sawtooth Divider",
+  "slug": "zigzag-sawtooth-divider",
+  "description": "Geometric angular sawtooth patterned section divider.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "zigzag",
+    "sawtooth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

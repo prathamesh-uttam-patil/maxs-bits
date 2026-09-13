@@ -1,0 +1,16 @@
+{
+  "name": "Icon Labeled Dock Tabs",
+  "slug": "icon-labeled-dock-tabs",
+  "description": "Mobile navigation dock with stacked icons and labels.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "dock",
+    "mobile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Sponsored Tag Badge",
+  "slug": "sponsored-tag-badge",
+  "description": "Promoted ad sponsor badge with gold outline glow.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "sponsored",
+    "promoted"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Horizontal Split Accordion",
+  "slug": "horizontal-split-accordion",
+  "description": "Side-by-side expandable panel sliding accordion.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "horizontal",
+    "split"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

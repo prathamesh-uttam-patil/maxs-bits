@@ -1,0 +1,16 @@
+{
+  "name": "Subtle Grain Mesh BG",
+  "slug": "subtle-grain-mesh-bg",
+  "description": "Analog film noise combined with radial gradient glow.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "grain",
+    "mesh"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

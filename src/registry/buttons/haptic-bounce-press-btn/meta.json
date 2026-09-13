@@ -1,0 +1,16 @@
+{
+  "name": "Haptic Bounce Press Button",
+  "slug": "haptic-bounce-press-btn",
+  "description": "Spring physics tactile compression button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "haptic",
+    "bounce"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

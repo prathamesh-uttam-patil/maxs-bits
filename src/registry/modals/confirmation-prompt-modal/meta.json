@@ -1,0 +1,16 @@
+{
+  "name": "Confirmation Prompt Modal",
+  "slug": "confirmation-prompt-modal",
+  "description": "Destructive delete action confirmation dialog.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "confirm",
+    "prompt"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

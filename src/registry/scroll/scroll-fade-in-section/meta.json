@@ -1,0 +1,16 @@
+{
+  "name": "Scroll Fade In Section",
+  "slug": "scroll-fade-in-section",
+  "description": "Intersection observer animated viewport reveal wrapper.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "reveal",
+    "fade"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Free Tier Badge",
+  "slug": "free-tier-badge",
+  "description": "Green ribbon badge for community and open source tiers.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "free",
+    "open-source"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

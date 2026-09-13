@@ -1,0 +1,16 @@
+{
+  "name": "Dual Tone Gradient Button",
+  "slug": "dual-tone-gradient-btn",
+  "description": "Two-color metallic sheen angle gradient button.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "dualtone",
+    "gradient"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

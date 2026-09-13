@@ -1,0 +1,16 @@
+{
+  "name": "Upgrade Pro Callout",
+  "slug": "upgrade-pro-callout",
+  "description": "Gradient highlighted CTA banner to unlock pro tier.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "upgrade",
+    "callout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

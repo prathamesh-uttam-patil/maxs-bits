@@ -1,0 +1,16 @@
+{
+  "name": "Circuit Board PCB BG",
+  "slug": "circuit-board-pcb-bg",
+  "description": "Microchip conductive lines circuit trace background.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "circuit",
+    "pcb"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

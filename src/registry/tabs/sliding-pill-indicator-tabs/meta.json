@@ -1,0 +1,16 @@
+{
+  "name": "Sliding Pill Indicator Tabs",
+  "slug": "sliding-pill-indicator-tabs",
+  "description": "Segmented control tabs with spring animated active pill.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "pill",
+    "sliding"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

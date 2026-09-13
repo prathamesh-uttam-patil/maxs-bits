@@ -1,0 +1,16 @@
+{
+  "name": "Step Milestone Progress Bar",
+  "slug": "step-milestone-progress-bar",
+  "description": "Numbered checkpoint wizard completion track.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "milestone",
+    "step"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

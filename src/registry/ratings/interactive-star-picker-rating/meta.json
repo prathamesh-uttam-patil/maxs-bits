@@ -1,0 +1,16 @@
+{
+  "name": "Interactive Star Picker Rating",
+  "slug": "interactive-star-picker-rating",
+  "description": "Five star click and hover rating with tooltip label.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "star",
+    "picker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

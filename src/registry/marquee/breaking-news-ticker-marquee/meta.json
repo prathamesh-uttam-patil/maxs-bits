@@ -1,0 +1,16 @@
+{
+  "name": "Breaking News Ticker Marquee",
+  "slug": "breaking-news-ticker-marquee",
+  "description": "Red alert live stock and breaking headlines ticker.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "news",
+    "ticker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

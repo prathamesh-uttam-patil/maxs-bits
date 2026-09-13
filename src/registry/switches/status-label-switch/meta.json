@@ -1,0 +1,16 @@
+{
+  "name": "Status Label Switch",
+  "slug": "status-label-switch",
+  "description": "Inline switch with dynamic On/Off text indicator.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "label",
+    "status"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

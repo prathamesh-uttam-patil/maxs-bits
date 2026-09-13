@@ -1,0 +1,16 @@
+{
+  "name": "Shimmer Sweep Pill Button",
+  "slug": "shimmer-sweep-pill-btn",
+  "description": "Rounded pill button with continuous light sweep.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "shimmer",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

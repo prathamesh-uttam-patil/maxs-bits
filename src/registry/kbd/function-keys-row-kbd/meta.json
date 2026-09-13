@@ -1,0 +1,16 @@
+{
+  "name": "Function Keys Row KBD",
+  "slug": "function-keys-row-kbd",
+  "description": "Hardware styled F1-F12 keyboard shortcut strip.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "function",
+    "keys"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

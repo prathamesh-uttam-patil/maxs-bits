@@ -1,0 +1,16 @@
+{
+  "name": "Minimal Dot Breadcrumbs",
+  "slug": "minimal-dot-breadcrumbs",
+  "description": "Ultra simple dot separated path navigation.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "dots",
+    "minimal"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

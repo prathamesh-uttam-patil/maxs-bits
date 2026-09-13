@@ -1,0 +1,16 @@
+{
+  "name": "Roadmap Quarterly Timeline",
+  "slug": "roadmap-quarterly-timeline",
+  "description": "Product release schedule with completed and upcoming flags.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "roadmap",
+    "quarterly"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

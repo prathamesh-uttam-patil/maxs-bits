@@ -1,0 +1,16 @@
+{
+  "name": "Chevron Flow Breadcrumbs",
+  "slug": "chevron-flow-breadcrumbs",
+  "description": "Continuous arrows linked flow breadcrumb ribbon.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumbs",
+    "chevron",
+    "flow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

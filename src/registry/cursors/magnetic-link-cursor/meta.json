@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Link Cursor",
+  "slug": "magnetic-link-cursor",
+  "description": "Cursor snaps to links and expands circle radius.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "magnetic",
+    "snap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

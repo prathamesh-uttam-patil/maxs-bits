@@ -1,0 +1,16 @@
+{
+  "name": "User Testimonial Slider Card",
+  "slug": "user-testimonial-slider-card",
+  "description": "Customer review quote card with star rating and company.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "testimonial",
+    "quote"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

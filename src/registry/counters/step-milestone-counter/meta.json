@@ -1,0 +1,16 @@
+{
+  "name": "Step Milestone Counter",
+  "slug": "step-milestone-counter",
+  "description": "Linear milestone counter showing 4 of 10 tasks completed.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "milestone",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

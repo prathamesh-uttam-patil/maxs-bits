@@ -1,0 +1,16 @@
+{
+  "name": "Orbiting Electrons Loader",
+  "slug": "orbiting-electrons-loader",
+  "description": "Planetary atomic nucleus electron orbit animation.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "orbit",
+    "atom"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

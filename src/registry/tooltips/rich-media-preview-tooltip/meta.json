@@ -1,0 +1,16 @@
+{
+  "name": "Rich Media Preview Tooltip",
+  "slug": "rich-media-preview-tooltip",
+  "description": "Tooltip displaying link card preview thumbnail.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "preview",
+    "media"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

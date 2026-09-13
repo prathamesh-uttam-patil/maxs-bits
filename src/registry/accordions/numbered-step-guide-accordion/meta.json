@@ -1,0 +1,16 @@
+{
+  "name": "Numbered Step Guide Accordion",
+  "slug": "numbered-step-guide-accordion",
+  "description": "Sequential onboarding wizard accordion steps.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "steps",
+    "guide"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

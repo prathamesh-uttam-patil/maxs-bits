@@ -1,0 +1,16 @@
+{
+  "name": "Slider Score Rating",
+  "slug": "slider-score-rating",
+  "description": "Interactive numeric drag slider score from 1 to 100.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "slider",
+    "score"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

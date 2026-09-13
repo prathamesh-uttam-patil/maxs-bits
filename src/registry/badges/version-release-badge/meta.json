@@ -1,0 +1,16 @@
+{
+  "name": "Version Release Badge",
+  "slug": "version-release-badge",
+  "description": "Semver tag badge with commit hash preview pill.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "version",
+    "semver"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

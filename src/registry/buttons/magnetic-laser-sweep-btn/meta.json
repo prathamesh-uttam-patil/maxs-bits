@@ -1,0 +1,16 @@
+{
+  "name": "Magnetic Laser Sweep Button",
+  "slug": "magnetic-laser-sweep-btn",
+  "description": "Magnetic cursor tracking button with laser sweep reflection.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "magnetic",
+    "laser"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

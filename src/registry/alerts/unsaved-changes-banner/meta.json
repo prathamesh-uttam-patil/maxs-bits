@@ -1,0 +1,16 @@
+{
+  "name": "Unsaved Changes Banner",
+  "slug": "unsaved-changes-banner",
+  "description": "Sticky footer warning banner with save and discard buttons.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "unsaved",
+    "banner"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

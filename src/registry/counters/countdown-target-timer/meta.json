@@ -1,0 +1,16 @@
+{
+  "name": "Countdown Target Timer",
+  "slug": "countdown-target-timer",
+  "description": "Days, hours, minutes, seconds release launch timer.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "countdown",
+    "launch"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

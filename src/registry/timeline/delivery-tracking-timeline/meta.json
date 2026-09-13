@@ -1,0 +1,16 @@
+{
+  "name": "Delivery Tracking Timeline",
+  "slug": "delivery-tracking-timeline",
+  "description": "Package transit milestones with status checkmarks.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "delivery",
+    "tracking"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

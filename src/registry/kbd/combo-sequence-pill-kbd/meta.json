@@ -1,0 +1,16 @@
+{
+  "name": "Combo Sequence Pill KBD",
+  "slug": "combo-sequence-pill-kbd",
+  "description": "Vim style chained command key sequence visualizer.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "sequence",
+    "vim"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

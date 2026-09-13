@@ -1,0 +1,16 @@
+{
+  "name": "Testimonial Quotes Marquee",
+  "slug": "testimonial-quotes-marquee",
+  "description": "Infinite smooth scrolling user review quotation cards.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "testimonials",
+    "quotes"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

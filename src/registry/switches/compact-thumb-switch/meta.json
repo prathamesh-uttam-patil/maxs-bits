@@ -1,0 +1,16 @@
+{
+  "name": "Compact Thumb Switch",
+  "slug": "compact-thumb-switch",
+  "description": "Ultra minimal hardware slider toggle switch.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "thumb",
+    "compact"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

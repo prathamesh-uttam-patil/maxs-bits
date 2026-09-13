@@ -1,0 +1,16 @@
+{
+  "name": "Badge Status Callout Tooltip",
+  "slug": "badge-status-callout-tooltip",
+  "description": "Tooltip with system uptime status dot and message.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "status",
+    "callout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

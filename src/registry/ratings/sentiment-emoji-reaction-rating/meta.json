@@ -1,0 +1,16 @@
+{
+  "name": "Sentiment Emoji Reaction Rating",
+  "slug": "sentiment-emoji-reaction-rating",
+  "description": "Sad, neutral, happy emoji facial reaction survey.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "sentiment",
+    "emoji"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

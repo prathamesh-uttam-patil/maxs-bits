@@ -1,0 +1,16 @@
+{
+  "name": "Bottom Sheet Mobile Modal",
+  "slug": "bottom-sheet-mobile-modal",
+  "description": "Mobile native slide-up swipeable sheet menu.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "sheet",
+    "bottom"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

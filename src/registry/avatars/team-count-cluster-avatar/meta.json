@@ -1,0 +1,16 @@
+{
+  "name": "Team Count Cluster Avatar",
+  "slug": "team-count-cluster-avatar",
+  "description": "Three avatars stacked with glowing active count tag.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "team",
+    "cluster"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

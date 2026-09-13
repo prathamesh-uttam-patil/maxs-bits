@@ -1,0 +1,16 @@
+{
+  "name": "Price Discount Chip",
+  "slug": "price-discount-chip",
+  "description": "Badge chip showing saved dollar or percentage off.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "discount",
+    "price"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

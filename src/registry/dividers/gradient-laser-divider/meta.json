@@ -1,0 +1,16 @@
+{
+  "name": "Gradient Laser Divider",
+  "slug": "gradient-laser-divider",
+  "description": "High intensity neon laser ray section divider.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "laser",
+    "neon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Folder Index Tabs",
+  "slug": "folder-index-tabs",
+  "description": "Browser tab style overlapping directory tabs.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "folder",
+    "browser"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

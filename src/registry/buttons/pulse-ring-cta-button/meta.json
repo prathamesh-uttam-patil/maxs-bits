@@ -1,0 +1,16 @@
+{
+  "name": "Pulse Ring CTA Button",
+  "slug": "pulse-ring-cta-button",
+  "description": "Action button surrounded by continuous radiating waves.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "pulse",
+    "ring"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Post Feed Skeleton Card",
+  "slug": "post-feed-skeleton-card",
+  "description": "Article media post placeholder with simulated text lines.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "post",
+    "feed"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

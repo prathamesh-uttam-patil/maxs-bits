@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Cluster Nav KBD",
+  "slug": "arrow-cluster-nav-kbd",
+  "description": "Inverted T gaming directional arrow key pad.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "arrows",
+    "nav"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}

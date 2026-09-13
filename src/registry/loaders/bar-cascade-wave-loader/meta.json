@@ -1,0 +1,16 @@
+{
+  "name": "Bar Cascade Wave Loader",
+  "slug": "bar-cascade-wave-loader",
+  "description": "Staggered wave bouncing vertical soundbars.",
+  "category": "loaders",
+  "tags": [
+    "loader",
+    "bars",
+    "cascade"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": []
+}
