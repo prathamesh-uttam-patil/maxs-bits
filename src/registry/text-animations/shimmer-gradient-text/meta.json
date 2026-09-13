@@ -1,0 +1,18 @@
+{
+  "name": "Shimmer Gradient Text",
+  "slug": "shimmer-gradient-text",
+  "description": "Text with an infinite sweeping shimmer light beam across colorful gradient.",
+  "category": "text-animations",
+  "tags": [
+    "text",
+    "shimmer",
+    "beam",
+    "sweep",
+    "glow"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

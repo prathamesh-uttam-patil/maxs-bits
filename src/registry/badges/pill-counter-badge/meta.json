@@ -1,0 +1,31 @@
+{
+  "name": "Pill Counter Badge",
+  "slug": "pill-counter-badge",
+  "description": "Compact dual-tone pill badge displaying category and item count.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "pill",
+    "counter",
+    "count",
+    "metric"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "label",
+      "type": "string",
+      "required": true,
+      "description": "Badge label"
+    },
+    {
+      "name": "count",
+      "type": "number",
+      "required": true,
+      "description": "Count number"
+    }
+  ]
+}

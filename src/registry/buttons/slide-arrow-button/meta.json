@@ -1,0 +1,18 @@
+{
+  "name": "Slide Arrow Button",
+  "slug": "slide-arrow-button",
+  "description": "Call to action button with arrow icon that slides out and replaces on hover.",
+  "category": "buttons",
+  "tags": [
+    "button",
+    "arrow",
+    "slide",
+    "cta",
+    "hover"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

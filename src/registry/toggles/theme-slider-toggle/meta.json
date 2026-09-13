@@ -1,0 +1,18 @@
+{
+  "name": "Theme Slider Toggle",
+  "slug": "theme-slider-toggle",
+  "description": "Segmented theme selector supporting Light, Dark, and System modes.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "theme",
+    "dark",
+    "light",
+    "system"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

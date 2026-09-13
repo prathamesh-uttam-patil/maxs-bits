@@ -1,0 +1,17 @@
+{
+  "name": "Vertical Nav Tabs",
+  "slug": "vertical-nav-tabs",
+  "description": "Sidebar style stacked navigation tabs with active indicator notch.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "vertical",
+    "sidebar",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

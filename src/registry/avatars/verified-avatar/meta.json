@@ -1,0 +1,18 @@
+{
+  "name": "Verified Avatar",
+  "slug": "verified-avatar",
+  "description": "User avatar with verified creator checkmark badge overlay.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "verified",
+    "badge",
+    "check",
+    "creator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

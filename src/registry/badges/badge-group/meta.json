@@ -1,0 +1,25 @@
+{
+  "name": "Badge Group",
+  "slug": "badge-group",
+  "description": "A connected cluster of status and category badges with subtle borders.",
+  "category": "badges",
+  "tags": [
+    "badge",
+    "group",
+    "cluster",
+    "status",
+    "tags"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "tags",
+      "type": "string[]",
+      "required": true,
+      "description": "Badge labels"
+    }
+  ]
+}

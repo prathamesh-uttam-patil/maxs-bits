@@ -1,0 +1,17 @@
+{
+  "name": "Vertical Separator",
+  "slug": "vertical-separator",
+  "description": "Vertical bar divider with dot markers for inline toolbars and headers.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "vertical",
+    "separator",
+    "toolbar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

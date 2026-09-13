@@ -1,0 +1,17 @@
+{
+  "name": "Multi State Toggle",
+  "slug": "multi-state-toggle",
+  "description": "3-state toggle slider for Grid, List, and Kanban views.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "multi-state",
+    "view",
+    "segmented"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Metric Growth Card",
+  "slug": "metric-growth-card",
+  "description": "KPI stat box with percentage delta badge and sparkline trend graph.",
+  "category": "cards",
+  "tags": [
+    "card",
+    "metric",
+    "kpi",
+    "growth",
+    "analytics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": []
+}

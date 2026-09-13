@@ -1,0 +1,26 @@
+{
+  "name": "Icon Divider",
+  "slug": "icon-divider",
+  "description": "Section horizontal rule with centered icon or badge emblem.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "icon",
+    "separator",
+    "hr",
+    "emblem"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-13",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "icon",
+      "type": "string",
+      "required": false,
+      "default": "⚡",
+      "description": "Center icon"
+    }
+  ]
+}
