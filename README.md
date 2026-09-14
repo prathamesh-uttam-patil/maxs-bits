@@ -1,36 +1,66 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✦ Max's Bits
 
-## Getting Started
+> **What if a UI component could make you stop scrolling?**
 
-First, run the development server:
+**Max's Bits** is a growing collection of interactive React components, animations, and visual experiments — built for interfaces that feel less like software and more like an experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+No giant UI framework.
+No boring `<Button />`.
+Just **bits worth stealing.**
+
+---
+
+### 🧩 What's inside?
+
+**Buttons · Cards · Text · Inputs · Backgrounds · Loaders · Cursors · Modals · Tabs · Effects · More**
+
+From tiny micro-interactions to *“wait… how did that move?”* moments.
+
+---
+
+### ⚡ The idea
+
+```text
+Find something interesting
+        ↓
+Peek under the hood
+        ↓
+Steal the idea
+        ↓
+Make it yours
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Built with **React · Next.js · TypeScript · Tailwind · Framer Motion · OGL**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🛠️ Run it
 
-## Learn More
+```bash
+git clone https://github.com/prathamesh-uttam-patil/maxs-bits.git
+cd maxs-bits
+npm install
+npm run dev
+```
 
-To learn more about Next.js, take a look at the following resources:
+Then open `localhost:3000`.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 👀 Want to contribute?
 
-## Deploy on Vercel
+Got an interaction that makes people ask **“how?”**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Bring it.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+### 🧠 One question
+
+> **Why build another component library when you can build something people remember?**
+
+---
+
+**Built by [Prathamesh Uttam Patil](https://github.com/prathamesh-uttam-patil)**
+
+*Collecting bits. Breaking patterns. Making pixels move.*
