@@ -159,34 +159,6 @@ export default function HomePage() {
           </div>
         </div>
       </section>
-
-      {/* ===== CTA ===== */}
-      <section className="relative border-t border-[var(--border)] py-16 md:py-20 overflow-hidden w-full">
-        {/* CTA glow */}
-        <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
-          <div
-            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[300px] rounded-full opacity-[0.06]"
-            style={{ background: 'radial-gradient(circle, var(--primary) 0%, transparent 70%)' }}
-          />
-        </div>
-
-        <div className="max-w-3xl mx-auto px-4 sm:px-6 text-center w-full">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Start building{" "}
-            <span className="text-transparent bg-clip-text bg-gradient-to-r from-[var(--primary)] via-[var(--accent)] to-purple-400">beautiful UIs</span>
-          </h2>
-          <p className="text-[var(--muted-foreground)] text-lg mb-8">
-            New components added regularly. Just copy, paste, and customize.
-          </p>
-          <Link
-            href="/components/buttons"
-            className="inline-flex items-center gap-2 rounded-xl bg-[var(--primary)] text-[var(--primary-foreground)] px-8 py-3.5 text-base font-semibold transition-all hover:opacity-90 shadow-lg shadow-[var(--primary)]/25"
-          >
-            Explore All Components
-            <ArrowRight className="w-4 h-4" />
-          </Link>
-        </div>
-      </section>
     </div>
   );
 }
