@@ -60,7 +60,7 @@ export default function HomePage() {
       `}</style>
 
       {/* ===== HERO SECTION ===== */}
-      <section className="relative overflow-hidden min-h-[calc(100svh-140px)] md:min-h-[calc(100vh-160px)] flex flex-col justify-center items-center pt-16 pb-12 md:pt-24 md:pb-16 w-full">
+      <section className="relative overflow-hidden min-h-[calc(100svh-3.5rem)] md:min-h-[calc(100vh-5.75rem)] flex flex-col justify-center items-center py-10 md:py-12 w-full">
         {/* Radial spotlight */}
         <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
           <div
@@ -74,7 +74,7 @@ export default function HomePage() {
 
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full relative z-10 my-auto">
           {/* Badge */}
-          <div className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-md px-4 py-1.5 text-sm text-[var(--foreground)] mb-8 shadow-sm max-w-full">
+          <div className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-md px-4 py-1.5 text-sm text-[var(--foreground)] mb-6 shadow-sm max-w-full">
             <Sparkles className="w-4 h-4 text-[var(--primary)] shrink-0" />
             <span className="truncate">{totalCount} components and growing</span>
           </div>
