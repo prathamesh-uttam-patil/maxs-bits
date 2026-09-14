@@ -51,10 +51,10 @@ export function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-[var(--background)]/80 backdrop-blur-xl">
+    <header className="sticky top-0 z-50 w-full bg-[var(--background)]/80 backdrop-blur-xl">
       {/* Top bar: Logo + actions */}
-      <div className="border-b border-[var(--border)]">
-        <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
+      <div className="w-full border-b border-[var(--border)]">
+        <div className="max-w-6xl mx-auto px-4 sm:px-6 h-14 flex items-center justify-between">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2.5 group">
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-[var(--primary)] text-white font-bold text-sm">

@@ -17,8 +17,8 @@ export function HeroHeadline() {
   }, []);
 
   return (
-    <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[1.15] mb-6">
-      <span className="inline-flex items-center justify-center gap-2 sm:gap-3 md:gap-4 flex-wrap">
+    <h1 className="text-3xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold tracking-tight leading-[1.15] mb-6 max-w-full break-words">
+      <span className="inline-flex items-center justify-center gap-1.5 sm:gap-3 md:gap-4 flex-wrap max-w-full">
         {/* Copy. */}
         <span
           className={cn(
@@ -67,7 +67,7 @@ export function HeroHeadline() {
       {/* Stunning React UIs */}
       <span
         className={cn(
-          "inline-block transition-all duration-700 ease-out mt-1",
+          "inline-block transition-all duration-700 ease-out mt-1 max-w-full break-words",
           mounted ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4",
           "text-transparent bg-clip-text bg-gradient-to-r from-[var(--primary)] via-[var(--accent)] to-purple-400"
         )}
