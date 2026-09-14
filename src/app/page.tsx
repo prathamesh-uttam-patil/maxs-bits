@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowRight, Sparkles, Box, Layers } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
 import { HeroHeadline } from "@/components/site/hero-headline";
+import GradientWaves from "@/components/GradientWaves";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
@@ -60,22 +61,40 @@ export default function HomePage() {
       `}</style>
 
       {/* ===== HERO SECTION ===== */}
-      <section className="relative overflow-hidden pt-20 pb-14 md:pt-36 md:pb-28 w-full">
-        {/* Radial spotlight */}
-        <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
-          <div
-            className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[1200px] h-[600px]"
-            style={{
-              background: 'radial-gradient(ellipse 80% 50% at 50% 0%, var(--primary) 0%, transparent 70%)',
-              opacity: 0.1,
-            }}
+      <section className="relative overflow-hidden min-h-[540px] md:min-h-[640px] flex flex-col justify-center items-center pt-24 pb-20 md:pt-36 md:pb-32 w-full">
+        {/* Gradient Waves WebGL Background */}
+        <div className="absolute inset-0 -z-10 w-full h-full overflow-hidden">
+          <GradientWaves
+            horizonColor="#5227FF"
+            waveColor="#FF9FFC"
+            crestColor="#FFFFFF"
+            speed={0.4}
+            amplitude={2.5}
+            waveScale={0.6}
+            waveRatio={0.9}
+            swell={35}
+            turbulence={20}
+            tilt={1.11}
+            zoom={1.0}
+            height={5.5}
+            fogDepth={15}
+            detail="medium"
+            brightness={1.0}
+            opacity={0.88}
+            mouseInteraction={true}
+            parallaxStrength={0.5}
+            grain={true}
+            grainIntensity={0.05}
           />
+          {/* Subtle gradient overlays for clean text contrast and smooth boundary blend */}
+          <div className="absolute inset-0 bg-gradient-to-b from-[var(--background)]/40 via-transparent to-[var(--background)] pointer-events-none" />
+          <div className="absolute inset-0 bg-black/25 pointer-events-none" />
         </div>
 
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full relative z-10">
           {/* Badge */}
-          <div className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-sm px-4 py-1.5 text-sm text-[var(--muted-foreground)] mb-8 shadow-sm max-w-full">
-            <Sparkles className="w-4 h-4 text-[var(--primary)] shrink-0" />
+          <div className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-black/40 backdrop-blur-md px-4 py-1.5 text-sm text-white/90 mb-8 shadow-lg max-w-full">
+            <Sparkles className="w-4 h-4 text-purple-400 shrink-0" />
             <span className="truncate">{totalCount} components and growing</span>
           </div>
 
@@ -83,35 +102,13 @@ export default function HomePage() {
           <HeroHeadline />
 
           {/* Subtitle */}
-          <p className="text-base sm:text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto mb-10 leading-relaxed font-medium px-2">
+          <p className="text-base sm:text-lg md:text-xl text-neutral-200 max-w-2xl mx-auto leading-relaxed font-medium px-2 drop-shadow-sm">
             Premium interactions without the premium effort.
           </p>
-
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 w-full">
-            <Link
-              href="/components/buttons"
-              className="inline-flex items-center justify-center gap-2 rounded-xl bg-[var(--primary)] text-[var(--primary-foreground)] px-8 py-3.5 text-base font-semibold transition-all hover:opacity-90 hover:scale-[1.02] active:scale-[0.98] shadow-lg shadow-[var(--primary)]/25 w-full sm:w-auto"
-            >
-              Browse Components
-              <ArrowRight className="w-4 h-4" />
-            </Link>
-            <a
-              href="https://github.com/prathamesh-uttam-patil"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center justify-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-sm px-8 py-3.5 text-base font-semibold transition-all hover:bg-[var(--secondary)] hover:scale-[1.02] active:scale-[0.98] w-full sm:w-auto"
-            >
-              <svg viewBox="0 0 24 24" fill="currentColor" className="w-5 h-5">
-                <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
-              </svg>
-              GitHub
-            </a>
-          </div>
         </div>
 
         {/* Decorative line */}
-        <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/20 to-transparent" />
+        <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/30 to-transparent" />
       </section>
 
       {/* ===== STATS ===== */}
