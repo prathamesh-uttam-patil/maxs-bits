@@ -138,6 +138,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "gradient-blob-bg": dynamic(() => import("@/registry/backgrounds/gradient-blob-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-mesh": dynamic(() => import("@/registry/backgrounds/gradient-mesh/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "gradient-mesh-canvas-bg": dynamic(() => import("@/registry/backgrounds/gradient-mesh-canvas-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "gradient-waves": dynamic(() => import("@/registry/backgrounds/gradient-waves/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "grid-background": dynamic(() => import("@/registry/backgrounds/grid-background/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "hex-grid-bg": dynamic(() => import("@/registry/backgrounds/hex-grid-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "isometric-cube-grid": dynamic(() => import("@/registry/backgrounds/isometric-cube-grid/demo").then((m) => ({ default: m.Demo })), { ssr: false }),

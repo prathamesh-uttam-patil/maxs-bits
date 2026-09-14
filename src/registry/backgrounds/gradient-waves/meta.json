@@ -1,0 +1,171 @@
+{
+  "name": "Gradient Waves",
+  "slug": "gradient-waves",
+  "description": "An ethereal raymarched sine-plasma wave field with volumetric fog, film grain, and interactive pointer-driven camera parallax using WebGL and OGL.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "waves",
+    "gradient",
+    "webgl",
+    "ogl",
+    "shader",
+    "interactive",
+    "plasma"
+  ],
+  "isNew": true,
+  "author": "React Bits",
+  "createdAt": "2026-09-14",
+  "dependencies": [
+    "ogl"
+  ],
+  "props": [
+    {
+      "name": "horizonColor",
+      "type": "string",
+      "default": "#5227FF",
+      "required": false,
+      "description": "Distant haze color the waves fade into."
+    },
+    {
+      "name": "waveColor",
+      "type": "string",
+      "default": "#FF9FFC",
+      "required": false,
+      "description": "Mid color of the rolling wave bodies."
+    },
+    {
+      "name": "crestColor",
+      "type": "string",
+      "default": "#FFFFFF",
+      "required": false,
+      "description": "Highlight color of the nearest wave crests."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "default": 0.4,
+      "required": false,
+      "description": "Animation speed of the undulating wave field."
+    },
+    {
+      "name": "amplitude",
+      "type": "number",
+      "default": 2.5,
+      "required": false,
+      "description": "Height of the sine-plasma waves."
+    },
+    {
+      "name": "waveScale",
+      "type": "number",
+      "default": 0.6,
+      "required": false,
+      "description": "Overall spatial frequency of the waves."
+    },
+    {
+      "name": "waveRatio",
+      "type": "number",
+      "default": 0.9,
+      "required": false,
+      "description": "Ratio between the short and long wavelength components."
+    },
+    {
+      "name": "swell",
+      "type": "number",
+      "default": 35,
+      "required": false,
+      "description": "Large-scale horizontal swell distortion."
+    },
+    {
+      "name": "turbulence",
+      "type": "number",
+      "default": 20,
+      "required": false,
+      "description": "Large-scale cross-flow turbulence distortion."
+    },
+    {
+      "name": "tilt",
+      "type": "number",
+      "default": 1.11,
+      "required": false,
+      "description": "Camera pitch toward the horizon (radians)."
+    },
+    {
+      "name": "zoom",
+      "type": "number",
+      "default": 1,
+      "required": false,
+      "description": "Field-of-view zoom into the wave field."
+    },
+    {
+      "name": "height",
+      "type": "number",
+      "default": 5.5,
+      "required": false,
+      "description": "Vertical offset of the horizon line."
+    },
+    {
+      "name": "fogDepth",
+      "type": "number",
+      "default": 15,
+      "required": false,
+      "description": "Distance over which the waves fade into haze and transparency."
+    },
+    {
+      "name": "detail",
+      "type": "'low' | 'medium' | 'high'",
+      "default": "medium",
+      "required": false,
+      "description": "Raymarch quality tier: 'low', 'medium', or 'high'."
+    },
+    {
+      "name": "brightness",
+      "type": "number",
+      "default": 1,
+      "required": false,
+      "description": "Overall brightness multiplier for the final color."
+    },
+    {
+      "name": "opacity",
+      "type": "number",
+      "default": 1,
+      "required": false,
+      "description": "Global opacity of the effect."
+    },
+    {
+      "name": "mouseInteraction",
+      "type": "boolean",
+      "default": true,
+      "required": false,
+      "description": "Enable subtle pointer-driven camera parallax."
+    },
+    {
+      "name": "parallaxStrength",
+      "type": "number",
+      "default": 0.5,
+      "required": false,
+      "description": "Strength of the cursor parallax drift."
+    },
+    {
+      "name": "grain",
+      "type": "boolean",
+      "default": true,
+      "required": false,
+      "description": "Overlay a whisper-subtle animated film grain on the effect."
+    },
+    {
+      "name": "grainIntensity",
+      "type": "number",
+      "default": 0.05,
+      "required": false,
+      "description": "Amplitude of the grain overlay. 0 disables it entirely."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "default": "''",
+      "required": false,
+      "description": "Additional CSS classes applied to the container."
+    }
+  ]
+}
