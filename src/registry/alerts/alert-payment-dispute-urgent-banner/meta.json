@@ -1,0 +1,25 @@
+{
+  "name": "Alert Payment Dispute Urgent Banner",
+  "slug": "alert-payment-dispute-urgent-banner",
+  "description": "Billing notification card with countdown timer and one-click dispute resolution.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "billing",
+    "payment",
+    "dispute"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

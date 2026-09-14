@@ -1,0 +1,25 @@
+{
+  "name": "Chip User Presence Avatar Badge",
+  "slug": "chip-user-presence-avatar-badge",
+  "description": "Compact collaborator chip with live online status dot and micro avatar.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "presence",
+    "avatar",
+    "online"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

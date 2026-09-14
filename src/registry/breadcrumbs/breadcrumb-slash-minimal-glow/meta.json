@@ -1,0 +1,25 @@
+{
+  "name": "Breadcrumb Slash Minimal Glow",
+  "slug": "breadcrumb-slash-minimal-glow",
+  "description": "Clean slanted slash navigation breadcrumb with hover glow effect on segment items.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "minimal",
+    "slash",
+    "navigation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

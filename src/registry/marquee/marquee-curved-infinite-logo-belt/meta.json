@@ -1,0 +1,25 @@
+{
+  "name": "Marquee Curved Infinite Logo Belt",
+  "slug": "marquee-curved-infinite-logo-belt",
+  "description": "Perspective angled conveyor belt showcasing partner brand logos infinitely.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "logos",
+    "partners",
+    "perspective"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

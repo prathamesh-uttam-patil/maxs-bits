@@ -1,0 +1,25 @@
+{
+  "name": "Scroll Parallax Depth Layer Showcase",
+  "slug": "scroll-parallax-depth-layer-showcase",
+  "description": "Multi-layer 3D depth showcase with staggered parallax speed translations.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "parallax",
+    "depth",
+    "showcase"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Cursor Fluid Distortion Bubble",
+  "slug": "cursor-fluid-distortion-bubble",
+  "description": "Liquid magnification lens following cursor and refracting underlying content.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "fluid",
+    "lens",
+    "distortion"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

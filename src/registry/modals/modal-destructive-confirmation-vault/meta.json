@@ -1,0 +1,25 @@
+{
+  "name": "Modal Destructive Confirmation Vault",
+  "slug": "modal-destructive-confirmation-vault",
+  "description": "High security deletion confirmation modal requiring typing confirmation phrase.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "security",
+    "delete",
+    "confirmation"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

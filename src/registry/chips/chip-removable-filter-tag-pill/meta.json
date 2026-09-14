@@ -1,0 +1,25 @@
+{
+  "name": "Chip Removable Filter Tag Pill",
+  "slug": "chip-removable-filter-tag-pill",
+  "description": "Interactive search filter chip with clear X button and hover highlight.",
+  "category": "chips",
+  "tags": [
+    "chip",
+    "filter",
+    "removable",
+    "tag"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

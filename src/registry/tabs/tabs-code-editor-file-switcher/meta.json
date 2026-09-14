@@ -1,0 +1,25 @@
+{
+  "name": "Tabs Code Editor File Switcher",
+  "slug": "tabs-code-editor-file-switcher",
+  "description": "VS Code style file editor tabs with language icons and dirty file dot indicator.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "editor",
+    "code",
+    "vscode"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

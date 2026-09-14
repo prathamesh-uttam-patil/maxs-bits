@@ -1,0 +1,25 @@
+{
+  "name": "Progress Gradient Liquid Fill Beaker",
+  "slug": "progress-gradient-liquid-fill-beaker",
+  "description": "Laboratory flask indicator filling with bubbling colorful chemical liquid.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "liquid",
+    "beaker",
+    "bubbles"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

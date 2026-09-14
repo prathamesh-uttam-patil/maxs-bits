@@ -92,28 +92,8 @@ export default function HomePage() {
         <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/20 to-transparent" />
       </section>
 
-      {/* ===== STATS ===== */}
-      <section className="relative border-y border-[var(--border)] bg-[var(--card)]/50 backdrop-blur-sm overflow-hidden w-full">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-8 w-full">
-          <div className="grid grid-cols-3 gap-2 sm:gap-6 md:gap-8 text-center w-full">
-            <div className="min-w-0">
-              <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-[var(--primary)] truncate">{totalCount}</div>
-              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Components</div>
-            </div>
-            <div className="min-w-0">
-              <div className="text-2xl sm:text-3xl md:text-4xl font-bold truncate">{categories.length}</div>
-              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Categories</div>
-            </div>
-            <div className="min-w-0">
-              <div className="text-2xl sm:text-3xl md:text-4xl font-bold truncate">100%</div>
-              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Free & Open Source</div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* ===== CATEGORIES ===== */}
-      <section className="relative py-16 md:py-28 overflow-hidden w-full">
+      <section className="relative py-16 md:py-24 overflow-hidden w-full">
         {/* Section background accent */}
         <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
           <div
@@ -156,6 +136,26 @@ export default function HomePage() {
                 </Link>
               );
             })}
+          </div>
+        </div>
+      </section>
+
+      {/* ===== STATS ===== */}
+      <section className="relative border-y border-[var(--border)] bg-[var(--card)]/50 backdrop-blur-sm overflow-hidden w-full mb-12">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-10 w-full">
+          <div className="grid grid-cols-3 gap-2 sm:gap-6 md:gap-8 text-center w-full">
+            <div className="min-w-0">
+              <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-[var(--primary)] truncate">{totalCount}</div>
+              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Components</div>
+            </div>
+            <div className="min-w-0">
+              <div className="text-2xl sm:text-3xl md:text-4xl font-bold truncate">{categories.length}</div>
+              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Categories</div>
+            </div>
+            <div className="min-w-0">
+              <div className="text-2xl sm:text-3xl md:text-4xl font-bold truncate">100%</div>
+              <div className="text-xs sm:text-sm text-[var(--muted-foreground)] mt-1 truncate">Free & Open Source</div>
+            </div>
           </div>
         </div>
       </section>

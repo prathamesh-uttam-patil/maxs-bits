@@ -1,0 +1,25 @@
+{
+  "name": "Cursor Target Sniper Crosshair",
+  "slug": "cursor-target-sniper-crosshair",
+  "description": "Precision tactical HUD crosshair with rotating coordinate rings and target lock.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "crosshair",
+    "hud",
+    "sniper"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

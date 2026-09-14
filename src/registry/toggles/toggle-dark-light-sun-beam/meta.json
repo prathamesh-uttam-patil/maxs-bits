@@ -1,0 +1,25 @@
+{
+  "name": "Toggle Dark Light Sun Beam",
+  "slug": "toggle-dark-light-sun-beam",
+  "description": "Dynamic solar ray toggle morphing between luminous sunbeams and crescent moon.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "theme",
+    "sun",
+    "moon"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

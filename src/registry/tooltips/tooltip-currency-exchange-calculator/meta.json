@@ -1,0 +1,25 @@
+{
+  "name": "Tooltip Currency Exchange Calculator",
+  "slug": "tooltip-currency-exchange-calculator",
+  "description": "Dynamic hover calculator showing converted international currencies in realtime.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "currency",
+    "calculator",
+    "finance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

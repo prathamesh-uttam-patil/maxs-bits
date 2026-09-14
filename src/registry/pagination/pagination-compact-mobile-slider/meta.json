@@ -1,0 +1,25 @@
+{
+  "name": "Pagination Compact Mobile Slider",
+  "slug": "pagination-compact-mobile-slider",
+  "description": "Ultra space-efficient mobile pagination with drag slider and page indicator.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "mobile",
+    "slider",
+    "compact"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

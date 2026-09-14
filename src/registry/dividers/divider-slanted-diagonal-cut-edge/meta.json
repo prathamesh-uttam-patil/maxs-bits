@@ -1,0 +1,25 @@
+{
+  "name": "Divider Slanted Diagonal Cut Edge",
+  "slug": "divider-slanted-diagonal-cut-edge",
+  "description": "Architectural angled section divider giving dynamic editorial flow.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "diagonal",
+    "slanted",
+    "edge"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

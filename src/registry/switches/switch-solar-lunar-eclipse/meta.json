@@ -1,0 +1,25 @@
+{
+  "name": "Switch Solar Lunar Eclipse",
+  "slug": "switch-solar-lunar-eclipse",
+  "description": "Day/Night switch transforming from glowing sun to cratered moon eclipse.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "solar",
+    "lunar",
+    "daynight"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Progress Space Warp Countdown Bar",
+  "slug": "progress-space-warp-countdown-bar",
+  "description": "Hyperspace starfield acceleration progress bar with animated streak particles.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "space",
+    "warp",
+    "countdown"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

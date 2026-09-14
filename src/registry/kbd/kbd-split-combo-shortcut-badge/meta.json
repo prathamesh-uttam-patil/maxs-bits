@@ -1,0 +1,25 @@
+{
+  "name": "KBD Split Combo Shortcut Badge",
+  "slug": "kbd-split-combo-shortcut-badge",
+  "description": "Clean modifier key sequence badge (Ctrl + Shift + P) with smooth pressed states.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "combo",
+    "modifier",
+    "shortcut"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Marquee Breaking News Chiron Banner",
+  "slug": "marquee-breaking-news-chiron-banner",
+  "description": "Broadcast TV news lower third with urgency badge and streaming headline ticker.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "news",
+    "broadcast",
+    "chiron"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

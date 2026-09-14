@@ -1,0 +1,25 @@
+{
+  "name": "Accordion Glassmorphic Card Deck",
+  "slug": "accordion-glassmorphic-card-deck",
+  "description": "Layered frosted glass FAQ cards that smoothly unstack and expand on selection.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "glassmorphism",
+    "cards",
+    "deck"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

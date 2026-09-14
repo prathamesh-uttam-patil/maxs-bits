@@ -1,0 +1,24 @@
+{
+  "name": "Dock Neumorphic Pill Bar",
+  "slug": "dock-neumorphic-pill-bar",
+  "description": "Soft shadow extruded pill dock with tactile press states and glow highlights.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "neumorphism",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

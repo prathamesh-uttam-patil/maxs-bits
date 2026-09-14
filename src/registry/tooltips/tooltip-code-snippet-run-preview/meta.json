@@ -1,0 +1,25 @@
+{
+  "name": "Tooltip Code Snippet Run Preview",
+  "slug": "tooltip-code-snippet-run-preview",
+  "description": "Code explanation hover card with live execution output indicator.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "code",
+    "snippet",
+    "preview"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

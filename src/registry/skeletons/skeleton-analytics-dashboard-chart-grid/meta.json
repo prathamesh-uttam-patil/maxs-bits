@@ -1,0 +1,25 @@
+{
+  "name": "Skeleton Analytics Dashboard Chart Grid",
+  "slug": "skeleton-analytics-dashboard-chart-grid",
+  "description": "BI metrics dashboard wireframe with placeholder bar charts and KPI metric boxes.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "analytics",
+    "dashboard",
+    "charts"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

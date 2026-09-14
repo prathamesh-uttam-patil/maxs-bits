@@ -1,0 +1,25 @@
+{
+  "name": "KBD Glow RGB Gaming Shortcut",
+  "slug": "kbd-glow-rgb-gaming-shortcut",
+  "description": "Chroma animated RGB hotkey badge with animated rainbow underglow.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "rgb",
+    "gaming",
+    "chroma"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

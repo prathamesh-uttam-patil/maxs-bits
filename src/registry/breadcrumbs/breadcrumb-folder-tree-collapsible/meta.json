@@ -1,0 +1,25 @@
+{
+  "name": "Breadcrumb Folder Tree Collapsible",
+  "slug": "breadcrumb-folder-tree-collapsible",
+  "description": "File manager breadcrumb with dropdown parent folder picker for long paths.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "folder",
+    "tree",
+    "filesystem"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Counter Split Flap Airport Board",
+  "slug": "counter-split-flap-airport-board",
+  "description": "Mechanical solari split-flap departure board with flipping alphabet tiles.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "splitflap",
+    "airport",
+    "vintage"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

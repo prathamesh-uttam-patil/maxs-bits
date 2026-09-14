@@ -1,0 +1,25 @@
+{
+  "name": "Divider Gradient Laser Spark Line",
+  "slug": "divider-gradient-laser-spark-line",
+  "description": "High energy laser separator with bright center sparkle and glowing taper.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "laser",
+    "gradient",
+    "spark"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

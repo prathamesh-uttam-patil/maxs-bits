@@ -1,0 +1,24 @@
+{
+  "name": "Dock Vertical Sidebar Compact",
+  "slug": "dock-vertical-sidebar-compact",
+  "description": "Vertical side-anchored dock launcher with flyout labels and badge counter.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "vertical",
+    "sidebar"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Background Cyber Circuit Board Glow",
+  "slug": "background-cyber-circuit-board-glow",
+  "description": "Futuristic PCB circuit board traces with flowing digital pulse nodes.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "circuit",
+    "pcb",
+    "cyber"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

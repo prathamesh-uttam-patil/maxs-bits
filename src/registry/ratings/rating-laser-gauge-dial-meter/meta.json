@@ -1,0 +1,25 @@
+{
+  "name": "Rating Laser Gauge Dial Meter",
+  "slug": "rating-laser-gauge-dial-meter",
+  "description": "Radial tachometer score meter with glowing laser needle and numeric readout.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "gauge",
+    "meter",
+    "dial"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

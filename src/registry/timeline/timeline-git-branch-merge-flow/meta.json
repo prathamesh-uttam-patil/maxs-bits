@@ -1,0 +1,25 @@
+{
+  "name": "Timeline Git Branch Merge Flow",
+  "slug": "timeline-git-branch-merge-flow",
+  "description": "Interactive git commit tree with branch forks, tags, and commit hashes.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "git",
+    "branch",
+    "vcs"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Switch Liquid Slime Bubble",
+  "slug": "switch-liquid-slime-bubble",
+  "description": "Fluid physics toggle with gooey slime transition between on and off states.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "liquid",
+    "slime",
+    "physics"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

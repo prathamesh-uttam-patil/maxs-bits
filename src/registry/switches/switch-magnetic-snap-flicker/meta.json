@@ -1,0 +1,25 @@
+{
+  "name": "Switch Magnetic Snap Flicker",
+  "slug": "switch-magnetic-snap-flicker",
+  "description": "Snappy magnetic tactile toggle switch with haptic vibration indicator.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "magnetic",
+    "snap",
+    "toggle"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

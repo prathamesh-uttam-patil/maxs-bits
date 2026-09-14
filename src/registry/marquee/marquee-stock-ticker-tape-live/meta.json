@@ -1,0 +1,25 @@
+{
+  "name": "Marquee Stock Ticker Tape Live",
+  "slug": "marquee-stock-ticker-tape-live",
+  "description": "Wall Street financial ticker with green gains, red dips, and fluctuating percentages.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "ticker",
+    "stocks",
+    "finance"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

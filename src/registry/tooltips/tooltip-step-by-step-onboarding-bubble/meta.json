@@ -1,0 +1,25 @@
+{
+  "name": "Tooltip Step by Step Onboarding Bubble",
+  "slug": "tooltip-step-by-step-onboarding-bubble",
+  "description": "Guided tour pointer bubble with next/prev buttons and step tracker.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "onboarding",
+    "tour",
+    "bubble"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

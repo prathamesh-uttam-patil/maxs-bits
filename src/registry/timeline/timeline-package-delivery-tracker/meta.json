@@ -1,0 +1,25 @@
+{
+  "name": "Timeline Package Delivery Tracker",
+  "slug": "timeline-package-delivery-tracker",
+  "description": "Courier logistics tracker showing transit checkpoints, timestamps, and status vehicle.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "logistics",
+    "delivery",
+    "tracker"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Dock Magnification Preview Bar",
+  "slug": "dock-magnification-preview-bar",
+  "description": "macOS style magnification dock with floating tooltip and dynamic scale transforms.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "macos",
+    "magnification",
+    "preview"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

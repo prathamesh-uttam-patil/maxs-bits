@@ -1,0 +1,25 @@
+{
+  "name": "Skeleton Ecom Product Grid Shimmer",
+  "slug": "skeleton-ecom-product-grid-shimmer",
+  "description": "Shopping catalog product card wireframe with price, image, and star rating stubs.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "ecommerce",
+    "store",
+    "product"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

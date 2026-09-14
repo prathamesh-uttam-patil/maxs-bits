@@ -1,0 +1,25 @@
+{
+  "name": "Scroll Horizontal Snap Card Rail",
+  "slug": "scroll-horizontal-snap-card-rail",
+  "description": "Touch-friendly swipeable carousel with CSS scroll snapping and arrow controls.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "carousel",
+    "snap",
+    "rail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

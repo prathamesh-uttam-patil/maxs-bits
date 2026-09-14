@@ -1,0 +1,25 @@
+{
+  "name": "Alert System Maintenance Downtime",
+  "slug": "alert-system-maintenance-downtime",
+  "description": "Scheduled platform maintenance banner with UTC time converter and status link.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "maintenance",
+    "downtime",
+    "system"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

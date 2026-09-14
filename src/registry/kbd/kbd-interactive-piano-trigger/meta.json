@@ -1,0 +1,25 @@
+{
+  "name": "KBD Interactive Piano Trigger",
+  "slug": "kbd-interactive-piano-trigger",
+  "description": "Musical keyboard hotkey note with audible tone resonance and active press animation.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "piano",
+    "sound",
+    "music"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

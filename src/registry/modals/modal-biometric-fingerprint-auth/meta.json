@@ -1,0 +1,25 @@
+{
+  "name": "Modal Biometric Fingerprint Auth",
+  "slug": "modal-biometric-fingerprint-auth",
+  "description": "Security authentication dialog with animated fingerprint scanner and success ring.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "biometric",
+    "fingerprint",
+    "auth"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alert Cyber Security Breach HUD",
+  "slug": "alert-cyber-security-breach-hud",
+  "description": "Threat prevention banner with red strobe warning, scan lines, and action dismiss.",
+  "category": "alerts",
+  "tags": [
+    "alert",
+    "security",
+    "cyber",
+    "threat"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

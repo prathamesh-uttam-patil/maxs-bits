@@ -1,0 +1,24 @@
+{
+  "name": "Pagination Glassmorphic Pill Cluster",
+  "slug": "pagination-glassmorphic-pill-cluster",
+  "description": "Frosted floating page buttons with gradient hover outlines and active glow.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "glassmorphism",
+    "pill"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

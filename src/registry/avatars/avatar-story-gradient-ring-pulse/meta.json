@@ -1,0 +1,25 @@
+{
+  "name": "Avatar Story Gradient Ring Pulse",
+  "slug": "avatar-story-gradient-ring-pulse",
+  "description": "Instagram style active story ring with spinning multicolored gradient boundary.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "story",
+    "instagram",
+    "ring"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

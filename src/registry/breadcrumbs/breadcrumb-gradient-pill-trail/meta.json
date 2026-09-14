@@ -1,0 +1,25 @@
+{
+  "name": "Breadcrumb Gradient Pill Trail",
+  "slug": "breadcrumb-gradient-pill-trail",
+  "description": "Capsule shaped breadcrumb trail connected by gradient micro-chevrons.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "pill",
+    "gradient",
+    "trail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

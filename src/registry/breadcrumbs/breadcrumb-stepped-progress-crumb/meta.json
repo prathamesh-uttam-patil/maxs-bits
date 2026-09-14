@@ -1,0 +1,25 @@
+{
+  "name": "Breadcrumb Stepped Progress Crumb",
+  "slug": "breadcrumb-stepped-progress-crumb",
+  "description": "Checkout flow breadcrumb combining hierarchical pathing with completion percentages.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "stepper",
+    "checkout",
+    "steps"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

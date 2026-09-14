@@ -1,0 +1,25 @@
+{
+  "name": "Rating Animated Heart Burst Counter",
+  "slug": "rating-animated-heart-burst-counter",
+  "description": "Twitter-like floating heart reaction burst with particle explosion effect.",
+  "category": "ratings",
+  "tags": [
+    "rating",
+    "heart",
+    "burst",
+    "like"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

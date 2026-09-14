@@ -1,0 +1,25 @@
+{
+  "name": "Skeleton Video Streaming Feed Loader",
+  "slug": "skeleton-video-streaming-feed-loader",
+  "description": "YouTube style 16:9 video card placeholder with pulsating shimmer wave.",
+  "category": "skeletons",
+  "tags": [
+    "skeleton",
+    "video",
+    "youtube",
+    "loader"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

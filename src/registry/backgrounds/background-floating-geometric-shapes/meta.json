@@ -1,0 +1,25 @@
+{
+  "name": "Background Floating Geometric Shapes",
+  "slug": "background-floating-geometric-shapes",
+  "description": "Ethereal floating cubes, cones, and spheres with smooth ambient motion.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "geometric",
+    "floating",
+    "shapes"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

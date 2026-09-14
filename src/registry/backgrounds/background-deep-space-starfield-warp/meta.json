@@ -1,0 +1,25 @@
+{
+  "name": "Background Deep Space Starfield Warp",
+  "slug": "background-deep-space-starfield-warp",
+  "description": "Twinkling cosmos starfield with subtle nebula dust clouds and drift effect.",
+  "category": "backgrounds",
+  "tags": [
+    "background",
+    "space",
+    "stars",
+    "nebula"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

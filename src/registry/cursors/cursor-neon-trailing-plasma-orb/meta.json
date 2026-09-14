@@ -1,0 +1,25 @@
+{
+  "name": "Cursor Neon Trailing Plasma Orb",
+  "slug": "cursor-neon-trailing-plasma-orb",
+  "description": "Glowing plasma sphere that trails cursor motion with elastic inertia smoothing.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "plasma",
+    "neon",
+    "trail"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

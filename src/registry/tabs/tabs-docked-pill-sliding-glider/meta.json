@@ -1,0 +1,25 @@
+{
+  "name": "Tabs Docked Pill Sliding Glider",
+  "slug": "tabs-docked-pill-sliding-glider",
+  "description": "Segmented control tab bar with smooth physical glider background animation.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "pill",
+    "segmented",
+    "glider"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

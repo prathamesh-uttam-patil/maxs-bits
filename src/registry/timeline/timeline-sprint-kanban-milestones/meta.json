@@ -1,0 +1,25 @@
+{
+  "name": "Timeline Sprint Kanban Milestones",
+  "slug": "timeline-sprint-kanban-milestones",
+  "description": "Agile milestone progress timeline with velocity points and burndown indicators.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "agile",
+    "sprint",
+    "scrum"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

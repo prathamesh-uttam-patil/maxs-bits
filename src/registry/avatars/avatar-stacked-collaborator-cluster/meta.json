@@ -1,0 +1,25 @@
+{
+  "name": "Avatar Stacked Collaborator Cluster",
+  "slug": "avatar-stacked-collaborator-cluster",
+  "description": "Overlapping team avatar pile with +N overflow bubble and hover elevation.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "team",
+    "cluster",
+    "collaborators"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

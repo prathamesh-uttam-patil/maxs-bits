@@ -1,0 +1,25 @@
+{
+  "name": "Modal Audio File Waveform Editor",
+  "slug": "modal-audio-file-waveform-editor",
+  "description": "Sound clipping dialog with zoomable audio wave scrubber and playback trimmer.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "audio",
+    "waveform",
+    "editor"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

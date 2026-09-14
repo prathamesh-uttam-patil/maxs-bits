@@ -1,0 +1,25 @@
+{
+  "name": "Toggle Bookmark Star Collection",
+  "slug": "toggle-bookmark-star-collection",
+  "description": "Favorite bookmark toggle with 3D star explosion and glowing outline.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "star",
+    "bookmark",
+    "favorite"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "KBD Mechanical Switch Keycap",
+  "slug": "kbd-mechanical-switch-keycap",
+  "description": "3D cherry MX mechanical keycap with tactile depression physics and switch click.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "mechanical",
+    "keyboard",
+    "keycap"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

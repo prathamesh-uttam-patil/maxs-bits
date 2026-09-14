@@ -1,0 +1,25 @@
+{
+  "name": "Switch Neon Laser Toggle",
+  "slug": "switch-neon-laser-toggle",
+  "description": "Cyberpunk style glowing neon toggle switch with intense laser beam channel.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "neon",
+    "cyberpunk",
+    "laser"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

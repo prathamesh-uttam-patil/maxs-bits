@@ -1,0 +1,25 @@
+{
+  "name": "Divider Wave SVG Section Separator",
+  "slug": "divider-wave-svg-section-separator",
+  "description": "Organic smooth wave curve separating page sections with soft transition gradient.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "wave",
+    "curve",
+    "svg"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

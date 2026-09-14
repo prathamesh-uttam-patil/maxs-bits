@@ -1,0 +1,25 @@
+{
+  "name": "Progress Cyber Hex Battery Cell",
+  "slug": "progress-cyber-hex-battery-cell",
+  "description": "Futuristic hexagon power cell meter with charging neon energy bars.",
+  "category": "progress",
+  "tags": [
+    "progress",
+    "battery",
+    "hex",
+    "cyber"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

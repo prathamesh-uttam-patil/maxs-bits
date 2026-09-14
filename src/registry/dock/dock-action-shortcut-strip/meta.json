@@ -1,0 +1,24 @@
+{
+  "name": "Dock Action Shortcut Strip",
+  "slug": "dock-action-shortcut-strip",
+  "description": "Quick command action strip with keyboard trigger shortcuts and status pills.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "shortcuts",
+    "actions"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

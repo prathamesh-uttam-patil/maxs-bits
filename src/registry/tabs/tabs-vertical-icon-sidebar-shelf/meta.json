@@ -1,0 +1,25 @@
+{
+  "name": "Tabs Vertical Icon Sidebar Shelf",
+  "slug": "tabs-vertical-icon-sidebar-shelf",
+  "description": "Vertical side tab strip with icon tooltips and indicator bar.",
+  "category": "tabs",
+  "tags": [
+    "tabs",
+    "vertical",
+    "sidebar",
+    "shelf"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

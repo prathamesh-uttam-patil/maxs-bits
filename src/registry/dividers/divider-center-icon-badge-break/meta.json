@@ -1,0 +1,25 @@
+{
+  "name": "Divider Center Icon Badge Break",
+  "slug": "divider-center-icon-badge-break",
+  "description": "Clean subtle divider with embedded center pill badge and decorative icon.",
+  "category": "dividers",
+  "tags": [
+    "divider",
+    "badge",
+    "icon",
+    "separator"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

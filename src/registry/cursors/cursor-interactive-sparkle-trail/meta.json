@@ -1,0 +1,25 @@
+{
+  "name": "Cursor Interactive Sparkle Trail",
+  "slug": "cursor-interactive-sparkle-trail",
+  "description": "Fairy dust sparkle particle explosion spawning behind rapid pointer velocities.",
+  "category": "cursors",
+  "tags": [
+    "cursor",
+    "sparkle",
+    "particles",
+    "magic"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

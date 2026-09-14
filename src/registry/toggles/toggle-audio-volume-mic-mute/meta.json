@@ -1,0 +1,25 @@
+{
+  "name": "Toggle Audio Volume Mic Mute",
+  "slug": "toggle-audio-volume-mic-mute",
+  "description": "Conference mic mute button with animated slash waveform and red mute ring.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "mic",
+    "mute",
+    "audio"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

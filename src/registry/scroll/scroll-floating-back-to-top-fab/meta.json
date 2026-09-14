@@ -1,0 +1,25 @@
+{
+  "name": "Scroll Floating Back To Top FAB",
+  "slug": "scroll-floating-back-to-top-fab",
+  "description": "Floating action button appearing on deep scroll with circular scroll progress ring.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "backtotop",
+    "fab",
+    "floating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "KBD Mac Command Symbol Key",
+  "slug": "kbd-mac-command-symbol-key",
+  "description": "Apple aluminium finish keyboard keycaps featuring Command, Option, and Control symbols.",
+  "category": "kbd",
+  "tags": [
+    "kbd",
+    "mac",
+    "apple",
+    "command"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

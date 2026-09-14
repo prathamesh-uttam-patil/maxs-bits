@@ -1,0 +1,25 @@
+{
+  "name": "Avatar 3D Hologram Cyber Frame",
+  "slug": "avatar-3d-hologram-cyber-frame",
+  "description": "Sci-fi holographic avatar portrait with glowing scanline grid overlay.",
+  "category": "avatars",
+  "tags": [
+    "avatar",
+    "cyber",
+    "hologram",
+    "scifi"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

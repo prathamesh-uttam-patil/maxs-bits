@@ -1,0 +1,24 @@
+{
+  "name": "Dock Radial Fan Launcher",
+  "slug": "dock-radial-fan-launcher",
+  "description": "Corner-docked radial fan launcher expanding items in a smooth arc.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "radial",
+    "fan"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

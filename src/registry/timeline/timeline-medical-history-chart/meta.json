@@ -1,0 +1,25 @@
+{
+  "name": "Timeline Medical History Chart",
+  "slug": "timeline-medical-history-chart",
+  "description": "Chronological clinical care timeline with prescription and diagnosis tags.",
+  "category": "timeline",
+  "tags": [
+    "timeline",
+    "medical",
+    "health",
+    "records"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

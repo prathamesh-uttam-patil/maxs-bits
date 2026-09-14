@@ -1,0 +1,25 @@
+{
+  "name": "Modal Crypto Wallet Connect Grid",
+  "slug": "modal-crypto-wallet-connect-grid",
+  "description": "Web3 multi-chain wallet selector modal with QR code scanner tab.",
+  "category": "modals",
+  "tags": [
+    "modal",
+    "crypto",
+    "wallet",
+    "web3"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

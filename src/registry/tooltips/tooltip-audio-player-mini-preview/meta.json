@@ -1,0 +1,25 @@
+{
+  "name": "Tooltip Audio Player Mini Preview",
+  "slug": "tooltip-audio-player-mini-preview",
+  "description": "Track hover card with mini play/pause wave scrubber and artist info.",
+  "category": "tooltips",
+  "tags": [
+    "tooltip",
+    "audio",
+    "music",
+    "player"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Switch 3D Tactile Rocker",
+  "slug": "switch-3d-tactile-rocker",
+  "description": "Realistic skeuomorphic rocker power switch with physical shadow depression.",
+  "category": "switches",
+  "tags": [
+    "switch",
+    "3d",
+    "rocker",
+    "tactile"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

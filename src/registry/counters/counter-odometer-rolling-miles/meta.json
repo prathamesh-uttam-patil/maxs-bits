@@ -1,0 +1,25 @@
+{
+  "name": "Counter Odometer Rolling Miles",
+  "slug": "counter-odometer-rolling-miles",
+  "description": "Vintage automobile odometer with continuous rolling vertical barrel digits.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "odometer",
+    "rolling",
+    "car"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

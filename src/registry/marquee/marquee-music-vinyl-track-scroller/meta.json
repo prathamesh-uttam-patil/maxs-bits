@@ -1,0 +1,25 @@
+{
+  "name": "Marquee Music Vinyl Track Scroller",
+  "slug": "marquee-music-vinyl-track-scroller",
+  "description": "Now playing scroller synced with spinning vinyl record and equalizer bars.",
+  "category": "marquee",
+  "tags": [
+    "marquee",
+    "music",
+    "vinyl",
+    "nowplaying"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Pagination Infinite Dot Scrubber",
+  "slug": "pagination-infinite-dot-scrubber",
+  "description": "Carousel micro-dot pagination with magnetic active expansion indicator.",
+  "category": "pagination",
+  "tags": [
+    "pagination",
+    "dots",
+    "scrubber",
+    "carousel"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

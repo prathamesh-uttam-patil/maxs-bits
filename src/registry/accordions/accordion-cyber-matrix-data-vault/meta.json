@@ -1,0 +1,25 @@
+{
+  "name": "Accordion Cyber Matrix Data Vault",
+  "slug": "accordion-cyber-matrix-data-vault",
+  "description": "High-tech data partition accordion with scanline grid and encrypted decrypt animation.",
+  "category": "accordions",
+  "tags": [
+    "accordion",
+    "cyber",
+    "matrix",
+    "vault"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

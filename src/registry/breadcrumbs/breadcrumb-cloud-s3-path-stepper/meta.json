@@ -1,0 +1,25 @@
+{
+  "name": "Breadcrumb Cloud S3 Path Stepper",
+  "slug": "breadcrumb-cloud-s3-path-stepper",
+  "description": "Cloud bucket storage path navigator with one-click copy path action.",
+  "category": "breadcrumbs",
+  "tags": [
+    "breadcrumb",
+    "cloud",
+    "s3",
+    "storage"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Counter Nixie Tube Glowing Clock",
+  "slug": "counter-nixie-tube-glowing-clock",
+  "description": "Warm orange vacuum nixie tubes displaying counting digits with filament wire filaments.",
+  "category": "counters",
+  "tags": [
+    "counter",
+    "nixie",
+    "vacuum",
+    "steampunk"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

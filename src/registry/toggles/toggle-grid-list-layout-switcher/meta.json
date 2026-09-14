@@ -1,0 +1,25 @@
+{
+  "name": "Toggle Grid List Layout Switcher",
+  "slug": "toggle-grid-list-layout-switcher",
+  "description": "Catalog layout transformer morphing between 2x2 grid blocks and horizontal row bars.",
+  "category": "toggles",
+  "tags": [
+    "toggle",
+    "grid",
+    "list",
+    "layout"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

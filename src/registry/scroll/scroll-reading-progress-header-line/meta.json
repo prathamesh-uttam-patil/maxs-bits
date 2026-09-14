@@ -1,0 +1,25 @@
+{
+  "name": "Scroll Reading Progress Header Line",
+  "slug": "scroll-reading-progress-header-line",
+  "description": "Article reading progress indicator tracking scroll depth across long documents.",
+  "category": "scroll",
+  "tags": [
+    "scroll",
+    "progress",
+    "reading",
+    "header"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}

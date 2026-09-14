@@ -1,0 +1,24 @@
+{
+  "name": "Dock Glassmorphism Floating Dock",
+  "slug": "dock-glassmorphism-floating-dock",
+  "description": "Frosted glass floating app dock with active dot indicator and bounce reflection.",
+  "category": "dock",
+  "tags": [
+    "dock",
+    "glassmorphism",
+    "floating"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-14",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS classes to style the component container."
+    }
+  ]
+}
