@@ -2,7 +2,6 @@ import Link from "next/link";
 import { ArrowRight, Sparkles, Box, Layers } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
 import { HeroHeadline } from "@/components/site/hero-headline";
-import { HeroGradientWaves } from "@/components/site/hero-gradient-waves";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
@@ -24,7 +23,7 @@ export default function HomePage() {
       <div className="fixed inset-0 -z-10 overflow-hidden pointer-events-none">
         {/* Primary orb - top center */}
         <div
-          className="absolute -top-[200px] left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full opacity-[0.12]"
+          className="absolute -top-[200px] left-1/2 -translate-x-1/2 w-[800px] h-[800px] rounded-full opacity-[0.14]"
           style={{
             background: 'radial-gradient(circle, var(--primary) 0%, transparent 70%)',
             animation: 'float 8s ease-in-out infinite',
@@ -32,7 +31,7 @@ export default function HomePage() {
         />
         {/* Accent orb - right */}
         <div
-          className="absolute top-[40%] -right-[200px] w-[600px] h-[600px] rounded-full opacity-[0.08]"
+          className="absolute top-[40%] -right-[200px] w-[600px] h-[600px] rounded-full opacity-[0.10]"
           style={{
             background: 'radial-gradient(circle, var(--accent) 0%, transparent 70%)',
             animation: 'float 10s ease-in-out infinite reverse',
@@ -40,7 +39,7 @@ export default function HomePage() {
         />
         {/* Blue orb - bottom left */}
         <div
-          className="absolute -bottom-[100px] -left-[200px] w-[500px] h-[500px] rounded-full opacity-[0.06]"
+          className="absolute -bottom-[100px] -left-[200px] w-[500px] h-[500px] rounded-full opacity-[0.08]"
           style={{
             background: 'radial-gradient(circle, #3b82f6 0%, transparent 70%)',
             animation: 'float 12s ease-in-out infinite',
@@ -61,11 +60,19 @@ export default function HomePage() {
       `}</style>
 
       {/* ===== HERO SECTION ===== */}
-      <section className="relative overflow-hidden min-h-[520px] md:min-h-[620px] flex flex-col justify-center items-center pt-24 pb-20 md:pt-36 md:pb-32 w-full bg-white dark:bg-[#09090b]">
-        {/* Theme-Adaptive Gradient Waves WebGL Background */}
-        <HeroGradientWaves />
+      <section className="relative overflow-hidden min-h-[calc(100svh-140px)] md:min-h-[calc(100vh-160px)] flex flex-col justify-center items-center pt-16 pb-12 md:pt-24 md:pb-16 w-full">
+        {/* Radial spotlight */}
+        <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
+          <div
+            className="absolute top-0 left-1/2 -translate-x-1/2 w-full max-w-[1200px] h-[600px]"
+            style={{
+              background: 'radial-gradient(ellipse 80% 50% at 50% 0%, var(--primary) 0%, transparent 70%)',
+              opacity: 0.16,
+            }}
+          />
+        </div>
 
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full relative z-10">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full relative z-10 my-auto">
           {/* Badge */}
           <div className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-md px-4 py-1.5 text-sm text-[var(--foreground)] mb-8 shadow-sm max-w-full">
             <Sparkles className="w-4 h-4 text-[var(--primary)] shrink-0" />
@@ -82,12 +89,12 @@ export default function HomePage() {
         </div>
 
         {/* Decorative line */}
-        <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/30 to-transparent" />
+        <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/20 to-transparent" />
       </section>
 
       {/* ===== STATS ===== */}
       <section className="relative border-y border-[var(--border)] bg-[var(--card)]/50 backdrop-blur-sm overflow-hidden w-full">
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 py-8 sm:py-12 w-full">
+        <div className="max-w-5xl mx-auto px-4 sm:px-6 py-6 sm:py-8 w-full">
           <div className="grid grid-cols-3 gap-2 sm:gap-6 md:gap-8 text-center w-full">
             <div className="min-w-0">
               <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-[var(--primary)] truncate">{totalCount}</div>
