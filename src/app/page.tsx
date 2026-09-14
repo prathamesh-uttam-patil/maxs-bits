@@ -2,7 +2,7 @@ import Link from "next/link";
 import { ArrowRight, Sparkles, Box, Layers } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
 import { HeroHeadline } from "@/components/site/hero-headline";
-import GradientWaves from "@/components/GradientWaves";
+import { HeroGradientWaves } from "@/components/site/hero-gradient-waves";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
@@ -61,40 +61,14 @@ export default function HomePage() {
       `}</style>
 
       {/* ===== HERO SECTION ===== */}
-      <section className="relative overflow-hidden min-h-[540px] md:min-h-[640px] flex flex-col justify-center items-center pt-24 pb-20 md:pt-36 md:pb-32 w-full">
-        {/* Gradient Waves WebGL Background */}
-        <div className="absolute inset-0 -z-10 w-full h-full overflow-hidden">
-          <GradientWaves
-            horizonColor="#5227FF"
-            waveColor="#FF9FFC"
-            crestColor="#FFFFFF"
-            speed={0.4}
-            amplitude={2.5}
-            waveScale={0.6}
-            waveRatio={0.9}
-            swell={35}
-            turbulence={20}
-            tilt={1.11}
-            zoom={1.0}
-            height={5.5}
-            fogDepth={15}
-            detail="medium"
-            brightness={1.0}
-            opacity={0.88}
-            mouseInteraction={true}
-            parallaxStrength={0.5}
-            grain={true}
-            grainIntensity={0.05}
-          />
-          {/* Subtle gradient overlays for clean text contrast and smooth boundary blend */}
-          <div className="absolute inset-0 bg-gradient-to-b from-[var(--background)]/40 via-transparent to-[var(--background)] pointer-events-none" />
-          <div className="absolute inset-0 bg-black/25 pointer-events-none" />
-        </div>
+      <section className="relative overflow-hidden min-h-[520px] md:min-h-[620px] flex flex-col justify-center items-center pt-24 pb-20 md:pt-36 md:pb-32 w-full bg-white dark:bg-[#09090b]">
+        {/* Theme-Adaptive Gradient Waves WebGL Background */}
+        <HeroGradientWaves />
 
         <div className="max-w-5xl mx-auto px-4 sm:px-6 text-center w-full relative z-10">
           {/* Badge */}
-          <div className="inline-flex items-center gap-2 rounded-full border border-white/15 bg-black/40 backdrop-blur-md px-4 py-1.5 text-sm text-white/90 mb-8 shadow-lg max-w-full">
-            <Sparkles className="w-4 h-4 text-purple-400 shrink-0" />
+          <div className="inline-flex items-center gap-2 rounded-full border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-md px-4 py-1.5 text-sm text-[var(--foreground)] mb-8 shadow-sm max-w-full">
+            <Sparkles className="w-4 h-4 text-[var(--primary)] shrink-0" />
             <span className="truncate">{totalCount} components and growing</span>
           </div>
 
@@ -102,7 +76,7 @@ export default function HomePage() {
           <HeroHeadline />
 
           {/* Subtitle */}
-          <p className="text-base sm:text-lg md:text-xl text-neutral-200 max-w-2xl mx-auto leading-relaxed font-medium px-2 drop-shadow-sm">
+          <p className="text-base sm:text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto leading-relaxed font-medium px-2">
             Premium interactions without the premium effort.
           </p>
         </div>
