@@ -168,6 +168,7 @@ const d: Record<string, Record<string, React.ComponentType>> = {
     "starfield-bg": dynamic(() => import("@/registry/backgrounds/starfield-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "subtle-grain-mesh-bg": dynamic(() => import("@/registry/backgrounds/subtle-grain-mesh-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "topo-contour-lines-bg": dynamic(() => import("@/registry/backgrounds/topo-contour-lines-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
+    "velaris": dynamic(() => import("@/registry/backgrounds/velaris/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "vintage-scanline-crt-bg": dynamic(() => import("@/registry/backgrounds/vintage-scanline-crt-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
     "warp-speed-stars-bg": dynamic(() => import("@/registry/backgrounds/warp-speed-stars-bg/demo").then((m) => ({ default: m.Demo })), { ssr: false }),
   },

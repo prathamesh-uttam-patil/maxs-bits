@@ -1,0 +1,63 @@
+{
+  "name": "Velaris",
+  "slug": "velaris",
+  "description": "An animated simplex-noise WebGL background with color blending, vignette glow and film grain.",
+  "category": "backgrounds",
+  "tags": [
+    "backgrounds",
+    "webgl",
+    "noise",
+    "gradient",
+    "animated",
+    "grain",
+    "simplex"
+  ],
+  "isNew": true,
+  "author": "Max",
+  "createdAt": "2026-09-27",
+  "dependencies": [],
+  "props": [
+    {
+      "name": "bg",
+      "type": "string",
+      "required": false,
+      "default": "\"#000000\"",
+      "description": "Background base color in hex."
+    },
+    {
+      "name": "colors",
+      "type": "string[]",
+      "required": false,
+      "default": "[\"#86efac\", \"#4ade80\", \"#059669\", \"#000000\"]",
+      "description": "Array of up to 4 hex colors to blend."
+    },
+    {
+      "name": "speed",
+      "type": "number",
+      "required": false,
+      "default": "2.0",
+      "description": "Speed multiplier for noise animation."
+    },
+    {
+      "name": "grain",
+      "type": "number",
+      "required": false,
+      "default": "0.3",
+      "description": "Film grain noise intensity."
+    },
+    {
+      "name": "height",
+      "type": "string",
+      "required": false,
+      "default": "\"100vh\"",
+      "description": "Height of the canvas container."
+    },
+    {
+      "name": "className",
+      "type": "string",
+      "required": false,
+      "default": "\"\"",
+      "description": "Custom CSS class for outer container."
+    }
+  ]
+}
