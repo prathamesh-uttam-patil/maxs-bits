@@ -94,7 +94,8 @@ export interface VelarisProps {
   children?: React.ReactNode;
 }
 
-const DEFAULT_COLORS = ["#86efac", "#4ade80", "#059669", "#000000"];
+// Purple color palette: Radiant lilac, vivid violet, royal purple, dark base
+const DEFAULT_COLORS = ["#c084fc", "#a855f7", "#6d28d9", "#000000"];
 
 const Velaris = ({
   bg = "#000000",

@@ -3,6 +3,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
 import { HeroHeadline } from "@/components/site/hero-headline";
 import { CategorySection } from "@/components/site/category-section";
+import Velaris from "@/components/ui/velaris";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
@@ -67,6 +68,18 @@ export default function HomePage() {
 
       {/* ===== HERO SECTION ===== */}
       <section className="relative overflow-hidden min-h-[75vh] md:min-h-[580px] flex flex-col justify-center items-center py-16 md:py-20 w-full">
+        {/* Velaris purple WebGL living background */}
+        <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none opacity-40 dark:opacity-75">
+          <Velaris
+            height="100%"
+            colors={["#c084fc", "#a855f7", "#6d28d9", "#000000"]}
+            bg="#000000"
+            speed={1.5}
+            grain={0.2}
+            className="w-full h-full"
+          />
+        </div>
+
         {/* Radial spotlight */}
         <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
           <div
