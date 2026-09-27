@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X } from "lucide-react";
+import { Menu, X, ChevronLeft, ChevronRight } from "lucide-react";
 
 function GithubIcon({ className }: { className?: string }) {
   return (
@@ -11,7 +11,7 @@ function GithubIcon({ className }: { className?: string }) {
     </svg>
   );
 }
-import { useState } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { ThemeToggle } from "./theme-toggle";
 import { cn } from "@/lib/utils";
 
@@ -49,6 +49,32 @@ const navLinks = [
 export function Navbar() {
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
+  const navRef = useRef<HTMLElement>(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(true);
+
+  const checkScroll = useCallback(() => {
+    if (navRef.current) {
+      const { scrollLeft, scrollWidth, clientWidth } = navRef.current;
+      setCanScrollLeft(scrollLeft > 4);
+      setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 4);
+    }
+  }, []);
+
+  useEffect(() => {
+    checkScroll();
+    window.addEventListener("resize", checkScroll);
+    return () => window.removeEventListener("resize", checkScroll);
+  }, [checkScroll]);
+
+  const scrollNav = (direction: "left" | "right") => {
+    if (navRef.current) {
+      navRef.current.scrollBy({
+        left: direction === "left" ? -260 : 260,
+        behavior: "smooth",
+      });
+    }
+  };
 
   return (
     <header className="sticky top-0 z-50 w-full bg-[var(--background)]/80 backdrop-blur-xl">
@@ -90,10 +116,30 @@ export function Navbar() {
         </div>
       </div>
 
-      {/* Category nav bar — horizontally scrollable */}
-      <div className="hidden md:block border-b border-[var(--border)] bg-[var(--background)]/60">
-        <div className="max-w-6xl mx-auto px-6">
-          <nav className="flex items-center gap-0.5 overflow-x-auto scrollbar-hide py-2" style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}>
+      {/* Category nav bar — horizontally scrollable with visual indicators & controls */}
+      <div className="hidden md:block border-b border-[var(--border)] bg-[var(--background)]/70 relative">
+        <div className="max-w-6xl mx-auto px-4 relative flex items-center">
+          {/* Left scroll button + fade indicator */}
+          {canScrollLeft && (
+            <div className="absolute left-0 top-0 bottom-0 flex items-center z-10 pl-2 pr-6 bg-gradient-to-r from-[var(--background)] via-[var(--background)]/90 to-transparent">
+              <button
+                type="button"
+                onClick={() => scrollNav("left")}
+                aria-label="Scroll left in categories"
+                className="p-1 rounded-full bg-[var(--card)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--secondary)] shadow-sm transition-all"
+              >
+                <ChevronLeft className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          )}
+
+          <nav
+            ref={navRef}
+            onScroll={checkScroll}
+            aria-label="Categories navigation"
+            className="flex items-center gap-0.5 overflow-x-auto scrollbar-hide py-2 scroll-smooth w-full"
+            style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+          >
             {navLinks.map((link) => (
               <Link
                 key={link.href}
@@ -101,7 +147,7 @@ export function Navbar() {
                 className={cn(
                   "px-3 py-1.5 rounded-md text-xs font-medium whitespace-nowrap transition-colors shrink-0",
                   pathname?.startsWith(link.href)
-                    ? "text-[var(--primary)] bg-[var(--primary)]/10"
+                    ? "text-[var(--primary)] bg-[var(--primary)]/10 font-semibold"
                     : "text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--secondary)]"
                 )}
               >
@@ -109,6 +155,20 @@ export function Navbar() {
               </Link>
             ))}
           </nav>
+
+          {/* Right scroll button + fade indicator */}
+          {canScrollRight && (
+            <div className="absolute right-0 top-0 bottom-0 flex items-center z-10 pr-2 pl-6 bg-gradient-to-l from-[var(--background)] via-[var(--background)]/90 to-transparent">
+              <button
+                type="button"
+                onClick={() => scrollNav("right")}
+                aria-label="Scroll right in categories"
+                className="p-1 rounded-full bg-[var(--card)] border border-[var(--border)] text-[var(--muted-foreground)] hover:text-[var(--foreground)] hover:bg-[var(--secondary)] shadow-sm transition-all"
+              >
+                <ChevronRight className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          )}
         </div>
       </div>
 

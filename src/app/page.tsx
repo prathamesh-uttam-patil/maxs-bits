@@ -1,12 +1,18 @@
 import Link from "next/link";
-import { ArrowRight, Sparkles, Box, Layers } from "lucide-react";
+import { ArrowRight, Sparkles } from "lucide-react";
 import { getAllComponents, getCategories } from "@/lib/registry";
 import { HeroHeadline } from "@/components/site/hero-headline";
+import { CategorySection } from "@/components/site/category-section";
 
 export default function HomePage() {
   const allComponents = getAllComponents();
   const categories = getCategories();
   const totalCount = allComponents.length;
+
+  const categoryItems = categories.map((cat) => ({
+    name: cat,
+    count: allComponents.filter((c) => c.category === cat).length,
+  }));
 
   return (
     <div className="relative w-full overflow-x-hidden">
@@ -60,7 +66,7 @@ export default function HomePage() {
       `}</style>
 
       {/* ===== HERO SECTION ===== */}
-      <section className="relative overflow-hidden min-h-[calc(100svh-3.5rem)] md:min-h-[calc(100vh-5.75rem)] flex flex-col justify-center items-center py-10 md:py-12 w-full">
+      <section className="relative overflow-hidden min-h-[75vh] md:min-h-[580px] flex flex-col justify-center items-center py-16 md:py-20 w-full">
         {/* Radial spotlight */}
         <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
           <div
@@ -83,62 +89,36 @@ export default function HomePage() {
           <HeroHeadline />
 
           {/* Subtitle */}
-          <p className="text-base sm:text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto leading-relaxed font-medium px-2">
+          <p className="text-base sm:text-lg md:text-xl text-[var(--muted-foreground)] max-w-2xl mx-auto leading-relaxed font-medium px-2 mb-8">
             Premium interactions without the premium effort.
           </p>
+
+          {/* Primary CTA Button Group */}
+          <div className="flex flex-wrap items-center justify-center gap-4 relative z-20">
+            <Link
+              href="#categories"
+              className="inline-flex items-center gap-2 rounded-xl bg-[var(--primary)] text-[var(--primary-foreground)] px-7 py-3.5 text-sm sm:text-base font-semibold transition-all hover:opacity-90 shadow-lg shadow-[var(--primary)]/25 active:scale-95"
+            >
+              Browse Components
+              <ArrowRight className="w-4 h-4" />
+            </Link>
+            <a
+              href="https://github.com/prathamesh-uttam-patil/maxs-bits"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-sm px-6 py-3.5 text-sm sm:text-base font-semibold text-[var(--foreground)] hover:bg-[var(--secondary)] transition-all active:scale-95"
+            >
+              GitHub
+            </a>
+          </div>
         </div>
 
         {/* Decorative line */}
         <div className="absolute bottom-0 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[var(--primary)]/20 to-transparent" />
       </section>
 
-      {/* ===== CATEGORIES ===== */}
-      <section className="relative py-16 md:py-24 overflow-hidden w-full">
-        {/* Section background accent */}
-        <div className="absolute inset-0 -z-10 overflow-hidden pointer-events-none">
-          <div
-            className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[600px] h-[400px] rounded-full opacity-[0.05]"
-            style={{ background: 'radial-gradient(circle, var(--accent) 0%, transparent 70%)' }}
-          />
-        </div>
-
-        <div className="max-w-5xl mx-auto px-4 sm:px-6 w-full">
-          <div className="text-center mb-14">
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">Browse by Category</h2>
-            <p className="text-[var(--muted-foreground)] text-lg">
-              Find the perfect component for your next project
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-            {categories.map((category) => {
-              const count = allComponents.filter((c) => c.category === category).length;
-              return (
-                <Link
-                  key={category}
-                  href={`/components/${category}`}
-                  className="group relative flex items-center gap-4 rounded-xl border border-[var(--border)] bg-[var(--card)]/80 backdrop-blur-sm p-6 transition-all hover:border-[var(--primary)] hover:shadow-lg hover:shadow-[var(--primary)]/5"
-                >
-                  <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-[var(--primary)]/10 text-[var(--primary)]">
-                    {category === "buttons" ? (
-                      <Box className="w-6 h-6" />
-                    ) : (
-                      <Layers className="w-6 h-6" />
-                    )}
-                  </div>
-                  <div>
-                    <h3 className="font-semibold capitalize text-lg">{category}</h3>
-                    <p className="text-sm text-[var(--muted-foreground)]">
-                      {count} component{count !== 1 ? "s" : ""}
-                    </p>
-                  </div>
-                  <ArrowRight className="w-5 h-5 ml-auto text-[var(--muted-foreground)] transition-transform group-hover:translate-x-1 group-hover:text-[var(--primary)]" />
-                </Link>
-              );
-            })}
-          </div>
-        </div>
-      </section>
+      {/* ===== CATEGORIES (with search & unique icons) ===== */}
+      <CategorySection categories={categoryItems} />
 
       {/* ===== STATS ===== */}
       <section className="relative border-y border-[var(--border)] bg-[var(--card)]/50 backdrop-blur-sm overflow-hidden w-full mb-12">
